@@ -3,140 +3,7119 @@
     "id": 0,
     "character": "我",
     "pinyin": "wǒ",
-    "meaningEn": "I / Me",
-    "meaningRu": "Я"
+    "meaningEn": "I; me",
+    "meaningRu": ""
   },
   {
     "id": 1,
     "character": "你",
     "pinyin": "nǐ",
-    "meaningEn": "You",
-    "meaningRu": "Ты"
+    "meaningEn": "you (singular)",
+    "meaningRu": ""
   },
   {
     "id": 2,
-    "character": "特",
-    "pinyin": "tè",
-    "meaningEn": "Special",
-    "meaningRu": "Особенный"
+    "character": "您",
+    "pinyin": "nín",
+    "meaningEn": "you (polite)",
+    "meaningRu": ""
   },
   {
     "id": 3,
-    "character": "一",
-    "pinyin": "yī",
-    "meaningEn": "One",
-    "meaningRu": "Один"
+    "character": "他",
+    "pinyin": "tā",
+    "meaningEn": "he; him",
+    "meaningRu": ""
   },
   {
     "id": 4,
-    "character": "二",
-    "pinyin": "èr",
-    "meaningEn": "Two",
-    "meaningRu": "Два"
+    "character": "她",
+    "pinyin": "tā",
+    "meaningEn": "she; her",
+    "meaningRu": ""
   },
   {
     "id": 5,
-    "character": "三",
-    "pinyin": "sān",
-    "meaningEn": "Three",
-    "meaningRu": "Три"
+    "character": "这",
+    "pinyin": "zhè (zhèi)",
+    "meaningEn": "this",
+    "meaningRu": ""
   },
   {
     "id": 6,
-    "character": "人",
-    "pinyin": "rén",
-    "meaningEn": "Person",
-    "meaningRu": "Человек"
+    "character": "那",
+    "pinyin": "nà (nèi)",
+    "meaningEn": "that",
+    "meaningRu": ""
   },
   {
     "id": 7,
-    "character": "山",
-    "pinyin": "shān",
-    "meaningEn": "Mountain",
-    "meaningRu": "Гора"
+    "character": "哪",
+    "pinyin": "nǎ (něi)",
+    "meaningEn": "which",
+    "meaningRu": ""
   },
   {
     "id": 8,
-    "character": "水",
-    "pinyin": "shuǐ",
-    "meaningEn": "Water",
-    "meaningRu": "Вода"
+    "character": "谁",
+    "pinyin": "shéi (shuí)",
+    "meaningEn": "who; whom",
+    "meaningRu": ""
   },
   {
     "id": 9,
-    "character": "日",
-    "pinyin": "rì",
-    "meaningEn": "Sun",
-    "meaningRu": "Солнце"
+    "character": "几",
+    "pinyin": "jǐ",
+    "meaningEn": "how many; a few (usually < 10)",
+    "meaningRu": ""
   },
   {
     "id": 10,
-    "character": "月",
-    "pinyin": "yuè",
-    "meaningEn": "Moon",
-    "meaningRu": "Луна"
+    "character": "零",
+    "pinyin": "líng",
+    "meaningEn": "zero",
+    "meaningRu": ""
   },
   {
     "id": 11,
-    "character": "木",
-    "pinyin": "mù",
-    "meaningEn": "Tree / Wood",
-    "meaningRu": "Дерево"
+    "character": "一",
+    "pinyin": "yī",
+    "meaningEn": "one",
+    "meaningRu": ""
   },
   {
     "id": 12,
-    "character": "火",
-    "pinyin": "huǒ",
-    "meaningEn": "Fire",
-    "meaningRu": "Огонь"
+    "character": "二",
+    "pinyin": "èr",
+    "meaningEn": "two",
+    "meaningRu": ""
   },
   {
     "id": 13,
-    "character": "口",
-    "pinyin": "kǒu",
-    "meaningEn": "Mouth",
-    "meaningRu": "Рот"
+    "character": "三",
+    "pinyin": "sān",
+    "meaningEn": "three",
+    "meaningRu": ""
   },
   {
     "id": 14,
-    "character": "手",
-    "pinyin": "shǒu",
-    "meaningEn": "Hand",
-    "meaningRu": "Рука"
+    "character": "四",
+    "pinyin": "sì",
+    "meaningEn": "four",
+    "meaningRu": ""
   },
   {
     "id": 15,
-    "character": "女",
-    "pinyin": "nǚ",
-    "meaningEn": "Woman",
-    "meaningRu": "Женщина"
+    "character": "五",
+    "pinyin": "wǔ",
+    "meaningEn": "five",
+    "meaningRu": ""
   },
   {
     "id": 16,
-    "character": "心",
-    "pinyin": "xīn",
-    "meaningEn": "Heart",
-    "meaningRu": "Сердце"
+    "character": "六",
+    "pinyin": "liù",
+    "meaningEn": "six",
+    "meaningRu": ""
   },
   {
     "id": 17,
-    "character": "天",
-    "pinyin": "tiān",
-    "meaningEn": "Sky / Heaven",
-    "meaningRu": "Небо"
+    "character": "七",
+    "pinyin": "qī",
+    "meaningEn": "seven",
+    "meaningRu": ""
   },
   {
     "id": 18,
-    "character": "明",
-    "pinyin": "míng",
-    "meaningEn": "Bright",
-    "meaningRu": "Яркий"
+    "character": "八",
+    "pinyin": "bā",
+    "meaningEn": "eight",
+    "meaningRu": ""
   },
   {
     "id": 19,
+    "character": "九",
+    "pinyin": "jiǔ",
+    "meaningEn": "nine",
+    "meaningRu": ""
+  },
+  {
+    "id": 20,
+    "character": "十",
+    "pinyin": "shí",
+    "meaningEn": "ten",
+    "meaningRu": ""
+  },
+  {
+    "id": 21,
+    "character": "百",
+    "pinyin": "bǎi",
+    "meaningEn": "hundred",
+    "meaningRu": ""
+  },
+  {
+    "id": 22,
+    "character": "两",
+    "pinyin": "liǎng",
+    "meaningEn": "two (quantities)",
+    "meaningRu": ""
+  },
+  {
+    "id": 23,
+    "character": "第",
+    "pinyin": "dì",
+    "meaningEn": "prefix for ordinal numbers (e.g., first)",
+    "meaningRu": ""
+  },
+  {
+    "id": 24,
+    "character": "半",
+    "pinyin": "bàn",
+    "meaningEn": "half",
+    "meaningRu": ""
+  },
+  {
+    "id": 25,
+    "character": "毛",
+    "pinyin": "máo",
+    "meaningEn": "10-cent unit of money",
+    "meaningRu": ""
+  },
+  {
+    "id": 26,
+    "character": "元",
+    "pinyin": "yuán",
+    "meaningEn": "yuan (currency unit)",
+    "meaningRu": ""
+  },
+  {
+    "id": 27,
+    "character": "个",
+    "pinyin": "gè",
+    "meaningEn": "general measure word",
+    "meaningRu": ""
+  },
+  {
+    "id": 28,
+    "character": "岁",
+    "pinyin": "suì",
+    "meaningEn": "year of age",
+    "meaningRu": ""
+  },
+  {
+    "id": 29,
+    "character": "本",
+    "pinyin": "běn",
+    "meaningEn": "measure word for books, files",
+    "meaningRu": ""
+  },
+  {
+    "id": 30,
+    "character": "块",
+    "pinyin": "kuài",
+    "meaningEn": "piece; lump; colloquial unit of money",
+    "meaningRu": ""
+  },
+  {
+    "id": 31,
+    "character": "杯",
+    "pinyin": "bēi",
+    "meaningEn": "cup; glass (measure word)",
+    "meaningRu": ""
+  },
+  {
+    "id": 32,
+    "character": "次",
+    "pinyin": "cì",
+    "meaningEn": "time; occurrence",
+    "meaningRu": ""
+  },
+  {
+    "id": 33,
+    "character": "下",
+    "pinyin": "xià",
+    "meaningEn": "measure word for action count",
+    "meaningRu": ""
+  },
+  {
+    "id": 34,
+    "character": "口",
+    "pinyin": "kǒu",
+    "meaningEn": "mouthful; measure word for family members",
+    "meaningRu": ""
+  },
+  {
+    "id": 35,
+    "character": "分",
+    "pinyin": "fēn",
+    "meaningEn": "minute; point; cent",
+    "meaningRu": ""
+  },
+  {
+    "id": 36,
+    "character": "间",
+    "pinyin": "jiān",
+    "meaningEn": "measure word for rooms",
+    "meaningRu": ""
+  },
+  {
+    "id": 37,
+    "character": "年",
+    "pinyin": "nián",
+    "meaningEn": "year",
+    "meaningRu": ""
+  },
+  {
+    "id": 38,
+    "character": "月",
+    "pinyin": "yuè",
+    "meaningEn": "month; moon",
+    "meaningRu": ""
+  },
+  {
+    "id": 39,
+    "character": "日",
+    "pinyin": "rì",
+    "meaningEn": "day; sun; date",
+    "meaningRu": ""
+  },
+  {
+    "id": 40,
+    "character": "号",
+    "pinyin": "hào",
+    "meaningEn": "day of the month; number",
+    "meaningRu": ""
+  },
+  {
+    "id": 41,
+    "character": "点",
+    "pinyin": "diǎn",
+    "meaningEn": "o'clock; dot; spot",
+    "meaningRu": ""
+  },
+  {
+    "id": 42,
+    "character": "人",
+    "pinyin": "rén",
+    "meaningEn": "person; people",
+    "meaningRu": ""
+  },
+  {
+    "id": 43,
+    "character": "男",
+    "pinyin": "nán",
+    "meaningEn": "male",
+    "meaningRu": ""
+  },
+  {
+    "id": 44,
+    "character": "女",
+    "pinyin": "nǚ",
+    "meaningEn": "female",
+    "meaningRu": ""
+  },
+  {
+    "id": 45,
+    "character": "家",
+    "pinyin": "jiā",
+    "meaningEn": "home; family",
+    "meaningRu": ""
+  },
+  {
+    "id": 46,
+    "character": "北",
+    "pinyin": "běi",
+    "meaningEn": "north",
+    "meaningRu": ""
+  },
+  {
+    "id": 47,
+    "character": "东",
+    "pinyin": "dōng",
+    "meaningEn": "east",
+    "meaningRu": ""
+  },
+  {
+    "id": 48,
+    "character": "国",
+    "pinyin": "guó",
+    "meaningEn": "country; nation",
+    "meaningRu": ""
+  },
+  {
+    "id": 49,
+    "character": "楼",
+    "pinyin": "lóu",
+    "meaningEn": "building; floor",
+    "meaningRu": ""
+  },
+  {
+    "id": 50,
+    "character": "路",
+    "pinyin": "lù",
+    "meaningEn": "road; way",
+    "meaningRu": ""
+  },
+  {
+    "id": 51,
+    "character": "南",
+    "pinyin": "nán",
+    "meaningEn": "south",
+    "meaningRu": ""
+  },
+  {
+    "id": 52,
+    "character": "西",
+    "pinyin": "xī",
+    "meaningEn": "west",
+    "meaningRu": ""
+  },
+  {
+    "id": 53,
+    "character": "后",
+    "pinyin": "hòu",
+    "meaningEn": "behind; after",
+    "meaningRu": ""
+  },
+  {
+    "id": 54,
+    "character": "里",
+    "pinyin": "lǐ",
+    "meaningEn": "inside; in",
+    "meaningRu": ""
+  },
+  {
+    "id": 55,
+    "character": "前",
+    "pinyin": "qián",
+    "meaningEn": "front; before",
+    "meaningRu": ""
+  },
+  {
+    "id": 56,
+    "character": "上",
+    "pinyin": "shàng",
+    "meaningEn": "on; above; to go (to a place)",
+    "meaningRu": ""
+  },
+  {
+    "id": 57,
+    "character": "外",
+    "pinyin": "wài",
+    "meaningEn": "outside",
+    "meaningRu": ""
+  },
+  {
+    "id": 58,
+    "character": "右",
+    "pinyin": "yòu",
+    "meaningEn": "right (side)",
+    "meaningRu": ""
+  },
+  {
+    "id": 59,
+    "character": "中",
+    "pinyin": "zhōng",
+    "meaningEn": "middle; in; among",
+    "meaningRu": ""
+  },
+  {
+    "id": 60,
+    "character": "左",
+    "pinyin": "zuǒ",
+    "meaningEn": "left (side)",
+    "meaningRu": ""
+  },
+  {
+    "id": 61,
+    "character": "钱",
+    "pinyin": "qián",
+    "meaningEn": "money",
+    "meaningRu": ""
+  },
+  {
+    "id": 62,
+    "character": "水",
+    "pinyin": "shuǐ",
+    "meaningEn": "water",
+    "meaningRu": ""
+  },
+  {
+    "id": 63,
+    "character": "茶",
+    "pinyin": "chá",
+    "meaningEn": "tea",
+    "meaningRu": ""
+  },
+  {
+    "id": 64,
+    "character": "饭",
+    "pinyin": "fàn",
+    "meaningEn": "cooked rice; meal",
+    "meaningRu": ""
+  },
+  {
+    "id": 65,
+    "character": "菜",
+    "pinyin": "cài",
+    "meaningEn": "vegetable; dish; cuisine",
+    "meaningRu": ""
+  },
+  {
+    "id": 66,
+    "character": "肉",
+    "pinyin": "ròu",
+    "meaningEn": "meat; flesh",
+    "meaningRu": ""
+  },
+  {
+    "id": 67,
+    "character": "床",
+    "pinyin": "chuáng",
+    "meaningEn": "bed",
+    "meaningRu": ""
+  },
+  {
+    "id": 68,
+    "character": "门",
+    "pinyin": "mén",
+    "meaningEn": "door; gate",
+    "meaningRu": ""
+  },
+  {
+    "id": 69,
+    "character": "包",
+    "pinyin": "bāo",
+    "meaningEn": "bag; to wrap",
+    "meaningRu": ""
+  },
+  {
+    "id": 70,
+    "character": "奶",
+    "pinyin": "nǎi",
+    "meaningEn": "milk (short for 牛奶)",
+    "meaningRu": ""
+  },
+  {
+    "id": 71,
+    "character": "球",
+    "pinyin": "qiú",
+    "meaningEn": "ball",
+    "meaningRu": ""
+  },
+  {
+    "id": 72,
+    "character": "书",
+    "pinyin": "shū",
+    "meaningEn": "book",
+    "meaningRu": ""
+  },
+  {
+    "id": 73,
+    "character": "票",
+    "pinyin": "piào",
+    "meaningEn": "ticket",
+    "meaningRu": ""
+  },
+  {
+    "id": 74,
+    "character": "车",
+    "pinyin": "chē",
+    "meaningEn": "vehicle; car",
+    "meaningRu": ""
+  },
+  {
+    "id": 75,
+    "character": "电",
+    "pinyin": "diàn",
+    "meaningEn": "electricity",
+    "meaningRu": ""
+  },
+  {
+    "id": 76,
+    "character": "歌",
+    "pinyin": "gē",
+    "meaningEn": "song",
+    "meaningRu": ""
+  },
+  {
+    "id": 77,
+    "character": "天",
+    "pinyin": "tiān",
+    "meaningEn": "sky; day; heaven",
+    "meaningRu": ""
+  },
+  {
+    "id": 78,
+    "character": "风",
+    "pinyin": "fēng",
+    "meaningEn": "wind",
+    "meaningRu": ""
+  },
+  {
+    "id": 79,
+    "character": "雨",
+    "pinyin": "yǔ",
+    "meaningEn": "rain",
+    "meaningRu": ""
+  },
+  {
+    "id": 80,
+    "character": "花",
+    "pinyin": "huā",
+    "meaningEn": "flower; blossom",
+    "meaningRu": ""
+  },
+  {
+    "id": 81,
+    "character": "树",
+    "pinyin": "shù",
+    "meaningEn": "tree",
+    "meaningRu": ""
+  },
+  {
+    "id": 82,
+    "character": "山",
+    "pinyin": "shān",
+    "meaningEn": "mountain; hill",
+    "meaningRu": ""
+  },
+  {
+    "id": 83,
+    "character": "事",
+    "pinyin": "shì",
+    "meaningEn": "matter; thing; affair",
+    "meaningRu": ""
+  },
+  {
+    "id": 84,
+    "character": "手",
+    "pinyin": "shǒu",
+    "meaningEn": "hand",
+    "meaningRu": ""
+  },
+  {
+    "id": 85,
+    "character": "是",
+    "pinyin": "shì",
+    "meaningEn": "to be (am, is, are); yes",
+    "meaningRu": ""
+  },
+  {
+    "id": 86,
+    "character": "有",
+    "pinyin": "yǒu",
+    "meaningEn": "to have; there is/are",
+    "meaningRu": ""
+  },
+  {
+    "id": 87,
+    "character": "去",
+    "pinyin": "qù",
+    "meaningEn": "to go",
+    "meaningRu": ""
+  },
+  {
+    "id": 88,
+    "character": "来",
+    "pinyin": "lái",
+    "meaningEn": "to come",
+    "meaningRu": ""
+  },
+  {
+    "id": 89,
+    "character": "回",
+    "pinyin": "huí",
+    "meaningEn": "to return; to go back",
+    "meaningRu": ""
+  },
+  {
+    "id": 90,
+    "character": "走",
+    "pinyin": "zǒu",
+    "meaningEn": "to walk; to leave; to go",
+    "meaningRu": ""
+  },
+  {
+    "id": 91,
+    "character": "跑",
+    "pinyin": "pǎo",
+    "meaningEn": "to run",
+    "meaningRu": ""
+  },
+  {
+    "id": 92,
+    "character": "坐",
+    "pinyin": "zuò",
+    "meaningEn": "to sit; to ride/travel by (bus, train)",
+    "meaningRu": ""
+  },
+  {
+    "id": 93,
+    "character": "站",
+    "pinyin": "zhàn",
+    "meaningEn": "to stand; station; stop",
+    "meaningRu": ""
+  },
+  {
+    "id": 94,
+    "character": "住",
+    "pinyin": "zhù",
+    "meaningEn": "to live; to stay; to reside",
+    "meaningRu": ""
+  },
+  {
+    "id": 95,
+    "character": "飞",
+    "pinyin": "fēi",
+    "meaningEn": "to fly",
+    "meaningRu": ""
+  },
+  {
+    "id": 96,
+    "character": "进",
+    "pinyin": "jìn",
+    "meaningEn": "to enter; to move forward",
+    "meaningRu": ""
+  },
+  {
+    "id": 97,
+    "character": "出",
+    "pinyin": "chū",
+    "meaningEn": "to go out; to produce",
+    "meaningRu": ""
+  },
+  {
+    "id": 98,
+    "character": "过",
+    "pinyin": "guò",
+    "meaningEn": "to cross; to pass; spend time",
+    "meaningRu": ""
+  },
+  {
+    "id": 99,
+    "character": "到",
+    "pinyin": "dào",
+    "meaningEn": "to arrive; reach; up to",
+    "meaningRu": ""
+  },
+  {
+    "id": 100,
+    "character": "动",
+    "pinyin": "dòng",
+    "meaningEn": "to move",
+    "meaningRu": ""
+  },
+  {
+    "id": 101,
+    "character": "见",
+    "pinyin": "jiàn",
+    "meaningEn": "to see",
+    "meaningRu": ""
+  },
+  {
+    "id": 102,
+    "character": "起",
+    "pinyin": "qǐ",
+    "meaningEn": "to rise; to get up",
+    "meaningRu": ""
+  },
+  {
+    "id": 103,
+    "character": "要",
+    "pinyin": "yào",
+    "meaningEn": "to want; will; to need",
+    "meaningRu": ""
+  },
+  {
+    "id": 104,
+    "character": "看",
+    "pinyin": "kàn",
+    "meaningEn": "to look; to watch; to read",
+    "meaningRu": ""
+  },
+  {
+    "id": 105,
+    "character": "听",
+    "pinyin": "tīng",
+    "meaningEn": "to listen; to hear",
+    "meaningRu": ""
+  },
+  {
+    "id": 106,
+    "character": "说",
+    "pinyin": "shuō",
+    "meaningEn": "to speak; to say; to talk",
+    "meaningRu": ""
+  },
+  {
+    "id": 107,
+    "character": "读",
+    "pinyin": "dú",
+    "meaningEn": "to read aloud; to study",
+    "meaningRu": ""
+  },
+  {
+    "id": 108,
+    "character": "写",
+    "pinyin": "xiě",
+    "meaningEn": "to write",
+    "meaningRu": ""
+  },
+  {
+    "id": 109,
+    "character": "吃",
+    "pinyin": "chī",
+    "meaningEn": "to eat",
+    "meaningRu": ""
+  },
+  {
+    "id": 110,
+    "character": "喝",
+    "pinyin": "hē",
+    "meaningEn": "to drink",
+    "meaningRu": ""
+  },
+  {
+    "id": 111,
+    "character": "买",
+    "pinyin": "mǎi",
+    "meaningEn": "to buy",
+    "meaningRu": ""
+  },
+  {
+    "id": 112,
+    "character": "穿",
+    "pinyin": "chuān",
+    "meaningEn": "to wear; to put on (clothes, shoes)",
+    "meaningRu": ""
+  },
+  {
+    "id": 113,
+    "character": "洗",
+    "pinyin": "xǐ",
+    "meaningEn": "to wash; to bathe",
+    "meaningRu": ""
+  },
+  {
+    "id": 114,
+    "character": "给",
+    "pinyin": "gěi",
+    "meaningEn": "to give; to; for",
+    "meaningRu": ""
+  },
+  {
+    "id": 115,
+    "character": "找",
+    "pinyin": "zhǎo",
+    "meaningEn": "to look for; to find",
+    "meaningRu": ""
+  },
+  {
+    "id": 116,
+    "character": "问",
+    "pinyin": "wèn",
+    "meaningEn": "to ask",
+    "meaningRu": ""
+  },
+  {
+    "id": 117,
+    "character": "等",
+    "pinyin": "děng",
+    "meaningEn": "to wait; class; grade; and so on",
+    "meaningRu": ""
+  },
+  {
+    "id": 118,
+    "character": "拿",
+    "pinyin": "ná",
+    "meaningEn": "to take; to hold; to bring",
+    "meaningRu": ""
+  },
+  {
+    "id": 119,
+    "character": "放",
+    "pinyin": "fàng",
+    "meaningEn": "to put; to place; to release",
+    "meaningRu": ""
+  },
+  {
+    "id": 120,
+    "character": "送",
+    "pinyin": "sòng",
+    "meaningEn": "to deliver; to carry; to give as gift",
+    "meaningRu": ""
+  },
+  {
+    "id": 121,
+    "character": "开",
+    "pinyin": "kāi",
+    "meaningEn": "to open; to drive; to turn on",
+    "meaningRu": ""
+  },
+  {
+    "id": 122,
+    "character": "关",
+    "pinyin": "guān",
+    "meaningEn": "to close; to turn off; to shut",
+    "meaningRu": ""
+  },
+  {
+    "id": 123,
+    "character": "打",
+    "pinyin": "dǎ",
+    "meaningEn": "to hit; to play (games); to make (phone calls)",
+    "meaningRu": ""
+  },
+  {
+    "id": 124,
+    "character": "做",
+    "pinyin": "zuò",
+    "meaningEn": "to do; to make; to prepare",
+    "meaningRu": ""
+  },
+  {
+    "id": 125,
+    "character": "用",
+    "pinyin": "yòng",
+    "meaningEn": "to use",
+    "meaningRu": ""
+  },
+  {
+    "id": 126,
+    "character": "帮",
+    "pinyin": "bāng",
+    "meaningEn": "to help; to assist",
+    "meaningRu": ""
+  },
+  {
+    "id": 127,
+    "character": "谢",
+    "pinyin": "xiè",
+    "meaningEn": "to thank",
+    "meaningRu": ""
+  },
+  {
+    "id": 128,
+    "character": "教",
+    "pinyin": "jiāo",
+    "meaningEn": "to teach; to instruct",
+    "meaningRu": ""
+  },
+  {
+    "id": 129,
+    "character": "还",
+    "pinyin": "huán",
+    "meaningEn": "to return (something borrowed)",
+    "meaningRu": ""
+  },
+  {
+    "id": 130,
+    "character": "话",
+    "pinyin": "huà",
+    "meaningEn": "word; speech",
+    "meaningRu": ""
+  },
+  {
+    "id": 131,
+    "character": "记",
+    "pinyin": "jì",
+    "meaningEn": "to remember; to record",
+    "meaningRu": ""
+  },
+  {
+    "id": 132,
+    "character": "叫",
+    "pinyin": "jiào",
+    "meaningEn": "to call; to be called; to order",
+    "meaningRu": ""
+  },
+  {
+    "id": 133,
+    "character": "请",
+    "pinyin": "qǐng",
+    "meaningEn": "please; to invite",
+    "meaningRu": ""
+  },
+  {
+    "id": 134,
+    "character": "学",
+    "pinyin": "xué",
+    "meaningEn": "to study; to learn",
+    "meaningRu": ""
+  },
+  {
+    "id": 135,
+    "character": "笑",
+    "pinyin": "xiào",
+    "meaningEn": "to laugh; to smile",
+    "meaningRu": ""
+  },
+  {
+    "id": 136,
+    "character": "想",
+    "pinyin": "xiǎng",
+    "meaningEn": "to want; to think; to miss",
+    "meaningRu": ""
+  },
+  {
+    "id": 137,
+    "character": "爱",
+    "pinyin": "ài",
+    "meaningEn": "to love",
+    "meaningRu": ""
+  },
+  {
+    "id": 138,
+    "character": "会",
+    "pinyin": "huì",
+    "meaningEn": "can; know how to; will; meeting",
+    "meaningRu": ""
+  },
+  {
+    "id": 139,
+    "character": "能",
+    "pinyin": "néng",
+    "meaningEn": "can; be able to",
+    "meaningRu": ""
+  },
+  {
+    "id": 140,
+    "character": "忘",
+    "pinyin": "wàng",
+    "meaningEn": "to forget",
+    "meaningRu": ""
+  },
+  {
+    "id": 141,
+    "character": "病",
+    "pinyin": "bìng",
+    "meaningEn": "illness; disease; to fall ill",
+    "meaningRu": ""
+  },
+  {
+    "id": 142,
+    "character": "唱",
+    "pinyin": "chàng",
+    "meaningEn": "to sing",
+    "meaningRu": ""
+  },
+  {
+    "id": 143,
+    "character": "干",
+    "pinyin": "gàn",
+    "meaningEn": "to do; to work",
+    "meaningRu": ""
+  },
+  {
+    "id": 144,
+    "character": "试",
+    "pinyin": "shì",
+    "meaningEn": "to try; to test",
+    "meaningRu": ""
+  },
+  {
+    "id": 145,
+    "character": "睡",
+    "pinyin": "shuì",
+    "meaningEn": "to sleep",
+    "meaningRu": ""
+  },
+  {
+    "id": 146,
     "character": "好",
     "pinyin": "hǎo",
-    "meaningEn": "Good",
-    "meaningRu": "Хороший"
+    "meaningEn": "good; well",
+    "meaningRu": ""
+  },
+  {
+    "id": 147,
+    "character": "坏",
+    "pinyin": "huài",
+    "meaningEn": "bad; broken",
+    "meaningRu": ""
+  },
+  {
+    "id": 148,
+    "character": "大",
+    "pinyin": "dà",
+    "meaningEn": "big; large; great",
+    "meaningRu": ""
+  },
+  {
+    "id": 149,
+    "character": "小",
+    "pinyin": "xiǎo",
+    "meaningEn": "small; little",
+    "meaningRu": ""
+  },
+  {
+    "id": 150,
+    "character": "多",
+    "pinyin": "duō",
+    "meaningEn": "many; much",
+    "meaningRu": ""
+  },
+  {
+    "id": 151,
+    "character": "少",
+    "pinyin": "shǎo",
+    "meaningEn": "few; little; lack",
+    "meaningRu": ""
+  },
+  {
+    "id": 152,
+    "character": "高",
+    "pinyin": "gāo",
+    "meaningEn": "tall; high",
+    "meaningRu": ""
+  },
+  {
+    "id": 153,
+    "character": "新",
+    "pinyin": "xīn",
+    "meaningEn": "new; fresh",
+    "meaningRu": ""
+  },
+  {
+    "id": 154,
+    "character": "冷",
+    "pinyin": "lěng",
+    "meaningEn": "cold",
+    "meaningRu": ""
+  },
+  {
+    "id": 155,
+    "character": "热",
+    "pinyin": "rè",
+    "meaningEn": "hot; warm up",
+    "meaningRu": ""
+  },
+  {
+    "id": 156,
+    "character": "累",
+    "pinyin": "lèi",
+    "meaningEn": "tired; fatigued",
+    "meaningRu": ""
+  },
+  {
+    "id": 157,
+    "character": "饿",
+    "pinyin": "è",
+    "meaningEn": "hungry",
+    "meaningRu": ""
+  },
+  {
+    "id": 158,
+    "character": "渴",
+    "pinyin": "kě",
+    "meaningEn": "thirsty",
+    "meaningRu": ""
+  },
+  {
+    "id": 159,
+    "character": "忙",
+    "pinyin": "máng",
+    "meaningEn": "busy",
+    "meaningRu": ""
+  },
+  {
+    "id": 160,
+    "character": "难",
+    "pinyin": "nán",
+    "meaningEn": "difficult; hard",
+    "meaningRu": ""
+  },
+  {
+    "id": 161,
+    "character": "贵",
+    "pinyin": "guì",
+    "meaningEn": "expensive; costly",
+    "meaningRu": ""
+  },
+  {
+    "id": 162,
+    "character": "白",
+    "pinyin": "bái",
+    "meaningEn": "white",
+    "meaningRu": ""
+  },
+  {
+    "id": 163,
+    "character": "差",
+    "pinyin": "chà",
+    "meaningEn": "to differ from; short of; poor (quality)",
+    "meaningRu": ""
+  },
+  {
+    "id": 164,
+    "character": "错",
+    "pinyin": "cuò",
+    "meaningEn": "wrong; mistake",
+    "meaningRu": ""
+  },
+  {
+    "id": 165,
+    "character": "快",
+    "pinyin": "kuài",
+    "meaningEn": "fast; quick",
+    "meaningRu": ""
+  },
+  {
+    "id": 166,
+    "character": "老",
+    "pinyin": "lǎo",
+    "meaningEn": "old (of people/animals); always",
+    "meaningRu": ""
+  },
+  {
+    "id": 167,
+    "character": "慢",
+    "pinyin": "màn",
+    "meaningEn": "slow",
+    "meaningRu": ""
+  },
+  {
+    "id": 168,
+    "character": "晚",
+    "pinyin": "wǎn",
+    "meaningEn": "late",
+    "meaningRu": ""
+  },
+  {
+    "id": 169,
+    "character": "行",
+    "pinyin": "xíng",
+    "meaningEn": "OK; all right; to be capable",
+    "meaningRu": ""
+  },
+  {
+    "id": 170,
+    "character": "远",
+    "pinyin": "yuǎn",
+    "meaningEn": "far",
+    "meaningRu": ""
+  },
+  {
+    "id": 171,
+    "character": "早",
+    "pinyin": "zǎo",
+    "meaningEn": "early",
+    "meaningRu": ""
+  },
+  {
+    "id": 172,
+    "character": "重",
+    "pinyin": "zhòng",
+    "meaningEn": "heavy",
+    "meaningRu": ""
+  },
+  {
+    "id": 173,
+    "character": "很",
+    "pinyin": "hěn",
+    "meaningEn": "very",
+    "meaningRu": ""
+  },
+  {
+    "id": 174,
+    "character": "真",
+    "pinyin": "zhēn",
+    "meaningEn": "really; truly",
+    "meaningRu": ""
+  },
+  {
+    "id": 175,
+    "character": "太",
+    "pinyin": "tài",
+    "meaningEn": "too; extremely",
+    "meaningRu": ""
+  },
+  {
+    "id": 176,
+    "character": "最",
+    "pinyin": "zuì",
+    "meaningEn": "most; -est (superlative)",
+    "meaningRu": ""
+  },
+  {
+    "id": 177,
+    "character": "不",
+    "pinyin": "bù",
+    "meaningEn": "no; not",
+    "meaningRu": ""
+  },
+  {
+    "id": 178,
+    "character": "没",
+    "pinyin": "méi",
+    "meaningEn": "not (have); without",
+    "meaningRu": ""
+  },
+  {
+    "id": 179,
+    "character": "的",
+    "pinyin": "de",
+    "meaningEn": "possessive particle",
+    "meaningRu": ""
+  },
+  {
+    "id": 180,
+    "character": "了",
+    "pinyin": "le",
+    "meaningEn": "completed action particle; change of state",
+    "meaningRu": ""
+  },
+  {
+    "id": 181,
+    "character": "吗",
+    "pinyin": "ma",
+    "meaningEn": "question particle (yes/no questions)",
+    "meaningRu": ""
+  },
+  {
+    "id": 182,
+    "character": "也",
+    "pinyin": "yě",
+    "meaningEn": "also; too",
+    "meaningRu": ""
+  },
+  {
+    "id": 183,
+    "character": "都",
+    "pinyin": "dōu",
+    "meaningEn": "all; both",
+    "meaningRu": ""
+  },
+  {
+    "id": 184,
+    "character": "别",
+    "pinyin": "bié",
+    "meaningEn": "don't (do something); other",
+    "meaningRu": ""
+  },
+  {
+    "id": 185,
+    "character": "再",
+    "pinyin": "zài",
+    "meaningEn": "again; once more",
+    "meaningRu": ""
+  },
+  {
+    "id": 186,
+    "character": "就",
+    "pinyin": "jiù",
+    "meaningEn": "at once; right away; then; only",
+    "meaningRu": ""
+  },
+  {
+    "id": 187,
+    "character": "地",
+    "pinyin": "de",
+    "meaningEn": "adverbial particle (-ly)",
+    "meaningRu": ""
+  },
+  {
+    "id": 188,
+    "character": "着",
+    "pinyin": "zhe",
+    "meaningEn": "aspect particle (indicating action in progress)",
+    "meaningRu": ""
+  },
+  {
+    "id": 189,
+    "character": "吧",
+    "pinyin": "ba",
+    "meaningEn": "suggestion/softening particle",
+    "meaningRu": ""
+  },
+  {
+    "id": 190,
+    "character": "呢",
+    "pinyin": "ne",
+    "meaningEn": "what about...? (modal particle)",
+    "meaningRu": ""
+  },
+  {
+    "id": 191,
+    "character": "常",
+    "pinyin": "cháng",
+    "meaningEn": "often",
+    "meaningRu": ""
+  },
+  {
+    "id": 192,
+    "character": "们",
+    "pinyin": "men",
+    "meaningEn": "plural suffix for pronouns",
+    "meaningRu": ""
+  },
+  {
+    "id": 193,
+    "character": "先",
+    "pinyin": "xiān",
+    "meaningEn": "first; before",
+    "meaningRu": ""
+  },
+  {
+    "id": 194,
+    "character": "正",
+    "pinyin": "zhèng",
+    "meaningEn": "straight; upright; just (in time)",
+    "meaningRu": ""
+  },
+  {
+    "id": 195,
+    "character": "子",
+    "pinyin": "zi",
+    "meaningEn": "noun suffix (e.g. 桌子)",
+    "meaningRu": ""
+  },
+  {
+    "id": 196,
+    "character": "和",
+    "pinyin": "hé",
+    "meaningEn": "and; with",
+    "meaningRu": ""
+  },
+  {
+    "id": 197,
+    "character": "在",
+    "pinyin": "zài",
+    "meaningEn": "at; in; on (preposition)",
+    "meaningRu": ""
+  },
+  {
+    "id": 198,
+    "character": "从",
+    "pinyin": "cóng",
+    "meaningEn": "from",
+    "meaningRu": ""
+  },
+  {
+    "id": 199,
+    "character": "对",
+    "pinyin": "duì",
+    "meaningEn": "to; towards; correct",
+    "meaningRu": ""
+  },
+  {
+    "id": 200,
+    "character": "比",
+    "pinyin": "bǐ",
+    "meaningEn": "than (comparison)",
+    "meaningRu": ""
+  },
+  {
+    "id": 201,
+    "character": "跟",
+    "pinyin": "gēn",
+    "meaningEn": "with; and; to follow",
+    "meaningRu": ""
+  },
+  {
+    "id": 202,
+    "character": "班",
+    "pinyin": "bān",
+    "meaningEn": "class (of students); shift",
+    "meaningRu": ""
+  },
+  {
+    "id": 203,
+    "character": "考",
+    "pinyin": "kǎo",
+    "meaningEn": "to test; to take an exam",
+    "meaningRu": ""
+  },
+  {
+    "id": 204,
+    "character": "课",
+    "pinyin": "kè",
+    "meaningEn": "class; lesson",
+    "meaningRu": ""
+  },
+  {
+    "id": 205,
+    "character": "页",
+    "pinyin": "yè",
+    "meaningEn": "page",
+    "meaningRu": ""
+  },
+  {
+    "id": 206,
+    "character": "字",
+    "pinyin": "zì",
+    "meaningEn": "character; word",
+    "meaningRu": ""
+  },
+  {
+    "id": 207,
+    "character": "它",
+    "pinyin": "tā",
+    "meaningEn": "it",
+    "meaningRu": ""
+  },
+  {
+    "id": 208,
+    "character": "咱",
+    "pinyin": "zán",
+    "meaningEn": "we; us (inclusive)",
+    "meaningRu": ""
+  },
+  {
+    "id": 209,
+    "character": "千",
+    "pinyin": "qiān",
+    "meaningEn": "thousand",
+    "meaningRu": ""
+  },
+  {
+    "id": 210,
+    "character": "万",
+    "pinyin": "wàn",
+    "meaningEn": "ten thousand",
+    "meaningRu": ""
+  },
+  {
+    "id": 211,
+    "character": "数",
+    "pinyin": "shù",
+    "meaningEn": "number",
+    "meaningRu": ""
+  },
+  {
+    "id": 212,
+    "character": "亿",
+    "pinyin": "yì",
+    "meaningEn": "hundred million",
+    "meaningRu": ""
+  },
+  {
+    "id": 213,
+    "character": "只",
+    "pinyin": "zhī",
+    "meaningEn": "measure word for certain animals, limbs",
+    "meaningRu": ""
+  },
+  {
+    "id": 214,
+    "character": "件",
+    "pinyin": "jiàn",
+    "meaningEn": "measure word for clothing, events",
+    "meaningRu": ""
+  },
+  {
+    "id": 215,
+    "character": "条",
+    "pinyin": "tiáo",
+    "meaningEn": "measure word for long, thin objects",
+    "meaningRu": ""
+  },
+  {
+    "id": 216,
+    "character": "位",
+    "pinyin": "wèi",
+    "meaningEn": "polite measure word for people",
+    "meaningRu": ""
+  },
+  {
+    "id": 217,
+    "character": "遍",
+    "pinyin": "biàn",
+    "meaningEn": "measure word for times/repetitions",
+    "meaningRu": ""
+  },
+  {
+    "id": 218,
+    "character": "层",
+    "pinyin": "céng",
+    "meaningEn": "measure word for floors/layers",
+    "meaningRu": ""
+  },
+  {
+    "id": 219,
+    "character": "场",
+    "pinyin": "chǎng",
+    "meaningEn": "measure word for events/performances",
+    "meaningRu": ""
+  },
+  {
+    "id": 220,
+    "character": "道",
+    "pinyin": "dào",
+    "meaningEn": "measure word for questions/dishes; way",
+    "meaningRu": ""
+  },
+  {
+    "id": 221,
+    "character": "段",
+    "pinyin": "duàn",
+    "meaningEn": "measure word for sections/paragraphs",
+    "meaningRu": ""
+  },
+  {
+    "id": 222,
+    "character": "份",
+    "pinyin": "fèn",
+    "meaningEn": "measure word for portions/copies",
+    "meaningRu": ""
+  },
+  {
+    "id": 223,
+    "character": "封",
+    "pinyin": "fēng",
+    "meaningEn": "measure word for letters",
+    "meaningRu": ""
+  },
+  {
+    "id": 224,
+    "character": "节",
+    "pinyin": "jié",
+    "meaningEn": "measure word for lessons/segments; festival",
+    "meaningRu": ""
+  },
+  {
+    "id": 225,
+    "character": "斤",
+    "pinyin": "jīn",
+    "meaningEn": "jin (unit of weight, 500g)",
+    "meaningRu": ""
+  },
+  {
+    "id": 226,
+    "character": "句",
+    "pinyin": "jù",
+    "meaningEn": "measure word for sentences",
+    "meaningRu": ""
+  },
+  {
+    "id": 227,
+    "character": "克",
+    "pinyin": "kè",
+    "meaningEn": "gram",
+    "meaningRu": ""
+  },
+  {
+    "id": 228,
+    "character": "辆",
+    "pinyin": "liàng",
+    "meaningEn": "measure word for vehicles",
+    "meaningRu": ""
+  },
+  {
+    "id": 229,
+    "character": "米",
+    "pinyin": "mǐ",
+    "meaningEn": "meter; rice",
+    "meaningRu": ""
+  },
+  {
+    "id": 230,
+    "character": "名",
+    "pinyin": "míng",
+    "meaningEn": "name; measure word for people",
+    "meaningRu": ""
+  },
+  {
+    "id": 231,
+    "character": "篇",
+    "pinyin": "piān",
+    "meaningEn": "measure word for articles/essays",
+    "meaningRu": ""
+  },
+  {
+    "id": 232,
+    "character": "片",
+    "pinyin": "piàn",
+    "meaningEn": "slice; measure word for flat pieces",
+    "meaningRu": ""
+  },
+  {
+    "id": 233,
+    "character": "瓶",
+    "pinyin": "píng",
+    "meaningEn": "bottle (measure word)",
+    "meaningRu": ""
+  },
+  {
+    "id": 234,
+    "character": "套",
+    "pinyin": "tào",
+    "meaningEn": "measure word for sets",
+    "meaningRu": ""
+  },
+  {
+    "id": 235,
+    "character": "座",
+    "pinyin": "zuò",
+    "meaningEn": "measure word for large solid things (buildings, mountains)",
+    "meaningRu": ""
+  },
+  {
+    "id": 236,
+    "character": "周",
+    "pinyin": "zhōu",
+    "meaningEn": "week (alternative)",
+    "meaningRu": ""
+  },
+  {
+    "id": 237,
+    "character": "假",
+    "pinyin": "jià",
+    "meaningEn": "vacation; holiday",
+    "meaningRu": ""
+  },
+  {
+    "id": 238,
+    "character": "刻",
+    "pinyin": "kè",
+    "meaningEn": "quarter (of an hour)",
+    "meaningRu": ""
+  },
+  {
+    "id": 239,
+    "character": "夜",
+    "pinyin": "yè",
+    "meaningEn": "night",
+    "meaningRu": ""
+  },
+  {
+    "id": 240,
+    "character": "姓",
+    "pinyin": "xìng",
+    "meaningEn": "surname; to be surnamed",
+    "meaningRu": ""
+  },
+  {
+    "id": 241,
+    "character": "店",
+    "pinyin": "diàn",
+    "meaningEn": "shop; store",
+    "meaningRu": ""
+  },
+  {
+    "id": 242,
+    "character": "街",
+    "pinyin": "jiē",
+    "meaningEn": "street",
+    "meaningRu": ""
+  },
+  {
+    "id": 243,
+    "character": "省",
+    "pinyin": "shěng",
+    "meaningEn": "province; to save (money/time)",
+    "meaningRu": ""
+  },
+  {
+    "id": 244,
+    "character": "市",
+    "pinyin": "shì",
+    "meaningEn": "city; municipality",
+    "meaningRu": ""
+  },
+  {
+    "id": 245,
+    "character": "院",
+    "pinyin": "yuàn",
+    "meaningEn": "courtyard; institution",
+    "meaningRu": ""
+  },
+  {
+    "id": 246,
+    "character": "边",
+    "pinyin": "biān",
+    "meaningEn": "side; edge",
+    "meaningRu": ""
+  },
+  {
+    "id": 247,
+    "character": "角",
+    "pinyin": "jiǎo",
+    "meaningEn": "corner; 10-cent unit",
+    "meaningRu": ""
+  },
+  {
+    "id": 248,
+    "character": "面",
+    "pinyin": "miàn",
+    "meaningEn": "side; face; noodles",
+    "meaningRu": ""
+  },
+  {
+    "id": 249,
+    "character": "鱼",
+    "pinyin": "yú",
+    "meaningEn": "fish",
+    "meaningRu": ""
+  },
+  {
+    "id": 250,
+    "character": "药",
+    "pinyin": "yào",
+    "meaningEn": "medicine; drug",
+    "meaningRu": ""
+  },
+  {
+    "id": 251,
+    "character": "鞋",
+    "pinyin": "xié",
+    "meaningEn": "shoes",
+    "meaningRu": ""
+  },
+  {
+    "id": 252,
+    "character": "表",
+    "pinyin": "biǎo",
+    "meaningEn": "table; chart; watch",
+    "meaningRu": ""
+  },
+  {
+    "id": 253,
+    "character": "蛋",
+    "pinyin": "dàn",
+    "meaningEn": "egg",
+    "meaningRu": ""
+  },
+  {
+    "id": 254,
+    "character": "灯",
+    "pinyin": "dēng",
+    "meaningEn": "lamp; light",
+    "meaningRu": ""
+  },
+  {
+    "id": 255,
+    "character": "鸡",
+    "pinyin": "jī",
+    "meaningEn": "chicken",
+    "meaningRu": ""
+  },
+  {
+    "id": 256,
+    "character": "酒",
+    "pinyin": "jiǔ",
+    "meaningEn": "alcohol; liquor",
+    "meaningRu": ""
+  },
+  {
+    "id": 257,
+    "character": "卡",
+    "pinyin": "kǎ",
+    "meaningEn": "card",
+    "meaningRu": ""
+  },
+  {
+    "id": 258,
+    "character": "墙",
+    "pinyin": "qiáng",
+    "meaningEn": "wall",
+    "meaningRu": ""
+  },
+  {
+    "id": 259,
+    "character": "碗",
+    "pinyin": "wǎn",
+    "meaningEn": "bowl",
+    "meaningRu": ""
+  },
+  {
+    "id": 260,
+    "character": "油",
+    "pinyin": "yóu",
+    "meaningEn": "oil",
+    "meaningRu": ""
+  },
+  {
+    "id": 261,
+    "character": "纸",
+    "pinyin": "zhǐ",
+    "meaningEn": "paper",
+    "meaningRu": ""
+  },
+  {
+    "id": 262,
+    "character": "笔",
+    "pinyin": "bǐ",
+    "meaningEn": "pen; pencil; writing brush",
+    "meaningRu": ""
+  },
+  {
+    "id": 263,
+    "character": "船",
+    "pinyin": "chuán",
+    "meaningEn": "boat; ship",
+    "meaningRu": ""
+  },
+  {
+    "id": 264,
+    "character": "猫",
+    "pinyin": "māo",
+    "meaningEn": "cat",
+    "meaningRu": ""
+  },
+  {
+    "id": 265,
+    "character": "狗",
+    "pinyin": "gǒu",
+    "meaningEn": "dog",
+    "meaningRu": ""
+  },
+  {
+    "id": 266,
+    "character": "鸟",
+    "pinyin": "niǎo",
+    "meaningEn": "bird",
+    "meaningRu": ""
+  },
+  {
+    "id": 267,
+    "character": "网",
+    "pinyin": "wǎng",
+    "meaningEn": "net; network",
+    "meaningRu": ""
+  },
+  {
+    "id": 268,
+    "character": "信",
+    "pinyin": "xìn",
+    "meaningEn": "letter; to believe",
+    "meaningRu": ""
+  },
+  {
+    "id": 269,
+    "character": "雪",
+    "pinyin": "xuě",
+    "meaningEn": "snow",
+    "meaningRu": ""
+  },
+  {
+    "id": 270,
+    "character": "草",
+    "pinyin": "cǎo",
+    "meaningEn": "grass; straw",
+    "meaningRu": ""
+  },
+  {
+    "id": 271,
+    "character": "河",
+    "pinyin": "hé",
+    "meaningEn": "river",
+    "meaningRu": ""
+  },
+  {
+    "id": 272,
+    "character": "云",
+    "pinyin": "yún",
+    "meaningEn": "cloud",
+    "meaningRu": ""
+  },
+  {
+    "id": 273,
+    "character": "海",
+    "pinyin": "hǎi",
+    "meaningEn": "sea",
+    "meaningRu": ""
+  },
+  {
+    "id": 274,
+    "character": "湖",
+    "pinyin": "hú",
+    "meaningEn": "lake",
+    "meaningRu": ""
+  },
+  {
+    "id": 275,
+    "character": "气",
+    "pinyin": "qì",
+    "meaningEn": "air; gas; to be angry",
+    "meaningRu": ""
+  },
+  {
+    "id": 276,
+    "character": "生",
+    "pinyin": "shēng",
+    "meaningEn": "to be born; raw; life",
+    "meaningRu": ""
+  },
+  {
+    "id": 277,
+    "character": "爬",
+    "pinyin": "pá",
+    "meaningEn": "to climb; to crawl",
+    "meaningRu": ""
+  },
+  {
+    "id": 278,
+    "character": "变",
+    "pinyin": "biàn",
+    "meaningEn": "to change",
+    "meaningRu": ""
+  },
+  {
+    "id": 279,
+    "character": "成",
+    "pinyin": "chéng",
+    "meaningEn": "to become; to succeed",
+    "meaningRu": ""
+  },
+  {
+    "id": 280,
+    "character": "吹",
+    "pinyin": "chuī",
+    "meaningEn": "to blow",
+    "meaningRu": ""
+  },
+  {
+    "id": 281,
+    "character": "倒",
+    "pinyin": "dào",
+    "meaningEn": "to pour",
+    "meaningRu": ""
+  },
+  {
+    "id": 282,
+    "character": "掉",
+    "pinyin": "diào",
+    "meaningEn": "to drop; to fall",
+    "meaningRu": ""
+  },
+  {
+    "id": 283,
+    "character": "改",
+    "pinyin": "gǎi",
+    "meaningEn": "to change; to alter",
+    "meaningRu": ""
+  },
+  {
+    "id": 284,
+    "character": "换",
+    "pinyin": "huàn",
+    "meaningEn": "to exchange; to change",
+    "meaningRu": ""
+  },
+  {
+    "id": 285,
+    "character": "举",
+    "pinyin": "jǔ",
+    "meaningEn": "to lift; to raise",
+    "meaningRu": ""
+  },
+  {
+    "id": 286,
+    "character": "靠",
+    "pinyin": "kào",
+    "meaningEn": "to lean on; to rely on",
+    "meaningRu": ""
+  },
+  {
+    "id": 287,
+    "character": "拉",
+    "pinyin": "lā",
+    "meaningEn": "to pull",
+    "meaningRu": ""
+  },
+  {
+    "id": 288,
+    "character": "流",
+    "pinyin": "liú",
+    "meaningEn": "to flow",
+    "meaningRu": ""
+  },
+  {
+    "id": 289,
+    "character": "弄",
+    "pinyin": "nòng",
+    "meaningEn": "to do; to make; to mess with",
+    "meaningRu": ""
+  },
+  {
+    "id": 290,
+    "character": "排",
+    "pinyin": "pái",
+    "meaningEn": "to line up; row",
+    "meaningRu": ""
+  },
+  {
+    "id": 291,
+    "character": "碰",
+    "pinyin": "pèng",
+    "meaningEn": "to touch; to bump into",
+    "meaningRu": ""
+  },
+  {
+    "id": 292,
+    "character": "取",
+    "pinyin": "qǔ",
+    "meaningEn": "to get; to take; to fetch",
+    "meaningRu": ""
+  },
+  {
+    "id": 293,
+    "character": "收",
+    "pinyin": "shōu",
+    "meaningEn": "to receive; to collect",
+    "meaningRu": ""
+  },
+  {
+    "id": 294,
+    "character": "算",
+    "pinyin": "suàn",
+    "meaningEn": "to calculate; to count as",
+    "meaningRu": ""
+  },
+  {
+    "id": 295,
+    "character": "提",
+    "pinyin": "tí",
+    "meaningEn": "to raise; to carry (by hand)",
+    "meaningRu": ""
+  },
+  {
+    "id": 296,
+    "character": "停",
+    "pinyin": "tíng",
+    "meaningEn": "to stop",
+    "meaningRu": ""
+  },
+  {
+    "id": 297,
+    "character": "通",
+    "pinyin": "tōng",
+    "meaningEn": "to go through; to connect",
+    "meaningRu": ""
+  },
+  {
+    "id": 298,
+    "character": "推",
+    "pinyin": "tuī",
+    "meaningEn": "to push",
+    "meaningRu": ""
+  },
+  {
+    "id": 299,
+    "character": "完",
+    "pinyin": "wán",
+    "meaningEn": "to finish; to be over",
+    "meaningRu": ""
+  },
+  {
+    "id": 300,
+    "character": "闻",
+    "pinyin": "wén",
+    "meaningEn": "to smell; to hear (literary)",
+    "meaningRu": ""
+  },
+  {
+    "id": 301,
+    "character": "响",
+    "pinyin": "xiǎng",
+    "meaningEn": "to ring; to sound",
+    "meaningRu": ""
+  },
+  {
+    "id": 302,
+    "character": "像",
+    "pinyin": "xiàng",
+    "meaningEn": "to resemble; to be like",
+    "meaningRu": ""
+  },
+  {
+    "id": 303,
+    "character": "占",
+    "pinyin": "zhàn",
+    "meaningEn": "to occupy; to make up (a percentage)",
+    "meaningRu": ""
+  },
+  {
+    "id": 304,
+    "character": "装",
+    "pinyin": "zhuāng",
+    "meaningEn": "to install; to pack; to pretend",
+    "meaningRu": ""
+  },
+  {
+    "id": 305,
+    "character": "卖",
+    "pinyin": "mài",
+    "meaningEn": "to sell",
+    "meaningRu": ""
+  },
+  {
+    "id": 306,
+    "character": "借",
+    "pinyin": "jiè",
+    "meaningEn": "to borrow; to lend",
+    "meaningRu": ""
+  },
+  {
+    "id": 307,
+    "character": "示",
+    "pinyin": "shì",
+    "meaningEn": "to show; to indicate (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 308,
+    "character": "查",
+    "pinyin": "chá",
+    "meaningEn": "to check; to look up",
+    "meaningRu": ""
+  },
+  {
+    "id": 309,
+    "character": "称",
+    "pinyin": "chēng",
+    "meaningEn": "to call; to be called",
+    "meaningRu": ""
+  },
+  {
+    "id": 310,
+    "character": "发",
+    "pinyin": "fā",
+    "meaningEn": "to send out; to issue",
+    "meaningRu": ""
+  },
+  {
+    "id": 311,
+    "character": "喊",
+    "pinyin": "hǎn",
+    "meaningEn": "to shout",
+    "meaningRu": ""
+  },
+  {
+    "id": 312,
+    "character": "加",
+    "pinyin": "jiā",
+    "meaningEn": "to add",
+    "meaningRu": ""
+  },
+  {
+    "id": 313,
+    "character": "讲",
+    "pinyin": "jiǎng",
+    "meaningEn": "to speak; to explain",
+    "meaningRu": ""
+  },
+  {
+    "id": 314,
+    "character": "练",
+    "pinyin": "liàn",
+    "meaningEn": "to practice",
+    "meaningRu": ""
+  },
+  {
+    "id": 315,
+    "character": "怕",
+    "pinyin": "pà",
+    "meaningEn": "to fear; to be afraid of",
+    "meaningRu": ""
+  },
+  {
+    "id": 316,
+    "character": "求",
+    "pinyin": "qiú",
+    "meaningEn": "to beg; to request",
+    "meaningRu": ""
+  },
+  {
+    "id": 317,
+    "character": "让",
+    "pinyin": "ràng",
+    "meaningEn": "to let; to allow",
+    "meaningRu": ""
+  },
+  {
+    "id": 318,
+    "character": "选",
+    "pinyin": "xuǎn",
+    "meaningEn": "to choose; to select",
+    "meaningRu": ""
+  },
+  {
+    "id": 319,
+    "character": "画",
+    "pinyin": "huà",
+    "meaningEn": "to draw; to paint; picture",
+    "meaningRu": ""
+  },
+  {
+    "id": 320,
+    "character": "懂",
+    "pinyin": "dǒng",
+    "meaningEn": "to understand; to comprehend",
+    "meaningRu": ""
+  },
+  {
+    "id": 321,
+    "character": "哭",
+    "pinyin": "kū",
+    "meaningEn": "to cry; weep",
+    "meaningRu": ""
+  },
+  {
+    "id": 322,
+    "character": "办",
+    "pinyin": "bàn",
+    "meaningEn": "to do; to handle",
+    "meaningRu": ""
+  },
+  {
+    "id": 323,
+    "character": "带",
+    "pinyin": "dài",
+    "meaningEn": "to bring; to carry; belt",
+    "meaningRu": ""
+  },
+  {
+    "id": 324,
+    "character": "交",
+    "pinyin": "jiāo",
+    "meaningEn": "to hand over; to submit",
+    "meaningRu": ""
+  },
+  {
+    "id": 325,
+    "character": "接",
+    "pinyin": "jiē",
+    "meaningEn": "to receive; to meet (someone)",
+    "meaningRu": ""
+  },
+  {
+    "id": 326,
+    "character": "留",
+    "pinyin": "liú",
+    "meaningEn": "to stay; to leave behind",
+    "meaningRu": ""
+  },
+  {
+    "id": 327,
+    "character": "骑",
+    "pinyin": "qí",
+    "meaningEn": "to ride (a bike/horse)",
+    "meaningRu": ""
+  },
+  {
+    "id": 328,
+    "character": "养",
+    "pinyin": "yǎng",
+    "meaningEn": "to raise (animals/children); to support",
+    "meaningRu": ""
+  },
+  {
+    "id": 329,
+    "character": "租",
+    "pinyin": "zū",
+    "meaningEn": "to rent",
+    "meaningRu": ""
+  },
+  {
+    "id": 330,
+    "character": "脏",
+    "pinyin": "zāng",
+    "meaningEn": "dirty; filthy",
+    "meaningRu": ""
+  },
+  {
+    "id": 331,
+    "character": "饱",
+    "pinyin": "bǎo",
+    "meaningEn": "full (after eating)",
+    "meaningRu": ""
+  },
+  {
+    "id": 332,
+    "character": "长",
+    "pinyin": "cháng",
+    "meaningEn": "long",
+    "meaningRu": ""
+  },
+  {
+    "id": 333,
+    "character": "低",
+    "pinyin": "dī",
+    "meaningEn": "low",
+    "meaningRu": ""
+  },
+  {
+    "id": 334,
+    "character": "短",
+    "pinyin": "duǎn",
+    "meaningEn": "short (length)",
+    "meaningRu": ""
+  },
+  {
+    "id": 335,
+    "character": "够",
+    "pinyin": "gòu",
+    "meaningEn": "enough",
+    "meaningRu": ""
+  },
+  {
+    "id": 336,
+    "character": "急",
+    "pinyin": "jí",
+    "meaningEn": "urgent; anxious",
+    "meaningRu": ""
+  },
+  {
+    "id": 337,
+    "character": "近",
+    "pinyin": "jìn",
+    "meaningEn": "near; close",
+    "meaningRu": ""
+  },
+  {
+    "id": 338,
+    "character": "亮",
+    "pinyin": "liàng",
+    "meaningEn": "bright",
+    "meaningRu": ""
+  },
+  {
+    "id": 339,
+    "character": "满",
+    "pinyin": "mǎn",
+    "meaningEn": "full",
+    "meaningRu": ""
+  },
+  {
+    "id": 340,
+    "character": "平",
+    "pinyin": "píng",
+    "meaningEn": "flat; level",
+    "meaningRu": ""
+  },
+  {
+    "id": 341,
+    "character": "轻",
+    "pinyin": "qīng",
+    "meaningEn": "light (weight)",
+    "meaningRu": ""
+  },
+  {
+    "id": 342,
+    "character": "熟",
+    "pinyin": "shú",
+    "meaningEn": "ripe; cooked; familiar with",
+    "meaningRu": ""
+  },
+  {
+    "id": 343,
+    "character": "喂",
+    "pinyin": "wèi",
+    "meaningEn": "hey; hello (on the phone)",
+    "meaningRu": ""
+  },
+  {
+    "id": 344,
+    "character": "更",
+    "pinyin": "gèng",
+    "meaningEn": "even more; further",
+    "meaningRu": ""
+  },
+  {
+    "id": 345,
+    "character": "越",
+    "pinyin": "yuè",
+    "meaningEn": "the more... (e.g. 越来越)",
+    "meaningRu": ""
+  },
+  {
+    "id": 346,
+    "character": "得",
+    "pinyin": "de",
+    "meaningEn": "structural particle (used after a verb)",
+    "meaningRu": ""
+  },
+  {
+    "id": 347,
+    "character": "啊",
+    "pinyin": "a",
+    "meaningEn": "ah; oh (exclamation particle)",
+    "meaningRu": ""
+  },
+  {
+    "id": 348,
+    "character": "才",
+    "pinyin": "cái",
+    "meaningEn": "only then; just",
+    "meaningRu": ""
+  },
+  {
+    "id": 349,
+    "character": "该",
+    "pinyin": "gāi",
+    "meaningEn": "should; ought to",
+    "meaningRu": ""
+  },
+  {
+    "id": 350,
+    "character": "刚",
+    "pinyin": "gāng",
+    "meaningEn": "just (now)",
+    "meaningRu": ""
+  },
+  {
+    "id": 351,
+    "character": "全",
+    "pinyin": "quán",
+    "meaningEn": "whole; entire",
+    "meaningRu": ""
+  },
+  {
+    "id": 352,
+    "character": "挺",
+    "pinyin": "tǐng",
+    "meaningEn": "quite; rather",
+    "meaningRu": ""
+  },
+  {
+    "id": 353,
+    "character": "又",
+    "pinyin": "yòu",
+    "meaningEn": "again",
+    "meaningRu": ""
+  },
+  {
+    "id": 354,
+    "character": "向",
+    "pinyin": "xiàng",
+    "meaningEn": "towards; to",
+    "meaningRu": ""
+  },
+  {
+    "id": 355,
+    "character": "离",
+    "pinyin": "lí",
+    "meaningEn": "away from; distance from",
+    "meaningRu": ""
+  },
+  {
+    "id": 356,
+    "character": "往",
+    "pinyin": "wǎng",
+    "meaningEn": "towards; head to",
+    "meaningRu": ""
+  },
+  {
+    "id": 357,
+    "character": "为",
+    "pinyin": "wèi",
+    "meaningEn": "for; because of",
+    "meaningRu": ""
+  },
+  {
+    "id": 358,
+    "character": "但",
+    "pinyin": "dàn",
+    "meaningEn": "but",
+    "meaningRu": ""
+  },
+  {
+    "id": 359,
+    "character": "或",
+    "pinyin": "huò",
+    "meaningEn": "or",
+    "meaningRu": ""
+  },
+  {
+    "id": 360,
+    "character": "词",
+    "pinyin": "cí",
+    "meaningEn": "word",
+    "meaningRu": ""
+  },
+  {
+    "id": 361,
+    "character": "级",
+    "pinyin": "jí",
+    "meaningEn": "level; grade",
+    "meaningRu": ""
+  },
+  {
+    "id": 362,
+    "character": "科",
+    "pinyin": "kē",
+    "meaningEn": "academic department; branch of study",
+    "meaningRu": ""
+  },
+  {
+    "id": 363,
+    "character": "题",
+    "pinyin": "tí",
+    "meaningEn": "question; topic (in an exam)",
+    "meaningRu": ""
+  },
+  {
+    "id": 364,
+    "character": "组",
+    "pinyin": "zǔ",
+    "meaningEn": "group",
+    "meaningRu": ""
+  },
+  {
+    "id": 365,
+    "character": "黑",
+    "pinyin": "hēi",
+    "meaningEn": "black",
+    "meaningRu": ""
+  },
+  {
+    "id": 366,
+    "character": "红",
+    "pinyin": "hóng",
+    "meaningEn": "red",
+    "meaningRu": ""
+  },
+  {
+    "id": 367,
+    "character": "黄",
+    "pinyin": "huáng",
+    "meaningEn": "yellow",
+    "meaningRu": ""
+  },
+  {
+    "id": 368,
+    "character": "蓝",
+    "pinyin": "lán",
+    "meaningEn": "blue",
+    "meaningRu": ""
+  },
+  {
+    "id": 369,
+    "character": "绿",
+    "pinyin": "lǜ",
+    "meaningEn": "green",
+    "meaningRu": ""
+  },
+  {
+    "id": 370,
+    "character": "度",
+    "pinyin": "dù",
+    "meaningEn": "degree (temperature etc.)",
+    "meaningRu": ""
+  },
+  {
+    "id": 371,
+    "character": "凉",
+    "pinyin": "liáng",
+    "meaningEn": "cool; cold",
+    "meaningRu": ""
+  },
+  {
+    "id": 372,
+    "character": "晴",
+    "pinyin": "qíng",
+    "meaningEn": "sunny; clear (weather)",
+    "meaningRu": ""
+  },
+  {
+    "id": 373,
+    "character": "阴",
+    "pinyin": "yīn",
+    "meaningEn": "overcast; cloudy",
+    "meaningRu": ""
+  },
+  {
+    "id": 374,
+    "character": "背",
+    "pinyin": "bèi",
+    "meaningEn": "back (of the body); to carry on the back; to recite",
+    "meaningRu": ""
+  },
+  {
+    "id": 375,
+    "character": "队",
+    "pinyin": "duì",
+    "meaningEn": "team",
+    "meaningRu": ""
+  },
+  {
+    "id": 376,
+    "character": "脚",
+    "pinyin": "jiǎo",
+    "meaningEn": "foot",
+    "meaningRu": ""
+  },
+  {
+    "id": 377,
+    "character": "脸",
+    "pinyin": "liǎn",
+    "meaningEn": "face",
+    "meaningRu": ""
+  },
+  {
+    "id": 378,
+    "character": "疼",
+    "pinyin": "téng",
+    "meaningEn": "painful; sore",
+    "meaningRu": ""
+  },
+  {
+    "id": 379,
+    "character": "头",
+    "pinyin": "tóu",
+    "meaningEn": "head",
+    "meaningRu": ""
+  },
+  {
+    "id": 380,
+    "character": "腿",
+    "pinyin": "tuǐ",
+    "meaningEn": "leg",
+    "meaningRu": ""
+  },
+  {
+    "id": 381,
+    "character": "眼",
+    "pinyin": "yǎn",
+    "meaningEn": "eye",
+    "meaningRu": ""
+  },
+  {
+    "id": 382,
+    "character": "嘴",
+    "pinyin": "zuǐ",
+    "meaningEn": "mouth",
+    "meaningRu": ""
+  },
+  {
+    "id": 383,
+    "character": "当",
+    "pinyin": "dāng",
+    "meaningEn": "to serve as; to work as",
+    "meaningRu": ""
+  },
+  {
+    "id": 384,
+    "character": "每",
+    "pinyin": "měi",
+    "meaningEn": "every; each",
+    "meaningRu": ""
+  },
+  {
+    "id": 385,
+    "character": "张",
+    "pinyin": "zhāng",
+    "meaningEn": "measure word for flat objects (paper, tables)",
+    "meaningRu": ""
+  },
+  {
+    "id": 386,
+    "character": "双",
+    "pinyin": "shuāng",
+    "meaningEn": "pair (shoes, chopsticks, etc.)",
+    "meaningRu": ""
+  },
+  {
+    "id": 387,
+    "character": "部",
+    "pinyin": "bù",
+    "meaningEn": "part; department; measure word for films/books",
+    "meaningRu": ""
+  },
+  {
+    "id": 388,
+    "character": "顿",
+    "pinyin": "dùn",
+    "meaningEn": "measure word for meals",
+    "meaningRu": ""
+  },
+  {
+    "id": 389,
+    "character": "架",
+    "pinyin": "jià",
+    "meaningEn": "measure word for machines/aircraft",
+    "meaningRu": ""
+  },
+  {
+    "id": 390,
+    "character": "群",
+    "pinyin": "qún",
+    "meaningEn": "group; crowd",
+    "meaningRu": ""
+  },
+  {
+    "id": 391,
+    "character": "束",
+    "pinyin": "shù",
+    "meaningEn": "bundle; measure word for flowers",
+    "meaningRu": ""
+  },
+  {
+    "id": 392,
+    "character": "所",
+    "pinyin": "suǒ",
+    "meaningEn": "measure word for buildings/institutions; place",
+    "meaningRu": ""
+  },
+  {
+    "id": 393,
+    "character": "台",
+    "pinyin": "tái",
+    "meaningEn": "platform; measure word for machines",
+    "meaningRu": ""
+  },
+  {
+    "id": 394,
+    "character": "团",
+    "pinyin": "tuán",
+    "meaningEn": "group; regiment",
+    "meaningRu": ""
+  },
+  {
+    "id": 395,
+    "character": "支",
+    "pinyin": "zhī",
+    "meaningEn": "measure word for pens/songs/teams",
+    "meaningRu": ""
+  },
+  {
+    "id": 396,
+    "character": "初",
+    "pinyin": "chū",
+    "meaningEn": "beginning; first",
+    "meaningRu": ""
+  },
+  {
+    "id": 397,
+    "character": "期",
+    "pinyin": "qī",
+    "meaningEn": "period (of time)",
+    "meaningRu": ""
+  },
+  {
+    "id": 398,
+    "character": "时",
+    "pinyin": "shí",
+    "meaningEn": "time; when",
+    "meaningRu": ""
+  },
+  {
+    "id": 399,
+    "character": "代",
+    "pinyin": "dài",
+    "meaningEn": "generation; to substitute for",
+    "meaningRu": ""
+  },
+  {
+    "id": 400,
+    "character": "员",
+    "pinyin": "yuán",
+    "meaningEn": "member; personnel (suffix)",
+    "meaningRu": ""
+  },
+  {
+    "id": 401,
+    "character": "厂",
+    "pinyin": "chǎng",
+    "meaningEn": "factory",
+    "meaningRu": ""
+  },
+  {
+    "id": 402,
+    "character": "城",
+    "pinyin": "chéng",
+    "meaningEn": "city; town",
+    "meaningRu": ""
+  },
+  {
+    "id": 403,
+    "character": "村",
+    "pinyin": "cūn",
+    "meaningEn": "village",
+    "meaningRu": ""
+  },
+  {
+    "id": 404,
+    "character": "桥",
+    "pinyin": "qiáo",
+    "meaningEn": "bridge",
+    "meaningRu": ""
+  },
+  {
+    "id": 405,
+    "character": "区",
+    "pinyin": "qū",
+    "meaningEn": "district; area",
+    "meaningRu": ""
+  },
+  {
+    "id": 406,
+    "character": "室",
+    "pinyin": "shì",
+    "meaningEn": "room",
+    "meaningRu": ""
+  },
+  {
+    "id": 407,
+    "character": "内",
+    "pinyin": "nèi",
+    "meaningEn": "inside; within",
+    "meaningRu": ""
+  },
+  {
+    "id": 408,
+    "character": "板",
+    "pinyin": "bǎn",
+    "meaningEn": "board; plank",
+    "meaningRu": ""
+  },
+  {
+    "id": 409,
+    "character": "布",
+    "pinyin": "bù",
+    "meaningEn": "cloth",
+    "meaningRu": ""
+  },
+  {
+    "id": 410,
+    "character": "刀",
+    "pinyin": "dāo",
+    "meaningEn": "knife",
+    "meaningRu": ""
+  },
+  {
+    "id": 411,
+    "character": "环",
+    "pinyin": "huán",
+    "meaningEn": "ring; loop",
+    "meaningRu": ""
+  },
+  {
+    "id": 412,
+    "character": "牛",
+    "pinyin": "niú",
+    "meaningEn": "cow; ox",
+    "meaningRu": ""
+  },
+  {
+    "id": 413,
+    "character": "皮",
+    "pinyin": "pí",
+    "meaningEn": "skin; leather",
+    "meaningRu": ""
+  },
+  {
+    "id": 414,
+    "character": "汤",
+    "pinyin": "tāng",
+    "meaningEn": "soup",
+    "meaningRu": ""
+  },
+  {
+    "id": 415,
+    "character": "糖",
+    "pinyin": "táng",
+    "meaningEn": "sugar; candy",
+    "meaningRu": ""
+  },
+  {
+    "id": 416,
+    "character": "线",
+    "pinyin": "xiàn",
+    "meaningEn": "line; thread",
+    "meaningRu": ""
+  },
+  {
+    "id": 417,
+    "character": "羊",
+    "pinyin": "yáng",
+    "meaningEn": "sheep; goat",
+    "meaningRu": ""
+  },
+  {
+    "id": 418,
+    "character": "证",
+    "pinyin": "zhèng",
+    "meaningEn": "certificate; proof",
+    "meaningRu": ""
+  },
+  {
+    "id": 419,
+    "character": "钟",
+    "pinyin": "zhōng",
+    "meaningEn": "clock; bell",
+    "meaningRu": ""
+  },
+  {
+    "id": 420,
+    "character": "猪",
+    "pinyin": "zhū",
+    "meaningEn": "pig",
+    "meaningRu": ""
+  },
+  {
+    "id": 421,
+    "character": "马",
+    "pinyin": "mǎ",
+    "meaningEn": "horse",
+    "meaningRu": ""
+  },
+  {
+    "id": 422,
+    "character": "报",
+    "pinyin": "bào",
+    "meaningEn": "newspaper; to report",
+    "meaningRu": ""
+  },
+  {
+    "id": 423,
+    "character": "图",
+    "pinyin": "tú",
+    "meaningEn": "picture; map",
+    "meaningRu": ""
+  },
+  {
+    "id": 424,
+    "character": "光",
+    "pinyin": "guāng",
+    "meaningEn": "light; ray",
+    "meaningRu": ""
+  },
+  {
+    "id": 425,
+    "character": "火",
+    "pinyin": "huǒ",
+    "meaningEn": "fire",
+    "meaningRu": ""
+  },
+  {
+    "id": 426,
+    "character": "类",
+    "pinyin": "lèi",
+    "meaningEn": "type; category",
+    "meaningRu": ""
+  },
+  {
+    "id": 427,
+    "character": "力",
+    "pinyin": "lì",
+    "meaningEn": "strength; power",
+    "meaningRu": ""
+  },
+  {
+    "id": 428,
+    "character": "性",
+    "pinyin": "xìng",
+    "meaningEn": "nature; suffix for -ness/-ity",
+    "meaningRu": ""
+  },
+  {
+    "id": 429,
+    "character": "跳",
+    "pinyin": "tiào",
+    "meaningEn": "to jump; to leap",
+    "meaningRu": ""
+  },
+  {
+    "id": 430,
+    "character": "搬",
+    "pinyin": "bān",
+    "meaningEn": "to move (objects); to relocate",
+    "meaningRu": ""
+  },
+  {
+    "id": 431,
+    "character": "补",
+    "pinyin": "bǔ",
+    "meaningEn": "to mend; to supplement",
+    "meaningRu": ""
+  },
+  {
+    "id": 432,
+    "character": "步",
+    "pinyin": "bù",
+    "meaningEn": "step; pace",
+    "meaningRu": ""
+  },
+  {
+    "id": 433,
+    "character": "存",
+    "pinyin": "cún",
+    "meaningEn": "to exist; to store",
+    "meaningRu": ""
+  },
+  {
+    "id": 434,
+    "character": "断",
+    "pinyin": "duàn",
+    "meaningEn": "to break; to cut off",
+    "meaningRu": ""
+  },
+  {
+    "id": 435,
+    "character": "防",
+    "pinyin": "fáng",
+    "meaningEn": "to prevent; to guard against",
+    "meaningRu": ""
+  },
+  {
+    "id": 436,
+    "character": "赶",
+    "pinyin": "gǎn",
+    "meaningEn": "to catch (a bus/train); to rush",
+    "meaningRu": ""
+  },
+  {
+    "id": 437,
+    "character": "挂",
+    "pinyin": "guà",
+    "meaningEn": "to hang",
+    "meaningRu": ""
+  },
+  {
+    "id": 438,
+    "character": "合",
+    "pinyin": "hé",
+    "meaningEn": "to combine; to close",
+    "meaningRu": ""
+  },
+  {
+    "id": 439,
+    "character": "化",
+    "pinyin": "huà",
+    "meaningEn": "to change; to transform (suffix)",
+    "meaningRu": ""
+  },
+  {
+    "id": 440,
+    "character": "活",
+    "pinyin": "huó",
+    "meaningEn": "to live; alive",
+    "meaningRu": ""
+  },
+  {
+    "id": 441,
+    "character": "建",
+    "pinyin": "jiàn",
+    "meaningEn": "to build",
+    "meaningRu": ""
+  },
+  {
+    "id": 442,
+    "character": "领",
+    "pinyin": "lǐng",
+    "meaningEn": "to lead; collar",
+    "meaningRu": ""
+  },
+  {
+    "id": 443,
+    "character": "配",
+    "pinyin": "pèi",
+    "meaningEn": "to match; to be worthy of",
+    "meaningRu": ""
+  },
+  {
+    "id": 444,
+    "character": "缺",
+    "pinyin": "quē",
+    "meaningEn": "to lack",
+    "meaningRu": ""
+  },
+  {
+    "id": 445,
+    "character": "升",
+    "pinyin": "shēng",
+    "meaningEn": "to rise; liter",
+    "meaningRu": ""
+  },
+  {
+    "id": 446,
+    "character": "受",
+    "pinyin": "shòu",
+    "meaningEn": "to receive; to suffer",
+    "meaningRu": ""
+  },
+  {
+    "id": 447,
+    "character": "属",
+    "pinyin": "shǔ",
+    "meaningEn": "to belong to; to be born in the year of",
+    "meaningRu": ""
+  },
+  {
+    "id": 448,
+    "character": "死",
+    "pinyin": "sǐ",
+    "meaningEn": "to die; dead",
+    "meaningRu": ""
+  },
+  {
+    "id": 449,
+    "character": "退",
+    "pinyin": "tuì",
+    "meaningEn": "to retreat; to withdraw",
+    "meaningRu": ""
+  },
+  {
+    "id": 450,
+    "character": "围",
+    "pinyin": "wéi",
+    "meaningEn": "to surround",
+    "meaningRu": ""
+  },
+  {
+    "id": 451,
+    "character": "修",
+    "pinyin": "xiū",
+    "meaningEn": "to repair; to build",
+    "meaningRu": ""
+  },
+  {
+    "id": 452,
+    "character": "压",
+    "pinyin": "yā",
+    "meaningEn": "to press; to weigh down",
+    "meaningRu": ""
+  },
+  {
+    "id": 453,
+    "character": "游",
+    "pinyin": "yóu",
+    "meaningEn": "to swim; to tour",
+    "meaningRu": ""
+  },
+  {
+    "id": 454,
+    "character": "造",
+    "pinyin": "zào",
+    "meaningEn": "to build; to make",
+    "meaningRu": ""
+  },
+  {
+    "id": 455,
+    "character": "争",
+    "pinyin": "zhēng",
+    "meaningEn": "to compete for; to strive",
+    "meaningRu": ""
+  },
+  {
+    "id": 456,
+    "character": "指",
+    "pinyin": "zhǐ",
+    "meaningEn": "to point; finger",
+    "meaningRu": ""
+  },
+  {
+    "id": 457,
+    "character": "抓",
+    "pinyin": "zhuā",
+    "meaningEn": "to grab",
+    "meaningRu": ""
+  },
+  {
+    "id": 458,
+    "character": "转",
+    "pinyin": "zhuǎn",
+    "meaningEn": "to turn; to transfer",
+    "meaningRu": ""
+  },
+  {
+    "id": 459,
+    "character": "追",
+    "pinyin": "zhuī",
+    "meaningEn": "to chase",
+    "meaningRu": ""
+  },
+  {
+    "id": 460,
+    "character": "保",
+    "pinyin": "bǎo",
+    "meaningEn": "to protect; to guarantee",
+    "meaningRu": ""
+  },
+  {
+    "id": 461,
+    "character": "传",
+    "pinyin": "chuán",
+    "meaningEn": "to pass on; to transmit",
+    "meaningRu": ""
+  },
+  {
+    "id": 462,
+    "character": "调",
+    "pinyin": "diào",
+    "meaningEn": "to transfer; tune",
+    "meaningRu": ""
+  },
+  {
+    "id": 463,
+    "character": "敢",
+    "pinyin": "gǎn",
+    "meaningEn": "to dare",
+    "meaningRu": ""
+  },
+  {
+    "id": 464,
+    "character": "管",
+    "pinyin": "guǎn",
+    "meaningEn": "to manage; to control",
+    "meaningRu": ""
+  },
+  {
+    "id": 465,
+    "character": "救",
+    "pinyin": "jiù",
+    "meaningEn": "to rescue; to save",
+    "meaningRu": ""
+  },
+  {
+    "id": 466,
+    "character": "念",
+    "pinyin": "niàn",
+    "meaningEn": "to read aloud; to study",
+    "meaningRu": ""
+  },
+  {
+    "id": 467,
+    "character": "派",
+    "pinyin": "pài",
+    "meaningEn": "to dispatch; faction",
+    "meaningRu": ""
+  },
+  {
+    "id": 468,
+    "character": "使",
+    "pinyin": "shǐ",
+    "meaningEn": "to make; to cause; to send",
+    "meaningRu": ""
+  },
+  {
+    "id": 469,
+    "character": "谈",
+    "pinyin": "tán",
+    "meaningEn": "to talk; to discuss",
+    "meaningRu": ""
+  },
+  {
+    "id": 470,
+    "character": "约",
+    "pinyin": "yuē",
+    "meaningEn": "to make an appointment; approximately",
+    "meaningRu": ""
+  },
+  {
+    "id": 471,
+    "character": "祝",
+    "pinyin": "zhù",
+    "meaningEn": "to wish (someone well)",
+    "meaningRu": ""
+  },
+  {
+    "id": 472,
+    "character": "订",
+    "pinyin": "dìng",
+    "meaningEn": "to order; to book",
+    "meaningRu": ""
+  },
+  {
+    "id": 473,
+    "character": "付",
+    "pinyin": "fù",
+    "meaningEn": "to pay",
+    "meaningRu": ""
+  },
+  {
+    "id": 474,
+    "character": "录",
+    "pinyin": "lù",
+    "meaningEn": "to record",
+    "meaningRu": ""
+  },
+  {
+    "id": 475,
+    "character": "拍",
+    "pinyin": "pāi",
+    "meaningEn": "to pat; to shoot (photo/film)",
+    "meaningRu": ""
+  },
+  {
+    "id": 476,
+    "character": "胖",
+    "pinyin": "pàng",
+    "meaningEn": "fat; plump",
+    "meaningRu": ""
+  },
+  {
+    "id": 477,
+    "character": "瘦",
+    "pinyin": "shòu",
+    "meaningEn": "thin; slim; lean",
+    "meaningRu": ""
+  },
+  {
+    "id": 478,
+    "character": "旧",
+    "pinyin": "jiù",
+    "meaningEn": "old (objects); worn",
+    "meaningRu": ""
+  },
+  {
+    "id": 479,
+    "character": "甜",
+    "pinyin": "tián",
+    "meaningEn": "sweet",
+    "meaningRu": ""
+  },
+  {
+    "id": 480,
+    "character": "吵",
+    "pinyin": "chǎo",
+    "meaningEn": "noisy; to quarrel",
+    "meaningRu": ""
+  },
+  {
+    "id": 481,
+    "character": "富",
+    "pinyin": "fù",
+    "meaningEn": "rich; wealthy",
+    "meaningRu": ""
+  },
+  {
+    "id": 482,
+    "character": "古",
+    "pinyin": "gǔ",
+    "meaningEn": "ancient",
+    "meaningRu": ""
+  },
+  {
+    "id": 483,
+    "character": "紧",
+    "pinyin": "jǐn",
+    "meaningEn": "tight",
+    "meaningRu": ""
+  },
+  {
+    "id": 484,
+    "character": "静",
+    "pinyin": "jìng",
+    "meaningEn": "quiet; still",
+    "meaningRu": ""
+  },
+  {
+    "id": 485,
+    "character": "空",
+    "pinyin": "kōng",
+    "meaningEn": "empty",
+    "meaningRu": ""
+  },
+  {
+    "id": 486,
+    "character": "困",
+    "pinyin": "kùn",
+    "meaningEn": "sleepy; trapped",
+    "meaningRu": ""
+  },
+  {
+    "id": 487,
+    "character": "乱",
+    "pinyin": "luàn",
+    "meaningEn": "messy; chaotic",
+    "meaningRu": ""
+  },
+  {
+    "id": 488,
+    "character": "美",
+    "pinyin": "měi",
+    "meaningEn": "beautiful",
+    "meaningRu": ""
+  },
+  {
+    "id": 489,
+    "character": "破",
+    "pinyin": "pò",
+    "meaningEn": "broken; torn",
+    "meaningRu": ""
+  },
+  {
+    "id": 490,
+    "character": "强",
+    "pinyin": "qiáng",
+    "meaningEn": "strong",
+    "meaningRu": ""
+  },
+  {
+    "id": 491,
+    "character": "巧",
+    "pinyin": "qiǎo",
+    "meaningEn": "coincidental; skillful",
+    "meaningRu": ""
+  },
+  {
+    "id": 492,
+    "character": "深",
+    "pinyin": "shēn",
+    "meaningEn": "deep",
+    "meaningRu": ""
+  },
+  {
+    "id": 493,
+    "character": "香",
+    "pinyin": "xiāng",
+    "meaningEn": "fragrant",
+    "meaningRu": ""
+  },
+  {
+    "id": 494,
+    "character": "直",
+    "pinyin": "zhí",
+    "meaningEn": "straight",
+    "meaningRu": ""
+  },
+  {
+    "id": 495,
+    "character": "准",
+    "pinyin": "zhǔn",
+    "meaningEn": "accurate; standard",
+    "meaningRu": ""
+  },
+  {
+    "id": 496,
+    "character": "按",
+    "pinyin": "àn",
+    "meaningEn": "according to; to press",
+    "meaningRu": ""
+  },
+  {
+    "id": 497,
+    "character": "朝",
+    "pinyin": "cháo",
+    "meaningEn": "towards; facing",
+    "meaningRu": ""
+  },
+  {
+    "id": 498,
+    "character": "各",
+    "pinyin": "gè",
+    "meaningEn": "each; every",
+    "meaningRu": ""
+  },
+  {
+    "id": 499,
+    "character": "较",
+    "pinyin": "jiào",
+    "meaningEn": "relatively; comparatively",
+    "meaningRu": ""
+  },
+  {
+    "id": 500,
+    "character": "仅",
+    "pinyin": "jǐn",
+    "meaningEn": "only; merely",
+    "meaningRu": ""
+  },
+  {
+    "id": 501,
+    "character": "久",
+    "pinyin": "jiǔ",
+    "meaningEn": "long (time)",
+    "meaningRu": ""
+  },
+  {
+    "id": 502,
+    "character": "连",
+    "pinyin": "lián",
+    "meaningEn": "even; to link",
+    "meaningRu": ""
+  },
+  {
+    "id": 503,
+    "character": "某",
+    "pinyin": "mǒu",
+    "meaningEn": "a certain (unspecified)",
+    "meaningRu": ""
+  },
+  {
+    "id": 504,
+    "character": "齐",
+    "pinyin": "qí",
+    "meaningEn": "together; even (uniform)",
+    "meaningRu": ""
+  },
+  {
+    "id": 505,
+    "character": "仍",
+    "pinyin": "réng",
+    "meaningEn": "still; yet",
+    "meaningRu": ""
+  },
+  {
+    "id": 506,
+    "character": "随",
+    "pinyin": "suí",
+    "meaningEn": "to follow; along with",
+    "meaningRu": ""
+  },
+  {
+    "id": 507,
+    "character": "已",
+    "pinyin": "yǐ",
+    "meaningEn": "already",
+    "meaningRu": ""
+  },
+  {
+    "id": 508,
+    "character": "照",
+    "pinyin": "zhào",
+    "meaningEn": "to shine; according to",
+    "meaningRu": ""
+  },
+  {
+    "id": 509,
+    "character": "者",
+    "pinyin": "zhě",
+    "meaningEn": "-er/-ist (suffix for person)",
+    "meaningRu": ""
+  },
+  {
+    "id": 510,
+    "character": "整",
+    "pinyin": "zhěng",
+    "meaningEn": "whole; entire",
+    "meaningRu": ""
+  },
+  {
+    "id": 511,
+    "character": "种",
+    "pinyin": "zhǒng",
+    "meaningEn": "kind; type; to plant",
+    "meaningRu": ""
+  },
+  {
+    "id": 512,
+    "character": "总",
+    "pinyin": "zǒng",
+    "meaningEn": "always; overall; chief",
+    "meaningRu": ""
+  },
+  {
+    "id": 513,
+    "character": "把",
+    "pinyin": "bǎ",
+    "meaningEn": "preposition (introduces the object of a verb)",
+    "meaningRu": ""
+  },
+  {
+    "id": 514,
+    "character": "被",
+    "pinyin": "bèi",
+    "meaningEn": "by (passive voice marker)",
+    "meaningRu": ""
+  },
+  {
+    "id": 515,
+    "character": "并",
+    "pinyin": "bìng",
+    "meaningEn": "and; furthermore",
+    "meaningRu": ""
+  },
+  {
+    "id": 516,
+    "character": "由",
+    "pinyin": "yóu",
+    "meaningEn": "by; from; due to",
+    "meaningRu": ""
+  },
+  {
+    "id": 517,
+    "character": "系",
+    "pinyin": "xì",
+    "meaningEn": "department (academic); to tie",
+    "meaningRu": ""
+  },
+  {
+    "id": 518,
+    "character": "金",
+    "pinyin": "jīn",
+    "meaningEn": "gold",
+    "meaningRu": ""
+  },
+  {
+    "id": 519,
+    "character": "银",
+    "pinyin": "yín",
+    "meaningEn": "silver",
+    "meaningRu": ""
+  },
+  {
+    "id": 520,
+    "character": "伤",
+    "pinyin": "shāng",
+    "meaningEn": "to injure; wound",
+    "meaningRu": ""
+  },
+  {
+    "id": 521,
+    "character": "胜",
+    "pinyin": "shèng",
+    "meaningEn": "to win; victory",
+    "meaningRu": ""
+  },
+  {
+    "id": 522,
+    "character": "输",
+    "pinyin": "shū",
+    "meaningEn": "to lose (a game); to transport",
+    "meaningRu": ""
+  },
+  {
+    "id": 523,
+    "character": "痛",
+    "pinyin": "tòng",
+    "meaningEn": "painful",
+    "meaningRu": ""
+  },
+  {
+    "id": 524,
+    "character": "血",
+    "pinyin": "xiě",
+    "meaningEn": "blood",
+    "meaningRu": ""
+  },
+  {
+    "id": 525,
+    "character": "赢",
+    "pinyin": "yíng",
+    "meaningEn": "to win",
+    "meaningRu": ""
+  },
+  {
+    "id": 526,
+    "character": "任",
+    "pinyin": "rèn",
+    "meaningEn": "to serve as (a post); to allow",
+    "meaningRu": ""
+  },
+  {
+    "id": 527,
+    "character": "费",
+    "pinyin": "fèi",
+    "meaningEn": "fee; expense",
+    "meaningRu": ""
+  },
+  {
+    "id": 528,
+    "character": "值",
+    "pinyin": "zhí",
+    "meaningEn": "value; to be worth",
+    "meaningRu": ""
+  },
+  {
+    "id": 529,
+    "character": "福",
+    "pinyin": "fú",
+    "meaningEn": "good fortune; blessing",
+    "meaningRu": ""
+  },
+  {
+    "id": 530,
+    "character": "乐",
+    "pinyin": "lè",
+    "meaningEn": "happy; joy",
+    "meaningRu": ""
+  },
+  {
+    "id": 531,
+    "character": "亲",
+    "pinyin": "qīn",
+    "meaningEn": "close (relation); to kiss",
+    "meaningRu": ""
+  },
+  {
+    "id": 532,
+    "character": "心",
+    "pinyin": "xīn",
+    "meaningEn": "heart; mind",
+    "meaningRu": ""
+  },
+  {
+    "id": 533,
+    "character": "龙",
+    "pinyin": "lóng",
+    "meaningEn": "dragon",
+    "meaningRu": ""
+  },
+  {
+    "id": 534,
+    "character": "迷",
+    "pinyin": "mí",
+    "meaningEn": "fan (enthusiast); to be fascinated",
+    "meaningRu": ""
+  },
+  {
+    "id": 535,
+    "character": "演",
+    "pinyin": "yǎn",
+    "meaningEn": "to perform; to act",
+    "meaningRu": ""
+  },
+  {
+    "id": 536,
+    "character": "铁",
+    "pinyin": "tiě",
+    "meaningEn": "iron",
+    "meaningRu": ""
+  },
+  {
+    "id": 537,
+    "character": "土",
+    "pinyin": "tǔ",
+    "meaningEn": "earth; soil",
+    "meaningRu": ""
+  },
+  {
+    "id": 538,
+    "character": "烟",
+    "pinyin": "yān",
+    "meaningEn": "smoke; cigarette",
+    "meaningRu": ""
+  },
+  {
+    "id": 539,
+    "character": "俩",
+    "pinyin": "liǎ",
+    "meaningEn": "two (people, colloquial)",
+    "meaningRu": ""
+  },
+  {
+    "id": 540,
+    "character": "些",
+    "pinyin": "xiē",
+    "meaningEn": "some; a few (indicates plural)",
+    "meaningRu": ""
+  },
+  {
+    "id": 541,
+    "character": "倍",
+    "pinyin": "bèi",
+    "meaningEn": "times; -fold",
+    "meaningRu": ""
+  },
+  {
+    "id": 542,
+    "character": "尺",
+    "pinyin": "chǐ",
+    "meaningEn": "a Chinese foot (measure); ruler",
+    "meaningRu": ""
+  },
+  {
+    "id": 543,
+    "character": "袋",
+    "pinyin": "dài",
+    "meaningEn": "bag; sack",
+    "meaningRu": ""
+  },
+  {
+    "id": 544,
+    "character": "根",
+    "pinyin": "gēn",
+    "meaningEn": "root; measure word for long thin objects",
+    "meaningRu": ""
+  },
+  {
+    "id": 545,
+    "character": "卷",
+    "pinyin": "juǎn",
+    "meaningEn": "to roll up; volume (book)",
+    "meaningRu": ""
+  },
+  {
+    "id": 546,
+    "character": "棵",
+    "pinyin": "kē",
+    "meaningEn": "measure word for trees/plants",
+    "meaningRu": ""
+  },
+  {
+    "id": 547,
+    "character": "轮",
+    "pinyin": "lún",
+    "meaningEn": "wheel; measure word for rounds",
+    "meaningRu": ""
+  },
+  {
+    "id": 548,
+    "character": "盘",
+    "pinyin": "pán",
+    "meaningEn": "plate; measure word for dishes",
+    "meaningRu": ""
+  },
+  {
+    "id": 549,
+    "character": "批",
+    "pinyin": "pī",
+    "meaningEn": "batch; measure word for groups",
+    "meaningRu": ""
+  },
+  {
+    "id": 550,
+    "character": "首",
+    "pinyin": "shǒu",
+    "meaningEn": "measure word for songs/poems; head",
+    "meaningRu": ""
+  },
+  {
+    "id": 551,
+    "character": "箱",
+    "pinyin": "xiāng",
+    "meaningEn": "box; case",
+    "meaningRu": ""
+  },
+  {
+    "id": 552,
+    "character": "项",
+    "pinyin": "xiàng",
+    "meaningEn": "measure word for items/projects",
+    "meaningRu": ""
+  },
+  {
+    "id": 553,
+    "character": "阵",
+    "pinyin": "zhèn",
+    "meaningEn": "measure word for a burst/spell",
+    "meaningRu": ""
+  },
+  {
+    "id": 554,
+    "character": "末",
+    "pinyin": "mò",
+    "meaningEn": "end",
+    "meaningRu": ""
+  },
+  {
+    "id": 555,
+    "character": "户",
+    "pinyin": "hù",
+    "meaningEn": "household; door",
+    "meaningRu": ""
+  },
+  {
+    "id": 556,
+    "character": "伙",
+    "pinyin": "huǒ",
+    "meaningEn": "partner; group",
+    "meaningRu": ""
+  },
+  {
+    "id": 557,
+    "character": "处",
+    "pinyin": "chù",
+    "meaningEn": "place; office (department)",
+    "meaningRu": ""
+  },
+  {
+    "id": 558,
+    "character": "县",
+    "pinyin": "xiàn",
+    "meaningEn": "county",
+    "meaningRu": ""
+  },
+  {
+    "id": 559,
+    "character": "底",
+    "pinyin": "dǐ",
+    "meaningEn": "bottom",
+    "meaningRu": ""
+  },
+  {
+    "id": 560,
+    "character": "顶",
+    "pinyin": "dǐng",
+    "meaningEn": "top; summit",
+    "meaningRu": ""
+  },
+  {
+    "id": 561,
+    "character": "伞",
+    "pinyin": "sǎn",
+    "meaningEn": "umbrella",
+    "meaningRu": ""
+  },
+  {
+    "id": 562,
+    "character": "瓜",
+    "pinyin": "guā",
+    "meaningEn": "melon",
+    "meaningRu": ""
+  },
+  {
+    "id": 563,
+    "character": "圈",
+    "pinyin": "quān",
+    "meaningEn": "circle; ring",
+    "meaningRu": ""
+  },
+  {
+    "id": 564,
+    "character": "盐",
+    "pinyin": "yán",
+    "meaningEn": "salt",
+    "meaningRu": ""
+  },
+  {
+    "id": 565,
+    "character": "玉",
+    "pinyin": "yù",
+    "meaningEn": "jade",
+    "meaningRu": ""
+  },
+  {
+    "id": 566,
+    "character": "宝",
+    "pinyin": "bǎo",
+    "meaningEn": "treasure",
+    "meaningRu": ""
+  },
+  {
+    "id": 567,
+    "character": "方",
+    "pinyin": "fāng",
+    "meaningEn": "direction; square",
+    "meaningRu": ""
+  },
+  {
+    "id": 568,
+    "character": "量",
+    "pinyin": "liàng",
+    "meaningEn": "quantity",
+    "meaningRu": ""
+  },
+  {
+    "id": 569,
+    "character": "牌",
+    "pinyin": "pái",
+    "meaningEn": "brand; sign; plate",
+    "meaningRu": ""
+  },
+  {
+    "id": 570,
+    "character": "型",
+    "pinyin": "xíng",
+    "meaningEn": "type; model",
+    "meaningRu": ""
+  },
+  {
+    "id": 571,
+    "character": "摆",
+    "pinyin": "bǎi",
+    "meaningEn": "to place; to arrange",
+    "meaningRu": ""
+  },
+  {
+    "id": 572,
+    "character": "抱",
+    "pinyin": "bào",
+    "meaningEn": "to hug; to hold",
+    "meaningRu": ""
+  },
+  {
+    "id": 573,
+    "character": "避",
+    "pinyin": "bì",
+    "meaningEn": "to avoid",
+    "meaningRu": ""
+  },
+  {
+    "id": 574,
+    "character": "测",
+    "pinyin": "cè",
+    "meaningEn": "to measure",
+    "meaningRu": ""
+  },
+  {
+    "id": 575,
+    "character": "沉",
+    "pinyin": "chén",
+    "meaningEn": "to sink; heavy",
+    "meaningRu": ""
+  },
+  {
+    "id": 576,
+    "character": "冲",
+    "pinyin": "chōng",
+    "meaningEn": "to rush; to rinse",
+    "meaningRu": ""
+  },
+  {
+    "id": 577,
+    "character": "抽",
+    "pinyin": "chōu",
+    "meaningEn": "to draw out; to smoke",
+    "meaningRu": ""
+  },
+  {
+    "id": 578,
+    "character": "刺",
+    "pinyin": "cì",
+    "meaningEn": "thorn; to stab",
+    "meaningRu": ""
+  },
+  {
+    "id": 579,
+    "character": "登",
+    "pinyin": "dēng",
+    "meaningEn": "to climb; to publish",
+    "meaningRu": ""
+  },
+  {
+    "id": 580,
+    "character": "堵",
+    "pinyin": "dǔ",
+    "meaningEn": "to block",
+    "meaningRu": ""
+  },
+  {
+    "id": 581,
+    "character": "翻",
+    "pinyin": "fān",
+    "meaningEn": "to flip; to turn over",
+    "meaningRu": ""
+  },
+  {
+    "id": 582,
+    "character": "盖",
+    "pinyin": "gài",
+    "meaningEn": "to cover; to build",
+    "meaningRu": ""
+  },
+  {
+    "id": 583,
+    "character": "隔",
+    "pinyin": "gé",
+    "meaningEn": "to separate; apart",
+    "meaningRu": ""
+  },
+  {
+    "id": 584,
+    "character": "归",
+    "pinyin": "guī",
+    "meaningEn": "to return; to belong to",
+    "meaningRu": ""
+  },
+  {
+    "id": 585,
+    "character": "含",
+    "pinyin": "hán",
+    "meaningEn": "to contain",
+    "meaningRu": ""
+  },
+  {
+    "id": 586,
+    "character": "划",
+    "pinyin": "huà",
+    "meaningEn": "to draw (a line); to plan",
+    "meaningRu": ""
+  },
+  {
+    "id": 587,
+    "character": "获",
+    "pinyin": "huò",
+    "meaningEn": "to obtain; to capture",
+    "meaningRu": ""
+  },
+  {
+    "id": 588,
+    "character": "减",
+    "pinyin": "jiǎn",
+    "meaningEn": "to subtract; to reduce",
+    "meaningRu": ""
+  },
+  {
+    "id": 589,
+    "character": "降",
+    "pinyin": "jiàng",
+    "meaningEn": "to descend; to drop",
+    "meaningRu": ""
+  },
+  {
+    "id": 590,
+    "character": "结",
+    "pinyin": "jié",
+    "meaningEn": "to tie; to conclude",
+    "meaningRu": ""
+  },
+  {
+    "id": 591,
+    "character": "聚",
+    "pinyin": "jù",
+    "meaningEn": "to gather",
+    "meaningRu": ""
+  },
+  {
+    "id": 592,
+    "character": "列",
+    "pinyin": "liè",
+    "meaningEn": "to line up; row",
+    "meaningRu": ""
+  },
+  {
+    "id": 593,
+    "character": "落",
+    "pinyin": "luò",
+    "meaningEn": "to fall; to land",
+    "meaningRu": ""
+  },
+  {
+    "id": 594,
+    "character": "摸",
+    "pinyin": "mō",
+    "meaningEn": "to touch; to feel",
+    "meaningRu": ""
+  },
+  {
+    "id": 595,
+    "character": "闹",
+    "pinyin": "nào",
+    "meaningEn": "to make a racket; to stir up",
+    "meaningRu": ""
+  },
+  {
+    "id": 596,
+    "character": "切",
+    "pinyin": "qiē",
+    "meaningEn": "to cut",
+    "meaningRu": ""
+  },
+  {
+    "id": 597,
+    "character": "散",
+    "pinyin": "sàn",
+    "meaningEn": "to scatter; to disperse",
+    "meaningRu": ""
+  },
+  {
+    "id": 598,
+    "character": "闪",
+    "pinyin": "shǎn",
+    "meaningEn": "to flash; to dodge",
+    "meaningRu": ""
+  },
+  {
+    "id": 599,
+    "character": "烧",
+    "pinyin": "shāo",
+    "meaningEn": "to burn; to cook",
+    "meaningRu": ""
+  },
+  {
+    "id": 600,
+    "character": "躺",
+    "pinyin": "tǎng",
+    "meaningEn": "to lie down",
+    "meaningRu": ""
+  },
+  {
+    "id": 601,
+    "character": "填",
+    "pinyin": "tián",
+    "meaningEn": "to fill in",
+    "meaningRu": ""
+  },
+  {
+    "id": 602,
+    "character": "挑",
+    "pinyin": "tiāo",
+    "meaningEn": "to pick; to select",
+    "meaningRu": ""
+  },
+  {
+    "id": 603,
+    "character": "贴",
+    "pinyin": "tiē",
+    "meaningEn": "to paste; to stick",
+    "meaningRu": ""
+  },
+  {
+    "id": 604,
+    "character": "投",
+    "pinyin": "tóu",
+    "meaningEn": "to throw; to invest",
+    "meaningRu": ""
+  },
+  {
+    "id": 605,
+    "character": "透",
+    "pinyin": "tòu",
+    "meaningEn": "to penetrate; through",
+    "meaningRu": ""
+  },
+  {
+    "id": 606,
+    "character": "弯",
+    "pinyin": "wān",
+    "meaningEn": "bent; to bend",
+    "meaningRu": ""
+  },
+  {
+    "id": 607,
+    "character": "吸",
+    "pinyin": "xī",
+    "meaningEn": "to inhale; to absorb",
+    "meaningRu": ""
+  },
+  {
+    "id": 608,
+    "character": "摇",
+    "pinyin": "yáo",
+    "meaningEn": "to shake",
+    "meaningRu": ""
+  },
+  {
+    "id": 609,
+    "character": "移",
+    "pinyin": "yí",
+    "meaningEn": "to move; to shift",
+    "meaningRu": ""
+  },
+  {
+    "id": 610,
+    "character": "引",
+    "pinyin": "yǐn",
+    "meaningEn": "to lead; to attract",
+    "meaningRu": ""
+  },
+  {
+    "id": 611,
+    "character": "遇",
+    "pinyin": "yù",
+    "meaningEn": "to meet; to encounter",
+    "meaningRu": ""
+  },
+  {
+    "id": 612,
+    "character": "定",
+    "pinyin": "dìng",
+    "meaningEn": "to set; to decide",
+    "meaningRu": ""
+  },
+  {
+    "id": 613,
+    "character": "守",
+    "pinyin": "shǒu",
+    "meaningEn": "to guard; to keep",
+    "meaningRu": ""
+  },
+  {
+    "id": 614,
+    "character": "擦",
+    "pinyin": "cā",
+    "meaningEn": "to wipe",
+    "meaningRu": ""
+  },
+  {
+    "id": 615,
+    "character": "戴",
+    "pinyin": "dài",
+    "meaningEn": "to wear (accessories)",
+    "meaningRu": ""
+  },
+  {
+    "id": 616,
+    "character": "逛",
+    "pinyin": "guàng",
+    "meaningEn": "to stroll; to wander",
+    "meaningRu": ""
+  },
+  {
+    "id": 617,
+    "character": "寄",
+    "pinyin": "jì",
+    "meaningEn": "to mail; to send",
+    "meaningRu": ""
+  },
+  {
+    "id": 618,
+    "character": "扫",
+    "pinyin": "sǎo",
+    "meaningEn": "to sweep",
+    "meaningRu": ""
+  },
+  {
+    "id": 619,
+    "character": "晒",
+    "pinyin": "shài",
+    "meaningEn": "to expose to the sun",
+    "meaningRu": ""
+  },
+  {
+    "id": 620,
+    "character": "刷",
+    "pinyin": "shuā",
+    "meaningEn": "to brush",
+    "meaningRu": ""
+  },
+  {
+    "id": 621,
+    "character": "脱",
+    "pinyin": "tuō",
+    "meaningEn": "to take off (clothes)",
+    "meaningRu": ""
+  },
+  {
+    "id": 622,
+    "character": "醒",
+    "pinyin": "xǐng",
+    "meaningEn": "to wake up",
+    "meaningRu": ""
+  },
+  {
+    "id": 623,
+    "character": "矮",
+    "pinyin": "ǎi",
+    "meaningEn": "short (in height)",
+    "meaningRu": ""
+  },
+  {
+    "id": 624,
+    "character": "酸",
+    "pinyin": "suān",
+    "meaningEn": "sour; acid",
+    "meaningRu": ""
+  },
+  {
+    "id": 625,
+    "character": "辣",
+    "pinyin": "là",
+    "meaningEn": "spicy; hot",
+    "meaningRu": ""
+  },
+  {
+    "id": 626,
+    "character": "苦",
+    "pinyin": "kǔ",
+    "meaningEn": "bitter",
+    "meaningRu": ""
+  },
+  {
+    "id": 627,
+    "character": "咸",
+    "pinyin": "xián",
+    "meaningEn": "salty",
+    "meaningRu": ""
+  },
+  {
+    "id": 628,
+    "character": "帅",
+    "pinyin": "shuài",
+    "meaningEn": "handsome",
+    "meaningRu": ""
+  },
+  {
+    "id": 629,
+    "character": "安",
+    "pinyin": "ān",
+    "meaningEn": "safe; to install",
+    "meaningRu": ""
+  },
+  {
+    "id": 630,
+    "character": "暗",
+    "pinyin": "àn",
+    "meaningEn": "dark",
+    "meaningRu": ""
+  },
+  {
+    "id": 631,
+    "character": "薄",
+    "pinyin": "báo",
+    "meaningEn": "thin (flat objects)",
+    "meaningRu": ""
+  },
+  {
+    "id": 632,
+    "character": "笨",
+    "pinyin": "bèn",
+    "meaningEn": "stupid; clumsy",
+    "meaningRu": ""
+  },
+  {
+    "id": 633,
+    "character": "纯",
+    "pinyin": "chún",
+    "meaningEn": "pure",
+    "meaningRu": ""
+  },
+  {
+    "id": 634,
+    "character": "粗",
+    "pinyin": "cū",
+    "meaningEn": "thick; rough",
+    "meaningRu": ""
+  },
+  {
+    "id": 635,
+    "character": "单",
+    "pinyin": "dān",
+    "meaningEn": "single; odd (number)",
+    "meaningRu": ""
+  },
+  {
+    "id": 636,
+    "character": "淡",
+    "pinyin": "dàn",
+    "meaningEn": "light (taste/color); indifferent",
+    "meaningRu": ""
+  },
+  {
+    "id": 637,
+    "character": "反",
+    "pinyin": "fǎn",
+    "meaningEn": "opposite; to oppose",
+    "meaningRu": ""
+  },
+  {
+    "id": 638,
+    "character": "肥",
+    "pinyin": "féi",
+    "meaningEn": "fat (of animals); loose-fitting",
+    "meaningRu": ""
+  },
+  {
+    "id": 639,
+    "character": "怪",
+    "pinyin": "guài",
+    "meaningEn": "strange; to blame",
+    "meaningRu": ""
+  },
+  {
+    "id": 640,
+    "character": "厚",
+    "pinyin": "hòu",
+    "meaningEn": "thick",
+    "meaningRu": ""
+  },
+  {
+    "id": 641,
+    "character": "宽",
+    "pinyin": "kuān",
+    "meaningEn": "wide",
+    "meaningRu": ""
+  },
+  {
+    "id": 642,
+    "character": "密",
+    "pinyin": "mì",
+    "meaningEn": "dense; secret",
+    "meaningRu": ""
+  },
+  {
+    "id": 643,
+    "character": "浓",
+    "pinyin": "nóng",
+    "meaningEn": "thick; strong (concentration)",
+    "meaningRu": ""
+  },
+  {
+    "id": 644,
+    "character": "浅",
+    "pinyin": "qiǎn",
+    "meaningEn": "shallow",
+    "meaningRu": ""
+  },
+  {
+    "id": 645,
+    "character": "穷",
+    "pinyin": "qióng",
+    "meaningEn": "poor",
+    "meaningRu": ""
+  },
+  {
+    "id": 646,
+    "character": "弱",
+    "pinyin": "ruò",
+    "meaningEn": "weak",
+    "meaningRu": ""
+  },
+  {
+    "id": 647,
+    "character": "松",
+    "pinyin": "sōng",
+    "meaningEn": "loose; to relax",
+    "meaningRu": ""
+  },
+  {
+    "id": 648,
+    "character": "稳",
+    "pinyin": "wěn",
+    "meaningEn": "steady; stable",
+    "meaningRu": ""
+  },
+  {
+    "id": 649,
+    "character": "细",
+    "pinyin": "xì",
+    "meaningEn": "thin; fine; detailed",
+    "meaningRu": ""
+  },
+  {
+    "id": 650,
+    "character": "鲜",
+    "pinyin": "xiān",
+    "meaningEn": "fresh; delicious",
+    "meaningRu": ""
+  },
+  {
+    "id": 651,
+    "character": "严",
+    "pinyin": "yán",
+    "meaningEn": "strict",
+    "meaningRu": ""
+  },
+  {
+    "id": 652,
+    "character": "圆",
+    "pinyin": "yuán",
+    "meaningEn": "round; circle",
+    "meaningRu": ""
+  },
+  {
+    "id": 653,
+    "character": "曾",
+    "pinyin": "céng",
+    "meaningEn": "once (in the past)",
+    "meaningRu": ""
+  },
+  {
+    "id": 654,
+    "character": "此",
+    "pinyin": "cǐ",
+    "meaningEn": "this (formal)",
+    "meaningRu": ""
+  },
+  {
+    "id": 655,
+    "character": "非",
+    "pinyin": "fēi",
+    "meaningEn": "not; non-",
+    "meaningRu": ""
+  },
+  {
+    "id": 656,
+    "character": "共",
+    "pinyin": "gòng",
+    "meaningEn": "altogether; in total",
+    "meaningRu": ""
+  },
+  {
+    "id": 657,
+    "character": "极",
+    "pinyin": "jí",
+    "meaningEn": "extremely; pole",
+    "meaningRu": ""
+  },
+  {
+    "id": 658,
+    "character": "替",
+    "pinyin": "tì",
+    "meaningEn": "to replace; instead of",
+    "meaningRu": ""
+  },
+  {
+    "id": 659,
+    "character": "无",
+    "pinyin": "wú",
+    "meaningEn": "without; -less",
+    "meaningRu": ""
+  },
+  {
+    "id": 660,
+    "character": "呀",
+    "pinyin": "ya",
+    "meaningEn": "(particle, softens tone)",
+    "meaningRu": ""
+  },
+  {
+    "id": 661,
+    "character": "应",
+    "pinyin": "yīng",
+    "meaningEn": "should",
+    "meaningRu": ""
+  },
+  {
+    "id": 662,
+    "character": "自",
+    "pinyin": "zì",
+    "meaningEn": "self; from",
+    "meaningRu": ""
+  },
+  {
+    "id": 663,
+    "character": "而",
+    "pinyin": "ér",
+    "meaningEn": "and; but (literary)",
+    "meaningRu": ""
+  },
+  {
+    "id": 664,
+    "character": "既",
+    "pinyin": "jì",
+    "meaningEn": "since; both...and",
+    "meaningRu": ""
+  },
+  {
+    "id": 665,
+    "character": "却",
+    "pinyin": "què",
+    "meaningEn": "but; yet",
+    "meaningRu": ""
+  },
+  {
+    "id": 666,
+    "character": "抄",
+    "pinyin": "chāo",
+    "meaningEn": "to copy",
+    "meaningRu": ""
+  },
+  {
+    "id": 667,
+    "character": "色",
+    "pinyin": "sè",
+    "meaningEn": "color",
+    "meaningRu": ""
+  },
+  {
+    "id": 668,
+    "character": "冰",
+    "pinyin": "bīng",
+    "meaningEn": "ice",
+    "meaningRu": ""
+  },
+  {
+    "id": 669,
+    "character": "季",
+    "pinyin": "jì",
+    "meaningEn": "season",
+    "meaningRu": ""
+  },
+  {
+    "id": 670,
+    "character": "湿",
+    "pinyin": "shī",
+    "meaningEn": "wet",
+    "meaningRu": ""
+  },
+  {
+    "id": 671,
+    "character": "败",
+    "pinyin": "bài",
+    "meaningEn": "to defeat; to lose",
+    "meaningRu": ""
+  },
+  {
+    "id": 672,
+    "character": "奖",
+    "pinyin": "jiǎng",
+    "meaningEn": "prize; award",
+    "meaningRu": ""
+  },
+  {
+    "id": 673,
+    "character": "牙",
+    "pinyin": "yá",
+    "meaningEn": "tooth",
+    "meaningRu": ""
+  },
+  {
+    "id": 674,
+    "character": "腰",
+    "pinyin": "yāo",
+    "meaningEn": "waist",
+    "meaningRu": ""
+  },
+  {
+    "id": 675,
+    "character": "汇",
+    "pinyin": "huì",
+    "meaningEn": "to remit; to converge",
+    "meaningRu": ""
+  },
+  {
+    "id": 676,
+    "character": "货",
+    "pinyin": "huò",
+    "meaningEn": "goods; merchandise",
+    "meaningRu": ""
+  },
+  {
+    "id": 677,
+    "character": "折",
+    "pinyin": "zhé",
+    "meaningEn": "to fold; discount",
+    "meaningRu": ""
+  },
+  {
+    "id": 678,
+    "character": "烦",
+    "pinyin": "fán",
+    "meaningEn": "annoyed; bothersome",
+    "meaningRu": ""
+  },
+  {
+    "id": 679,
+    "character": "泪",
+    "pinyin": "lèi",
+    "meaningEn": "tear (crying)",
+    "meaningRu": ""
+  },
+  {
+    "id": 680,
+    "character": "梦",
+    "pinyin": "mèng",
+    "meaningEn": "dream",
+    "meaningRu": ""
+  },
+  {
+    "id": 681,
+    "character": "编",
+    "pinyin": "biān",
+    "meaningEn": "to compile; to edit",
+    "meaningRu": ""
+  },
+  {
+    "id": 682,
+    "character": "赏",
+    "pinyin": "shǎng",
+    "meaningEn": "to appreciate; to reward",
+    "meaningRu": ""
+  },
+  {
+    "id": 683,
+    "character": "诗",
+    "pinyin": "shī",
+    "meaningEn": "poem",
+    "meaningRu": ""
+  },
+  {
+    "id": 684,
+    "character": "潮",
+    "pinyin": "cháo",
+    "meaningEn": "tide; damp",
+    "meaningRu": ""
+  },
+  {
+    "id": 685,
+    "character": "江",
+    "pinyin": "jiāng",
+    "meaningEn": "(large) river",
+    "meaningRu": ""
+  },
+  {
+    "id": 686,
+    "character": "耕",
+    "pinyin": "gēng",
+    "meaningEn": "to plough; to farm",
+    "meaningRu": ""
+  },
+  {
+    "id": 687,
+    "character": "针",
+    "pinyin": "zhēn",
+    "meaningEn": "needle",
+    "meaningRu": ""
+  },
+  {
+    "id": 688,
+    "character": "治",
+    "pinyin": "zhì",
+    "meaningEn": "to govern; to cure",
+    "meaningRu": ""
+  },
+  {
+    "id": 689,
+    "character": "兵",
+    "pinyin": "bīng",
+    "meaningEn": "soldier",
+    "meaningRu": ""
+  },
+  {
+    "id": 690,
+    "character": "法",
+    "pinyin": "fǎ",
+    "meaningEn": "law; method",
+    "meaningRu": ""
+  },
+  {
+    "id": 691,
+    "character": "官",
+    "pinyin": "guān",
+    "meaningEn": "official; government officer",
+    "meaningRu": ""
+  },
+  {
+    "id": 692,
+    "character": "局",
+    "pinyin": "jú",
+    "meaningEn": "bureau; office",
+    "meaningRu": ""
+  },
+  {
+    "id": 693,
+    "character": "王",
+    "pinyin": "wáng",
+    "meaningEn": "king",
+    "meaningRu": ""
+  },
+  {
+    "id": 694,
+    "character": "册",
+    "pinyin": "cè",
+    "meaningEn": "measure word for books/volumes",
+    "meaningRu": ""
+  },
+  {
+    "id": 695,
+    "character": "寸",
+    "pinyin": "cùn",
+    "meaningEn": "a Chinese inch (unit)",
+    "meaningRu": ""
+  },
+  {
+    "id": 696,
+    "character": "堆",
+    "pinyin": "duī",
+    "meaningEn": "pile; heap",
+    "meaningRu": ""
+  },
+  {
+    "id": 697,
+    "character": "吨",
+    "pinyin": "dūn",
+    "meaningEn": "ton (unit)",
+    "meaningRu": ""
+  },
+  {
+    "id": 698,
+    "character": "朵",
+    "pinyin": "duǒ",
+    "meaningEn": "measure word for flowers/clouds",
+    "meaningRu": ""
+  },
+  {
+    "id": 699,
+    "character": "幅",
+    "pinyin": "fú",
+    "meaningEn": "measure word for paintings/cloth",
+    "meaningRu": ""
+  },
+  {
+    "id": 700,
+    "character": "盒",
+    "pinyin": "hé",
+    "meaningEn": "box",
+    "meaningRu": ""
+  },
+  {
+    "id": 701,
+    "character": "届",
+    "pinyin": "jiè",
+    "meaningEn": "measure word for sessions/terms",
+    "meaningRu": ""
+  },
+  {
+    "id": 702,
+    "character": "颗",
+    "pinyin": "kē",
+    "meaningEn": "measure word for small round things",
+    "meaningRu": ""
+  },
+  {
+    "id": 703,
+    "character": "匹",
+    "pinyin": "pǐ",
+    "meaningEn": "measure word for horses/cloth",
+    "meaningRu": ""
+  },
+  {
+    "id": 704,
+    "character": "秒",
+    "pinyin": "miǎo",
+    "meaningEn": "second (time unit)",
+    "meaningRu": ""
+  },
+  {
+    "id": 705,
+    "character": "辈",
+    "pinyin": "bèi",
+    "meaningEn": "generation",
+    "meaningRu": ""
+  },
+  {
+    "id": 706,
+    "character": "厅",
+    "pinyin": "tīng",
+    "meaningEn": "hall",
+    "meaningRu": ""
+  },
+  {
+    "id": 707,
+    "character": "屋",
+    "pinyin": "wū",
+    "meaningEn": "room; house",
+    "meaningRu": ""
+  },
+  {
+    "id": 708,
+    "character": "乡",
+    "pinyin": "xiāng",
+    "meaningEn": "township; countryside",
+    "meaningRu": ""
+  },
+  {
+    "id": 709,
+    "character": "旁",
+    "pinyin": "páng",
+    "meaningEn": "side",
+    "meaningRu": ""
+  },
+  {
+    "id": 710,
+    "character": "饼",
+    "pinyin": "bǐng",
+    "meaningEn": "round flatcake",
+    "meaningRu": ""
+  },
+  {
+    "id": 711,
+    "character": "叉",
+    "pinyin": "chā",
+    "meaningEn": "fork; to cross",
+    "meaningRu": ""
+  },
+  {
+    "id": 712,
+    "character": "锅",
+    "pinyin": "guō",
+    "meaningEn": "pot; wok",
+    "meaningRu": ""
+  },
+  {
+    "id": 713,
+    "character": "键",
+    "pinyin": "jiàn",
+    "meaningEn": "key (button)",
+    "meaningRu": ""
+  },
+  {
+    "id": 714,
+    "character": "库",
+    "pinyin": "kù",
+    "meaningEn": "storehouse",
+    "meaningRu": ""
+  },
+  {
+    "id": 715,
+    "character": "梨",
+    "pinyin": "lí",
+    "meaningEn": "pear",
+    "meaningRu": ""
+  },
+  {
+    "id": 716,
+    "character": "铃",
+    "pinyin": "líng",
+    "meaningEn": "bell",
+    "meaningRu": ""
+  },
+  {
+    "id": 717,
+    "character": "盆",
+    "pinyin": "pén",
+    "meaningEn": "basin",
+    "meaningRu": ""
+  },
+  {
+    "id": 718,
+    "character": "扇",
+    "pinyin": "shàn",
+    "meaningEn": "fan (device); measure word for doors",
+    "meaningRu": ""
+  },
+  {
+    "id": 719,
+    "character": "锁",
+    "pinyin": "suǒ",
+    "meaningEn": "lock",
+    "meaningRu": ""
+  },
+  {
+    "id": 720,
+    "character": "桃",
+    "pinyin": "táo",
+    "meaningEn": "peach",
+    "meaningRu": ""
+  },
+  {
+    "id": 721,
+    "character": "声",
+    "pinyin": "shēng",
+    "meaningEn": "sound",
+    "meaningRu": ""
+  },
+  {
+    "id": 722,
+    "character": "运",
+    "pinyin": "yùn",
+    "meaningEn": "to transport; luck",
+    "meaningRu": ""
+  },
+  {
+    "id": 723,
+    "character": "式",
+    "pinyin": "shì",
+    "meaningEn": "style; type",
+    "meaningRu": ""
+  },
+  {
+    "id": 724,
+    "character": "拔",
+    "pinyin": "bá",
+    "meaningEn": "to pull out",
+    "meaningRu": ""
+  },
+  {
+    "id": 725,
+    "character": "猜",
+    "pinyin": "cāi",
+    "meaningEn": "to guess",
+    "meaningRu": ""
+  },
+  {
+    "id": 726,
+    "character": "插",
+    "pinyin": "chā",
+    "meaningEn": "to insert",
+    "meaningRu": ""
+  },
+  {
+    "id": 727,
+    "character": "拆",
+    "pinyin": "chāi",
+    "meaningEn": "to dismantle",
+    "meaningRu": ""
+  },
+  {
+    "id": 728,
+    "character": "乘",
+    "pinyin": "chéng",
+    "meaningEn": "to ride; to multiply",
+    "meaningRu": ""
+  },
+  {
+    "id": 729,
+    "character": "闯",
+    "pinyin": "chuǎng",
+    "meaningEn": "to charge; to rush",
+    "meaningRu": ""
+  },
+  {
+    "id": 730,
+    "character": "呆",
+    "pinyin": "dāi",
+    "meaningEn": "to stay; dull",
+    "meaningRu": ""
+  },
+  {
+    "id": 731,
+    "character": "待",
+    "pinyin": "dāi",
+    "meaningEn": "to stay",
+    "meaningRu": ""
+  },
+  {
+    "id": 732,
+    "character": "挡",
+    "pinyin": "dǎng",
+    "meaningEn": "to block",
+    "meaningRu": ""
+  },
+  {
+    "id": 733,
+    "character": "递",
+    "pinyin": "dì",
+    "meaningEn": "to hand over",
+    "meaningRu": ""
+  },
+  {
+    "id": 734,
+    "character": "丢",
+    "pinyin": "diū",
+    "meaningEn": "to lose; to throw",
+    "meaningRu": ""
+  },
+  {
+    "id": 735,
+    "character": "躲",
+    "pinyin": "duǒ",
+    "meaningEn": "to hide; to avoid",
+    "meaningRu": ""
+  },
+  {
+    "id": 736,
+    "character": "扶",
+    "pinyin": "fú",
+    "meaningEn": "to support (with hand)",
+    "meaningRu": ""
+  },
+  {
+    "id": 737,
+    "character": "搞",
+    "pinyin": "gǎo",
+    "meaningEn": "to do; to make",
+    "meaningRu": ""
+  },
+  {
+    "id": 738,
+    "character": "滚",
+    "pinyin": "gǔn",
+    "meaningEn": "to roll",
+    "meaningRu": ""
+  },
+  {
+    "id": 739,
+    "character": "害",
+    "pinyin": "hài",
+    "meaningEn": "harm; to harm",
+    "meaningRu": ""
+  },
+  {
+    "id": 740,
+    "character": "夹",
+    "pinyin": "jiā",
+    "meaningEn": "to clip; to sandwich",
+    "meaningRu": ""
+  },
+  {
+    "id": 741,
+    "character": "剪",
+    "pinyin": "jiǎn",
+    "meaningEn": "to cut (with scissors)",
+    "meaningRu": ""
+  },
+  {
+    "id": 742,
+    "character": "立",
+    "pinyin": "lì",
+    "meaningEn": "to stand; to establish",
+    "meaningRu": ""
+  },
+  {
+    "id": 743,
+    "character": "漏",
+    "pinyin": "lòu",
+    "meaningEn": "to leak",
+    "meaningRu": ""
+  },
+  {
+    "id": 744,
+    "character": "冒",
+    "pinyin": "mào",
+    "meaningEn": "to risk; to emit",
+    "meaningRu": ""
+  },
+  {
+    "id": 745,
+    "character": "喷",
+    "pinyin": "pēn",
+    "meaningEn": "to spray",
+    "meaningRu": ""
+  },
+  {
+    "id": 746,
+    "character": "拼",
+    "pinyin": "pīn",
+    "meaningEn": "to piece together; to spell",
+    "meaningRu": ""
+  },
+  {
+    "id": 747,
+    "character": "泼",
+    "pinyin": "pō",
+    "meaningEn": "to splash",
+    "meaningRu": ""
+  },
+  {
+    "id": 748,
+    "character": "抢",
+    "pinyin": "qiǎng",
+    "meaningEn": "to snatch; to rob",
+    "meaningRu": ""
+  },
+  {
+    "id": 749,
+    "character": "敲",
+    "pinyin": "qiāo",
+    "meaningEn": "to knock",
+    "meaningRu": ""
+  },
+  {
+    "id": 750,
+    "character": "瞧",
+    "pinyin": "qiáo",
+    "meaningEn": "to look (colloquial)",
+    "meaningRu": ""
+  },
+  {
+    "id": 751,
+    "character": "染",
+    "pinyin": "rǎn",
+    "meaningEn": "to dye",
+    "meaningRu": ""
+  },
+  {
+    "id": 752,
+    "character": "绕",
+    "pinyin": "rào",
+    "meaningEn": "to go around",
+    "meaningRu": ""
+  },
+  {
+    "id": 753,
+    "character": "扔",
+    "pinyin": "rēng",
+    "meaningEn": "to throw",
+    "meaningRu": ""
+  },
+  {
+    "id": 754,
+    "character": "洒",
+    "pinyin": "sǎ",
+    "meaningEn": "to sprinkle",
+    "meaningRu": ""
+  },
+  {
+    "id": 755,
+    "character": "杀",
+    "pinyin": "shā",
+    "meaningEn": "to kill",
+    "meaningRu": ""
+  },
+  {
+    "id": 756,
+    "character": "射",
+    "pinyin": "shè",
+    "meaningEn": "to shoot",
+    "meaningRu": ""
+  },
+  {
+    "id": 757,
+    "character": "伸",
+    "pinyin": "shēn",
+    "meaningEn": "to stretch out",
+    "meaningRu": ""
+  },
+  {
+    "id": 758,
+    "character": "剩",
+    "pinyin": "shèng",
+    "meaningEn": "to remain; left over",
+    "meaningRu": ""
+  },
+  {
+    "id": 759,
+    "character": "拾",
+    "pinyin": "shí",
+    "meaningEn": "to pick up",
+    "meaningRu": ""
+  },
+  {
+    "id": 760,
+    "character": "摔",
+    "pinyin": "shuāi",
+    "meaningEn": "to fall; to throw down",
+    "meaningRu": ""
+  },
+  {
+    "id": 761,
+    "character": "搜",
+    "pinyin": "sōu",
+    "meaningEn": "to search",
+    "meaningRu": ""
+  },
+  {
+    "id": 762,
+    "character": "抬",
+    "pinyin": "tái",
+    "meaningEn": "to lift",
+    "meaningRu": ""
+  },
+  {
+    "id": 763,
+    "character": "逃",
+    "pinyin": "táo",
+    "meaningEn": "to escape",
+    "meaningRu": ""
+  },
+  {
+    "id": 764,
+    "character": "吐",
+    "pinyin": "tǔ",
+    "meaningEn": "to spit",
+    "meaningRu": ""
+  },
+  {
+    "id": 765,
+    "character": "握",
+    "pinyin": "wò",
+    "meaningEn": "to hold; to grasp",
+    "meaningRu": ""
+  },
+  {
+    "id": 766,
+    "character": "咬",
+    "pinyin": "yǎo",
+    "meaningEn": "to bite",
+    "meaningRu": ""
+  },
+  {
+    "id": 767,
+    "character": "增",
+    "pinyin": "zēng",
+    "meaningEn": "to increase",
+    "meaningRu": ""
+  },
+  {
+    "id": 768,
+    "character": "摘",
+    "pinyin": "zhāi",
+    "meaningEn": "to pick (fruit); to take off",
+    "meaningRu": ""
+  },
+  {
+    "id": 769,
+    "character": "答",
+    "pinyin": "dá",
+    "meaningEn": "to answer",
+    "meaningRu": ""
+  },
+  {
+    "id": 770,
+    "character": "戒",
+    "pinyin": "jiè",
+    "meaningEn": "to quit (a habit); to guard against",
+    "meaningRu": ""
+  },
+  {
+    "id": 771,
+    "character": "令",
+    "pinyin": "lìng",
+    "meaningEn": "to make; to cause; order",
+    "meaningRu": ""
+  },
+  {
+    "id": 772,
+    "character": "骂",
+    "pinyin": "mà",
+    "meaningEn": "to scold",
+    "meaningRu": ""
+  },
+  {
+    "id": 773,
+    "character": "骗",
+    "pinyin": "piàn",
+    "meaningEn": "to deceive",
+    "meaningRu": ""
+  },
+  {
+    "id": 774,
+    "character": "签",
+    "pinyin": "qiān",
+    "meaningEn": "to sign",
+    "meaningRu": ""
+  },
+  {
+    "id": 775,
+    "character": "劝",
+    "pinyin": "quàn",
+    "meaningEn": "to persuade",
+    "meaningRu": ""
+  },
+  {
+    "id": 776,
+    "character": "认",
+    "pinyin": "rèn",
+    "meaningEn": "to recognize; to admit",
+    "meaningRu": ""
+  },
+  {
+    "id": 777,
+    "character": "偷",
+    "pinyin": "tōu",
+    "meaningEn": "to steal",
+    "meaningRu": ""
+  },
+  {
+    "id": 778,
+    "character": "献",
+    "pinyin": "xiàn",
+    "meaningEn": "to offer; to dedicate",
+    "meaningRu": ""
+  },
+  {
+    "id": 779,
+    "character": "赠",
+    "pinyin": "zèng",
+    "meaningEn": "to give (as a gift)",
+    "meaningRu": ""
+  },
+  {
+    "id": 780,
+    "character": "尝",
+    "pinyin": "cháng",
+    "meaningEn": "to taste",
+    "meaningRu": ""
+  },
+  {
+    "id": 781,
+    "character": "陪",
+    "pinyin": "péi",
+    "meaningEn": "to accompany",
+    "meaningRu": ""
+  },
+  {
+    "id": 782,
+    "character": "披",
+    "pinyin": "pī",
+    "meaningEn": "to drape over",
+    "meaningRu": ""
+  },
+  {
+    "id": 783,
+    "character": "歇",
+    "pinyin": "xiē",
+    "meaningEn": "to rest",
+    "meaningRu": ""
+  },
+  {
+    "id": 784,
+    "character": "棒",
+    "pinyin": "bàng",
+    "meaningEn": "great; excellent (colloquial)",
+    "meaningRu": ""
+  },
+  {
+    "id": 785,
+    "character": "迟",
+    "pinyin": "chí",
+    "meaningEn": "late",
+    "meaningRu": ""
+  },
+  {
+    "id": 786,
+    "character": "丑",
+    "pinyin": "chǒu",
+    "meaningEn": "ugly",
+    "meaningRu": ""
+  },
+  {
+    "id": 787,
+    "character": "臭",
+    "pinyin": "chòu",
+    "meaningEn": "smelly",
+    "meaningRu": ""
+  },
+  {
+    "id": 788,
+    "character": "脆",
+    "pinyin": "cuì",
+    "meaningEn": "crisp",
+    "meaningRu": ""
+  },
+  {
+    "id": 789,
+    "character": "疯",
+    "pinyin": "fēng",
+    "meaningEn": "crazy",
+    "meaningRu": ""
+  },
+  {
+    "id": 790,
+    "character": "广",
+    "pinyin": "guǎng",
+    "meaningEn": "wide; broad",
+    "meaningRu": ""
+  },
+  {
+    "id": 791,
+    "character": "滑",
+    "pinyin": "huá",
+    "meaningEn": "slippery",
+    "meaningRu": ""
+  },
+  {
+    "id": 792,
+    "character": "挤",
+    "pinyin": "jǐ",
+    "meaningEn": "crowded; to squeeze",
+    "meaningRu": ""
+  },
+  {
+    "id": 793,
+    "character": "狂",
+    "pinyin": "kuáng",
+    "meaningEn": "crazy; wild",
+    "meaningRu": ""
+  },
+  {
+    "id": 794,
+    "character": "烂",
+    "pinyin": "làn",
+    "meaningEn": "rotten",
+    "meaningRu": ""
+  },
+  {
+    "id": 795,
+    "character": "软",
+    "pinyin": "ruǎn",
+    "meaningEn": "soft",
+    "meaningRu": ""
+  },
+  {
+    "id": 796,
+    "character": "傻",
+    "pinyin": "shǎ",
+    "meaningEn": "silly; foolish",
+    "meaningRu": ""
+  },
+  {
+    "id": 797,
+    "character": "碎",
+    "pinyin": "suì",
+    "meaningEn": "broken; shattered",
+    "meaningRu": ""
+  },
+  {
+    "id": 798,
+    "character": "闲",
+    "pinyin": "xián",
+    "meaningEn": "idle; free time",
+    "meaningRu": ""
+  },
+  {
+    "id": 799,
+    "character": "斜",
+    "pinyin": "xié",
+    "meaningEn": "slanted",
+    "meaningRu": ""
+  },
+  {
+    "id": 800,
+    "character": "硬",
+    "pinyin": "yìng",
+    "meaningEn": "hard (texture)",
+    "meaningRu": ""
+  },
+  {
+    "id": 801,
+    "character": "糟",
+    "pinyin": "zāo",
+    "meaningEn": "in a mess; terrible",
+    "meaningRu": ""
+  },
+  {
+    "id": 802,
+    "character": "必",
+    "pinyin": "bì",
+    "meaningEn": "must",
+    "meaningRu": ""
+  },
+  {
+    "id": 803,
+    "character": "甲",
+    "pinyin": "jiǎ",
+    "meaningEn": "first (in a series); armor",
+    "meaningRu": ""
+  },
+  {
+    "id": 804,
+    "character": "将",
+    "pinyin": "jiāng",
+    "meaningEn": "will (future); to be about to",
+    "meaningRu": ""
+  },
+  {
+    "id": 805,
+    "character": "凭",
+    "pinyin": "píng",
+    "meaningEn": "to rely on",
+    "meaningRu": ""
+  },
+  {
+    "id": 806,
+    "character": "其",
+    "pinyin": "qí",
+    "meaningEn": "his/her/its (formal)",
+    "meaningRu": ""
+  },
+  {
+    "id": 807,
+    "character": "稍",
+    "pinyin": "shāo",
+    "meaningEn": "slightly",
+    "meaningRu": ""
+  },
+  {
+    "id": 808,
+    "character": "显",
+    "pinyin": "xiǎn",
+    "meaningEn": "to show; obviously",
+    "meaningRu": ""
+  },
+  {
+    "id": 809,
+    "character": "乙",
+    "pinyin": "yǐ",
+    "meaningEn": "the second (in a series)",
+    "meaningRu": ""
+  },
+  {
+    "id": 810,
+    "character": "愿",
+    "pinyin": "yuàn",
+    "meaningEn": "to wish; willing",
+    "meaningRu": ""
+  },
+  {
+    "id": 811,
+    "character": "可",
+    "pinyin": "kě",
+    "meaningEn": "but; can",
+    "meaningRu": ""
+  },
+  {
+    "id": 812,
+    "character": "青",
+    "pinyin": "qīng",
+    "meaningEn": "green/blue (traditional color term)",
+    "meaningRu": ""
+  },
+  {
+    "id": 813,
+    "character": "冻",
+    "pinyin": "dòng",
+    "meaningEn": "to freeze",
+    "meaningRu": ""
+  },
+  {
+    "id": 814,
+    "character": "暖",
+    "pinyin": "nuǎn",
+    "meaningEn": "warm",
+    "meaningRu": ""
+  },
+  {
+    "id": 815,
+    "character": "肠",
+    "pinyin": "cháng",
+    "meaningEn": "intestine",
+    "meaningRu": ""
+  },
+  {
+    "id": 816,
+    "character": "胆",
+    "pinyin": "dǎn",
+    "meaningEn": "gall bladder; courage",
+    "meaningRu": ""
+  },
+  {
+    "id": 817,
+    "character": "汗",
+    "pinyin": "hàn",
+    "meaningEn": "sweat",
+    "meaningRu": ""
+  },
+  {
+    "id": 818,
+    "character": "肩",
+    "pinyin": "jiān",
+    "meaningEn": "shoulder",
+    "meaningRu": ""
+  },
+  {
+    "id": 819,
+    "character": "胃",
+    "pinyin": "wèi",
+    "meaningEn": "stomach (organ)",
+    "meaningRu": ""
+  },
+  {
+    "id": 820,
+    "character": "礼",
+    "pinyin": "lǐ",
+    "meaningEn": "ceremony; gift",
+    "meaningRu": ""
+  },
+  {
+    "id": 821,
+    "character": "挣",
+    "pinyin": "zhèng",
+    "meaningEn": "to earn (money)",
+    "meaningRu": ""
+  },
+  {
+    "id": 822,
+    "character": "价",
+    "pinyin": "jià",
+    "meaningEn": "price",
+    "meaningRu": ""
+  },
+  {
+    "id": 823,
+    "character": "亏",
+    "pinyin": "kuī",
+    "meaningEn": "to lose (money); deficit",
+    "meaningRu": ""
+  },
+  {
+    "id": 824,
+    "character": "赔",
+    "pinyin": "péi",
+    "meaningEn": "to compensate; to lose (money)",
+    "meaningRu": ""
+  },
+  {
+    "id": 825,
+    "character": "品",
+    "pinyin": "pǐn",
+    "meaningEn": "product; item",
+    "meaningRu": ""
+  },
+  {
+    "id": 826,
+    "character": "欠",
+    "pinyin": "qiàn",
+    "meaningEn": "to owe",
+    "meaningRu": ""
+  },
+  {
+    "id": 827,
+    "character": "涨",
+    "pinyin": "zhǎng",
+    "meaningEn": "to rise (price/water)",
+    "meaningRu": ""
+  },
+  {
+    "id": 828,
+    "character": "愁",
+    "pinyin": "chóu",
+    "meaningEn": "worried",
+    "meaningRu": ""
+  },
+  {
+    "id": 829,
+    "character": "恨",
+    "pinyin": "hèn",
+    "meaningEn": "to hate",
+    "meaningRu": ""
+  },
+  {
+    "id": 830,
+    "character": "慌",
+    "pinyin": "huāng",
+    "meaningEn": "flustered",
+    "meaningRu": ""
+  },
+  {
+    "id": 831,
+    "character": "忍",
+    "pinyin": "rěn",
+    "meaningEn": "to endure",
+    "meaningRu": ""
+  },
+  {
+    "id": 832,
+    "character": "吓",
+    "pinyin": "xià",
+    "meaningEn": "to scare",
+    "meaningRu": ""
+  },
+  {
+    "id": 833,
+    "character": "怨",
+    "pinyin": "yuàn",
+    "meaningEn": "to blame; to complain",
+    "meaningRu": ""
+  },
+  {
+    "id": 834,
+    "character": "版",
+    "pinyin": "bǎn",
+    "meaningEn": "edition; version",
+    "meaningRu": ""
+  },
+  {
+    "id": 835,
+    "character": "鼓",
+    "pinyin": "gǔ",
+    "meaningEn": "drum",
+    "meaningRu": ""
+  },
+  {
+    "id": 836,
+    "character": "鬼",
+    "pinyin": "guǐ",
+    "meaningEn": "ghost",
+    "meaningRu": ""
+  },
+  {
+    "id": 837,
+    "character": "琴",
+    "pinyin": "qín",
+    "meaningEn": "musical instrument (stringed)",
+    "meaningRu": ""
+  },
+  {
+    "id": 838,
+    "character": "社",
+    "pinyin": "shè",
+    "meaningEn": "agency; society",
+    "meaningRu": ""
+  },
+  {
+    "id": 839,
+    "character": "神",
+    "pinyin": "shén",
+    "meaningEn": "god; spirit",
+    "meaningRu": ""
+  },
+  {
+    "id": 840,
+    "character": "弹",
+    "pinyin": "tán",
+    "meaningEn": "to play (stringed instrument); to bounce",
+    "meaningRu": ""
+  },
+  {
+    "id": 841,
+    "character": "舞",
+    "pinyin": "wǔ",
+    "meaningEn": "dance",
+    "meaningRu": ""
+  },
+  {
+    "id": 842,
+    "character": "戏",
+    "pinyin": "xì",
+    "meaningEn": "drama; show",
+    "meaningRu": ""
+  },
+  {
+    "id": 843,
+    "character": "岸",
+    "pinyin": "àn",
+    "meaningEn": "shore; bank",
+    "meaningRu": ""
+  },
+  {
+    "id": 844,
+    "character": "洞",
+    "pinyin": "dòng",
+    "meaningEn": "hole; cave",
+    "meaningRu": ""
+  },
+  {
+    "id": 845,
+    "character": "沟",
+    "pinyin": "gōu",
+    "meaningEn": "ditch; groove",
+    "meaningRu": ""
+  },
+  {
+    "id": 846,
+    "character": "猴",
+    "pinyin": "hóu",
+    "meaningEn": "monkey",
+    "meaningRu": ""
+  },
+  {
+    "id": 847,
+    "character": "虎",
+    "pinyin": "hǔ",
+    "meaningEn": "tiger",
+    "meaningRu": ""
+  },
+  {
+    "id": 848,
+    "character": "煤",
+    "pinyin": "méi",
+    "meaningEn": "coal",
+    "meaningRu": ""
+  },
+  {
+    "id": 849,
+    "character": "泉",
+    "pinyin": "quán",
+    "meaningEn": "spring (water source)",
+    "meaningRu": ""
+  },
+  {
+    "id": 850,
+    "character": "蛇",
+    "pinyin": "shé",
+    "meaningEn": "snake",
+    "meaningRu": ""
+  },
+  {
+    "id": 851,
+    "character": "鼠",
+    "pinyin": "shǔ",
+    "meaningEn": "mouse; rat",
+    "meaningRu": ""
+  },
+  {
+    "id": 852,
+    "character": "兔",
+    "pinyin": "tù",
+    "meaningEn": "rabbit",
+    "meaningRu": ""
+  },
+  {
+    "id": 853,
+    "character": "熊",
+    "pinyin": "xióng",
+    "meaningEn": "bear",
+    "meaningRu": ""
+  },
+  {
+    "id": 854,
+    "character": "灾",
+    "pinyin": "zāi",
+    "meaningEn": "disaster",
+    "meaningRu": ""
+  },
+  {
+    "id": 855,
+    "character": "毒",
+    "pinyin": "dú",
+    "meaningEn": "poison",
+    "meaningRu": ""
+  },
+  {
+    "id": 856,
+    "character": "咳",
+    "pinyin": "ké",
+    "meaningEn": "to cough",
+    "meaningRu": ""
+  },
+  {
+    "id": 857,
+    "character": "罚",
+    "pinyin": "fá",
+    "meaningEn": "to penalize",
+    "meaningRu": ""
+  },
+  {
+    "id": 858,
+    "character": "枪",
+    "pinyin": "qiāng",
+    "meaningEn": "gun",
+    "meaningRu": ""
+  },
+  {
+    "id": 859,
+    "character": "串",
+    "pinyin": "chuàn",
+    "meaningEn": "to string together; measure word for a string of things",
+    "meaningRu": ""
+  },
+  {
+    "id": 860,
+    "character": "番",
+    "pinyin": "fān",
+    "meaningEn": "measure word for actions/times; a turn",
+    "meaningRu": ""
+  },
+  {
+    "id": 861,
+    "character": "副",
+    "pinyin": "fù",
+    "meaningEn": "deputy; measure word for a pair/set",
+    "meaningRu": ""
+  },
+  {
+    "id": 862,
+    "character": "趟",
+    "pinyin": "tàng",
+    "meaningEn": "measure word for trips",
+    "meaningRu": ""
+  },
+  {
+    "id": 863,
+    "character": "母",
+    "pinyin": "mǔ",
+    "meaningEn": "mother (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 864,
+    "character": "塔",
+    "pinyin": "tǎ",
+    "meaningEn": "tower; pagoda",
+    "meaningRu": ""
+  },
+  {
+    "id": 865,
+    "character": "侧",
+    "pinyin": "cè",
+    "meaningEn": "side",
+    "meaningRu": ""
+  },
+  {
+    "id": 866,
+    "character": "沿",
+    "pinyin": "yán",
+    "meaningEn": "along (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 867,
+    "character": "餐",
+    "pinyin": "cān",
+    "meaningEn": "meal",
+    "meaningRu": ""
+  },
+  {
+    "id": 868,
+    "character": "醋",
+    "pinyin": "cù",
+    "meaningEn": "vinegar",
+    "meaningRu": ""
+  },
+  {
+    "id": 869,
+    "character": "滴",
+    "pinyin": "dī",
+    "meaningEn": "drop (of liquid)",
+    "meaningRu": ""
+  },
+  {
+    "id": 870,
+    "character": "杆",
+    "pinyin": "gān",
+    "meaningEn": "pole; rod",
+    "meaningRu": ""
+  },
+  {
+    "id": 871,
+    "character": "壶",
+    "pinyin": "hú",
+    "meaningEn": "kettle; pot",
+    "meaningRu": ""
+  },
+  {
+    "id": 872,
+    "character": "剑",
+    "pinyin": "jiàn",
+    "meaningEn": "sword",
+    "meaningRu": ""
+  },
+  {
+    "id": 873,
+    "character": "箭",
+    "pinyin": "jiàn",
+    "meaningEn": "arrow",
+    "meaningRu": ""
+  },
+  {
+    "id": 874,
+    "character": "酱",
+    "pinyin": "jiàng",
+    "meaningEn": "paste; sauce",
+    "meaningRu": ""
+  },
+  {
+    "id": 875,
+    "character": "棉",
+    "pinyin": "mián",
+    "meaningEn": "cotton",
+    "meaningRu": ""
+  },
+  {
+    "id": 876,
+    "character": "勺",
+    "pinyin": "sháo",
+    "meaningEn": "spoon",
+    "meaningRu": ""
+  },
+  {
+    "id": 877,
+    "character": "档",
+    "pinyin": "dàng",
+    "meaningEn": "file; grade",
+    "meaningRu": ""
+  },
+  {
+    "id": 878,
+    "character": "界",
+    "pinyin": "jiè",
+    "meaningEn": "boundary; world (of a field)",
+    "meaningRu": ""
+  },
+  {
+    "id": 879,
+    "character": "理",
+    "pinyin": "lǐ",
+    "meaningEn": "reason; to manage (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 880,
+    "character": "利",
+    "pinyin": "lì",
+    "meaningEn": "benefit; sharp (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 881,
+    "character": "形",
+    "pinyin": "xíng",
+    "meaningEn": "shape; form (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 882,
+    "character": "样",
+    "pinyin": "yàng",
+    "meaningEn": "manner; kind (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 883,
+    "character": "挨",
+    "pinyin": "ái",
+    "meaningEn": "to endure; to suffer",
+    "meaningRu": ""
+  },
+  {
+    "id": 884,
+    "character": "爆",
+    "pinyin": "bào",
+    "meaningEn": "to explode (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 885,
+    "character": "闭",
+    "pinyin": "bì",
+    "meaningEn": "to close",
+    "meaningRu": ""
+  },
+  {
+    "id": 886,
+    "character": "踩",
+    "pinyin": "cǎi",
+    "meaningEn": "to step on",
+    "meaningRu": ""
+  },
+  {
+    "id": 887,
+    "character": "藏",
+    "pinyin": "cáng",
+    "meaningEn": "to hide",
+    "meaningRu": ""
+  },
+  {
+    "id": 888,
+    "character": "超",
+    "pinyin": "chāo",
+    "meaningEn": "to exceed; super-",
+    "meaningRu": ""
+  },
+  {
+    "id": 889,
+    "character": "撑",
+    "pinyin": "chēng",
+    "meaningEn": "to prop up; to support",
+    "meaningRu": ""
+  },
+  {
+    "id": 890,
+    "character": "搭",
+    "pinyin": "dā",
+    "meaningEn": "to build; to take (transport)",
+    "meaningRu": ""
+  },
+  {
+    "id": 891,
+    "character": "吊",
+    "pinyin": "diào",
+    "meaningEn": "to hang; to suspend",
+    "meaningRu": ""
+  },
+  {
+    "id": 892,
+    "character": "渡",
+    "pinyin": "dù",
+    "meaningEn": "to cross (a river)",
+    "meaningRu": ""
+  },
+  {
+    "id": 893,
+    "character": "端",
+    "pinyin": "duān",
+    "meaningEn": "end; to carry (level)",
+    "meaningRu": ""
+  },
+  {
+    "id": 894,
+    "character": "蹲",
+    "pinyin": "dūn",
+    "meaningEn": "to squat",
+    "meaningRu": ""
+  },
+  {
+    "id": 895,
+    "character": "夺",
+    "pinyin": "duó",
+    "meaningEn": "to seize",
+    "meaningRu": ""
+  },
+  {
+    "id": 896,
+    "character": "浮",
+    "pinyin": "fú",
+    "meaningEn": "to float",
+    "meaningRu": ""
+  },
+  {
+    "id": 897,
+    "character": "拐",
+    "pinyin": "guǎi",
+    "meaningEn": "to turn (direction)",
+    "meaningRu": ""
+  },
+  {
+    "id": 898,
+    "character": "跪",
+    "pinyin": "guì",
+    "meaningEn": "to kneel",
+    "meaningRu": ""
+  },
+  {
+    "id": 899,
+    "character": "毁",
+    "pinyin": "huǐ",
+    "meaningEn": "to destroy",
+    "meaningRu": ""
+  },
+  {
+    "id": 900,
+    "character": "混",
+    "pinyin": "hùn",
+    "meaningEn": "to mix; to muddle along",
+    "meaningRu": ""
+  },
+  {
+    "id": 901,
+    "character": "捡",
+    "pinyin": "jiǎn",
+    "meaningEn": "to pick up",
+    "meaningRu": ""
+  },
+  {
+    "id": 902,
+    "character": "揭",
+    "pinyin": "jiē",
+    "meaningEn": "to lift; to expose",
+    "meaningRu": ""
+  },
+  {
+    "id": 903,
+    "character": "跨",
+    "pinyin": "kuà",
+    "meaningEn": "to step across",
+    "meaningRu": ""
+  },
+  {
+    "id": 904,
+    "character": "裂",
+    "pinyin": "liè",
+    "meaningEn": "to split; crack",
+    "meaningRu": ""
+  },
+  {
+    "id": 905,
+    "character": "露",
+    "pinyin": "lù",
+    "meaningEn": "to reveal; to expose",
+    "meaningRu": ""
+  },
+  {
+    "id": 906,
+    "character": "埋",
+    "pinyin": "mái",
+    "meaningEn": "to bury",
+    "meaningRu": ""
+  },
+  {
+    "id": 907,
+    "character": "灭",
+    "pinyin": "miè",
+    "meaningEn": "to extinguish",
+    "meaningRu": ""
+  },
+  {
+    "id": 908,
+    "character": "磨",
+    "pinyin": "mó",
+    "meaningEn": "to grind; to wear down",
+    "meaningRu": ""
+  },
+  {
+    "id": 909,
+    "character": "扭",
+    "pinyin": "niǔ",
+    "meaningEn": "to twist",
+    "meaningRu": ""
+  },
+  {
+    "id": 910,
+    "character": "扑",
+    "pinyin": "pū",
+    "meaningEn": "to pounce; to throw oneself at",
+    "meaningRu": ""
+  },
+  {
+    "id": 911,
+    "character": "铺",
+    "pinyin": "pū",
+    "meaningEn": "to spread out; to pave",
+    "meaningRu": ""
+  },
+  {
+    "id": 912,
+    "character": "牵",
+    "pinyin": "qiān",
+    "meaningEn": "to lead (by hand/rope)",
+    "meaningRu": ""
+  },
+  {
+    "id": 913,
+    "character": "入",
+    "pinyin": "rù",
+    "meaningEn": "to enter (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 914,
+    "character": "塞",
+    "pinyin": "sāi",
+    "meaningEn": "to stuff; to squeeze in",
+    "meaningRu": ""
+  },
+  {
+    "id": 915,
+    "character": "踏",
+    "pinyin": "tà",
+    "meaningEn": "to step on",
+    "meaningRu": ""
+  },
+  {
+    "id": 916,
+    "character": "掏",
+    "pinyin": "tāo",
+    "meaningEn": "to take out (from pocket)",
+    "meaningRu": ""
+  },
+  {
+    "id": 917,
+    "character": "添",
+    "pinyin": "tiān",
+    "meaningEn": "to add",
+    "meaningRu": ""
+  },
+  {
+    "id": 918,
+    "character": "吞",
+    "pinyin": "tūn",
+    "meaningEn": "to swallow",
+    "meaningRu": ""
+  },
+  {
+    "id": 919,
+    "character": "托",
+    "pinyin": "tuō",
+    "meaningEn": "to hold up; to entrust",
+    "meaningRu": ""
+  },
+  {
+    "id": 920,
+    "character": "拖",
+    "pinyin": "tuō",
+    "meaningEn": "to drag",
+    "meaningRu": ""
+  },
+  {
+    "id": 921,
+    "character": "挖",
+    "pinyin": "wā",
+    "meaningEn": "to dig",
+    "meaningRu": ""
+  },
+  {
+    "id": 922,
+    "character": "悬",
+    "pinyin": "xuán",
+    "meaningEn": "to hang; unresolved",
+    "meaningRu": ""
+  },
+  {
+    "id": 923,
+    "character": "仰",
+    "pinyin": "yǎng",
+    "meaningEn": "to look up",
+    "meaningRu": ""
+  },
+  {
+    "id": 924,
+    "character": "逼",
+    "pinyin": "bī",
+    "meaningEn": "to force",
+    "meaningRu": ""
+  },
+  {
+    "id": 925,
+    "character": "赌",
+    "pinyin": "dǔ",
+    "meaningEn": "to gamble",
+    "meaningRu": ""
+  },
+  {
+    "id": 926,
+    "character": "顾",
+    "pinyin": "gù",
+    "meaningEn": "to look after; to attend to",
+    "meaningRu": ""
+  },
+  {
+    "id": 927,
+    "character": "护",
+    "pinyin": "hù",
+    "meaningEn": "to protect (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 928,
+    "character": "解",
+    "pinyin": "jiě",
+    "meaningEn": "to untie; to solve (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 929,
+    "character": "赖",
+    "pinyin": "lài",
+    "meaningEn": "to depend on; to blame",
+    "meaningRu": ""
+  },
+  {
+    "id": 930,
+    "character": "聊",
+    "pinyin": "liáo",
+    "meaningEn": "to chat",
+    "meaningRu": ""
+  },
+  {
+    "id": 931,
+    "character": "蒙",
+    "pinyin": "mēng",
+    "meaningEn": "to deceive; to cover",
+    "meaningRu": ""
+  },
+  {
+    "id": 932,
+    "character": "评",
+    "pinyin": "píng",
+    "meaningEn": "to comment; to judge (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 933,
+    "character": "识",
+    "pinyin": "shí",
+    "meaningEn": "to know; to recognize (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 934,
+    "character": "炒",
+    "pinyin": "chǎo",
+    "meaningEn": "to stir-fry",
+    "meaningRu": ""
+  },
+  {
+    "id": 935,
+    "character": "泡",
+    "pinyin": "pào",
+    "meaningEn": "to soak; bubble",
+    "meaningRu": ""
+  },
+  {
+    "id": 936,
+    "character": "扁",
+    "pinyin": "biǎn",
+    "meaningEn": "flat",
+    "meaningRu": ""
+  },
+  {
+    "id": 937,
+    "character": "狠",
+    "pinyin": "hěn",
+    "meaningEn": "ruthless; harsh",
+    "meaningRu": ""
+  },
+  {
+    "id": 938,
+    "character": "横",
+    "pinyin": "héng",
+    "meaningEn": "horizontal",
+    "meaningRu": ""
+  },
+  {
+    "id": 939,
+    "character": "尖",
+    "pinyin": "jiān",
+    "meaningEn": "sharp; pointed",
+    "meaningRu": ""
+  },
+  {
+    "id": 940,
+    "character": "精",
+    "pinyin": "jīng",
+    "meaningEn": "refined; essence",
+    "meaningRu": ""
+  },
+  {
+    "id": 941,
+    "character": "净",
+    "pinyin": "jìng",
+    "meaningEn": "clean; net (income)",
+    "meaningRu": ""
+  },
+  {
+    "id": 942,
+    "character": "酷",
+    "pinyin": "kù",
+    "meaningEn": "cool; cruel",
+    "meaningRu": ""
+  },
+  {
+    "id": 943,
+    "character": "阔",
+    "pinyin": "kuò",
+    "meaningEn": "wide; broad",
+    "meaningRu": ""
+  },
+  {
+    "id": 944,
+    "character": "懒",
+    "pinyin": "lǎn",
+    "meaningEn": "lazy",
+    "meaningRu": ""
+  },
+  {
+    "id": 945,
+    "character": "牢",
+    "pinyin": "láo",
+    "meaningEn": "prison; firm",
+    "meaningRu": ""
+  },
+  {
+    "id": 946,
+    "character": "猛",
+    "pinyin": "měng",
+    "meaningEn": "fierce; suddenly",
+    "meaningRu": ""
+  },
+  {
+    "id": 947,
+    "character": "妙",
+    "pinyin": "miào",
+    "meaningEn": "wonderful; clever",
+    "meaningRu": ""
+  },
+  {
+    "id": 948,
+    "character": "清",
+    "pinyin": "qīng",
+    "meaningEn": "clear (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 949,
+    "character": "爽",
+    "pinyin": "shuǎng",
+    "meaningEn": "refreshing; frank",
+    "meaningRu": ""
+  },
+  {
+    "id": 950,
+    "character": "顺",
+    "pinyin": "shùn",
+    "meaningEn": "along; smooth (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 951,
+    "character": "凶",
+    "pinyin": "xiōng",
+    "meaningEn": "fierce; ominous",
+    "meaningRu": ""
+  },
+  {
+    "id": 952,
+    "character": "便",
+    "pinyin": "biàn",
+    "meaningEn": "convenient; then",
+    "meaningRu": ""
+  },
+  {
+    "id": 953,
+    "character": "服",
+    "pinyin": "fú",
+    "meaningEn": "clothing; to obey (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 954,
+    "character": "负",
+    "pinyin": "fù",
+    "meaningEn": "negative; to bear (responsibility)",
+    "meaningRu": ""
+  },
+  {
+    "id": 955,
+    "character": "公",
+    "pinyin": "gōng",
+    "meaningEn": "public; male (animal)",
+    "meaningRu": ""
+  },
+  {
+    "id": 956,
+    "character": "尽",
+    "pinyin": "jǐn",
+    "meaningEn": "as much as possible (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 957,
+    "character": "绝",
+    "pinyin": "jué",
+    "meaningEn": "absolutely; to cut off",
+    "meaningRu": ""
+  },
+  {
+    "id": 958,
+    "character": "肯",
+    "pinyin": "kěn",
+    "meaningEn": "to be willing to (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 959,
+    "character": "啦",
+    "pinyin": "la",
+    "meaningEn": "(particle, combination of 了 and 啊)",
+    "meaningRu": ""
+  },
+  {
+    "id": 960,
+    "character": "料",
+    "pinyin": "liào",
+    "meaningEn": "material; to expect (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 961,
+    "character": "另",
+    "pinyin": "lìng",
+    "meaningEn": "another; separately",
+    "meaningRu": ""
+  },
+  {
+    "id": 962,
+    "character": "嘛",
+    "pinyin": "ma",
+    "meaningEn": "(particle, indicates obviousness)",
+    "meaningRu": ""
+  },
+  {
+    "id": 963,
+    "character": "偏",
+    "pinyin": "piān",
+    "meaningEn": "to lean towards; stubbornly",
+    "meaningRu": ""
+  },
+  {
+    "id": 964,
+    "character": "特",
+    "pinyin": "tè",
+    "meaningEn": "especially (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 965,
+    "character": "同",
+    "pinyin": "tóng",
+    "meaningEn": "same (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 966,
+    "character": "哇",
+    "pinyin": "wa",
+    "meaningEn": "(exclamation particle)",
+    "meaningRu": ""
+  },
+  {
+    "id": 967,
+    "character": "误",
+    "pinyin": "wù",
+    "meaningEn": "mistake; to miss (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 968,
+    "character": "除",
+    "pinyin": "chú",
+    "meaningEn": "except; to remove",
+    "meaningRu": ""
+  },
+  {
+    "id": 969,
+    "character": "据",
+    "pinyin": "jù",
+    "meaningEn": "according to",
+    "meaningRu": ""
+  },
+  {
+    "id": 970,
+    "character": "如",
+    "pinyin": "rú",
+    "meaningEn": "like; as if",
+    "meaningRu": ""
+  },
+  {
+    "id": 971,
+    "character": "若",
+    "pinyin": "ruò",
+    "meaningEn": "if (formal)",
+    "meaningRu": ""
+  },
+  {
+    "id": 972,
+    "character": "虽",
+    "pinyin": "suī",
+    "meaningEn": "though (formal)",
+    "meaningRu": ""
+  },
+  {
+    "id": 973,
+    "character": "因",
+    "pinyin": "yīn",
+    "meaningEn": "because (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 974,
+    "character": "于",
+    "pinyin": "yú",
+    "meaningEn": "at; in (formal preposition)",
+    "meaningRu": ""
+  },
+  {
+    "id": 975,
+    "character": "与",
+    "pinyin": "yǔ",
+    "meaningEn": "and; with (formal)",
+    "meaningRu": ""
+  },
+  {
+    "id": 976,
+    "character": "刮",
+    "pinyin": "guā",
+    "meaningEn": "to blow (wind); to scrape",
+    "meaningRu": ""
+  },
+  {
+    "id": 977,
+    "character": "肺",
+    "pinyin": "fèi",
+    "meaningEn": "lung",
+    "meaningRu": ""
+  },
+  {
+    "id": 978,
+    "character": "肝",
+    "pinyin": "gān",
+    "meaningEn": "liver",
+    "meaningRu": ""
+  },
+  {
+    "id": 979,
+    "character": "昏",
+    "pinyin": "hūn",
+    "meaningEn": "dizzy; dusk",
+    "meaningRu": ""
+  },
+  {
+    "id": 980,
+    "character": "赛",
+    "pinyin": "sài",
+    "meaningEn": "competition (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 981,
+    "character": "踢",
+    "pinyin": "tī",
+    "meaningEn": "to kick",
+    "meaningRu": ""
+  },
+  {
+    "id": 982,
+    "character": "捐",
+    "pinyin": "juān",
+    "meaningEn": "to donate",
+    "meaningRu": ""
+  },
+  {
+    "id": 983,
+    "character": "跌",
+    "pinyin": "diē",
+    "meaningEn": "to fall; to drop (prices)",
+    "meaningRu": ""
+  },
+  {
+    "id": 984,
+    "character": "股",
+    "pinyin": "gǔ",
+    "meaningEn": "share (stock); measure word for gusts",
+    "meaningRu": ""
+  },
+  {
+    "id": 985,
+    "character": "扣",
+    "pinyin": "kòu",
+    "meaningEn": "to deduct; button",
+    "meaningRu": ""
+  },
+  {
+    "id": 986,
+    "character": "券",
+    "pinyin": "quàn",
+    "meaningEn": "coupon; ticket",
+    "meaningRu": ""
+  },
+  {
+    "id": 987,
+    "character": "税",
+    "pinyin": "shuì",
+    "meaningEn": "tax",
+    "meaningRu": ""
+  },
+  {
+    "id": 988,
+    "character": "险",
+    "pinyin": "xiǎn",
+    "meaningEn": "danger (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 989,
+    "character": "惨",
+    "pinyin": "cǎn",
+    "meaningEn": "miserable; tragic",
+    "meaningRu": ""
+  },
+  {
+    "id": 990,
+    "character": "觉",
+    "pinyin": "jué",
+    "meaningEn": "to feel; to perceive (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 991,
+    "character": "命",
+    "pinyin": "mìng",
+    "meaningEn": "life; fate (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 992,
+    "character": "嫌",
+    "pinyin": "xián",
+    "meaningEn": "to dislike; to mind",
+    "meaningRu": ""
+  },
+  {
+    "id": 993,
+    "character": "播",
+    "pinyin": "bō",
+    "meaningEn": "to broadcast",
+    "meaningRu": ""
+  },
+  {
+    "id": 994,
+    "character": "佛",
+    "pinyin": "fó",
+    "meaningEn": "Buddha",
+    "meaningRu": ""
+  },
+  {
+    "id": 995,
+    "character": "宫",
+    "pinyin": "gōng",
+    "meaningEn": "palace",
+    "meaningRu": ""
+  },
+  {
+    "id": 996,
+    "character": "集",
+    "pinyin": "jí",
+    "meaningEn": "to gather; volume (of a series)",
+    "meaningRu": ""
+  },
+  {
+    "id": 997,
+    "character": "剧",
+    "pinyin": "jù",
+    "meaningEn": "drama",
+    "meaningRu": ""
+  },
+  {
+    "id": 998,
+    "character": "墓",
+    "pinyin": "mù",
+    "meaningEn": "grave; tomb",
+    "meaningRu": ""
+  },
+  {
+    "id": 999,
+    "character": "寺",
+    "pinyin": "sì",
+    "meaningEn": "temple",
+    "meaningRu": ""
+  },
+  {
+    "id": 1000,
+    "character": "印",
+    "pinyin": "yìn",
+    "meaningEn": "to print; seal",
+    "meaningRu": ""
+  },
+  {
+    "id": 1001,
+    "character": "岛",
+    "pinyin": "dǎo",
+    "meaningEn": "island",
+    "meaningRu": ""
+  },
+  {
+    "id": 1002,
+    "character": "井",
+    "pinyin": "jǐng",
+    "meaningEn": "well (water)",
+    "meaningRu": ""
+  },
+  {
+    "id": 1003,
+    "character": "景",
+    "pinyin": "jǐng",
+    "meaningEn": "scenery (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 1004,
+    "character": "矿",
+    "pinyin": "kuàng",
+    "meaningEn": "mine (ore)",
+    "meaningRu": ""
+  },
+  {
+    "id": 1005,
+    "character": "泥",
+    "pinyin": "ní",
+    "meaningEn": "mud",
+    "meaningRu": ""
+  },
+  {
+    "id": 1006,
+    "character": "坡",
+    "pinyin": "pō",
+    "meaningEn": "slope",
+    "meaningRu": ""
+  },
+  {
+    "id": 1007,
+    "character": "田",
+    "pinyin": "tián",
+    "meaningEn": "field (farmland)",
+    "meaningRu": ""
+  },
+  {
+    "id": 1008,
+    "character": "洋",
+    "pinyin": "yáng",
+    "meaningEn": "ocean (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 1009,
+    "character": "野",
+    "pinyin": "yě",
+    "meaningEn": "wild (bound form)",
+    "meaningRu": ""
+  },
+  {
+    "id": 1010,
+    "character": "膜",
+    "pinyin": "mó",
+    "meaningEn": "membrane; film",
+    "meaningRu": ""
+  },
+  {
+    "id": 1011,
+    "character": "捕",
+    "pinyin": "bǔ",
+    "meaningEn": "to catch; to arrest",
+    "meaningRu": ""
+  },
+  {
+    "id": 1012,
+    "character": "党",
+    "pinyin": "dǎng",
+    "meaningEn": "(political) party",
+    "meaningRu": ""
+  },
+  {
+    "id": 1013,
+    "character": "犯",
+    "pinyin": "fàn",
+    "meaningEn": "to commit (a crime); criminal",
+    "meaningRu": ""
+  },
+  {
+    "id": 1014,
+    "character": "判",
+    "pinyin": "pàn",
+    "meaningEn": "to judge; to sentence",
+    "meaningRu": ""
+  },
+  {
+    "id": 1015,
+    "character": "炮",
+    "pinyin": "pào",
+    "meaningEn": "cannon",
+    "meaningRu": ""
+  },
+  {
+    "id": 1016,
+    "character": "权",
+    "pinyin": "quán",
+    "meaningEn": "power; right (bound form)",
+    "meaningRu": ""
   }
 ]
