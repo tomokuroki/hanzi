@@ -1,0 +1,142 @@
+[
+  {
+    "id": 0,
+    "character": "我",
+    "pinyin": "wǒ",
+    "meaningEn": "I / Me",
+    "meaningRu": "Я"
+  },
+  {
+    "id": 1,
+    "character": "你",
+    "pinyin": "nǐ",
+    "meaningEn": "You",
+    "meaningRu": "Ты"
+  },
+  {
+    "id": 2,
+    "character": "特",
+    "pinyin": "tè",
+    "meaningEn": "Special",
+    "meaningRu": "Особенный"
+  },
+  {
+    "id": 3,
+    "character": "一",
+    "pinyin": "yī",
+    "meaningEn": "One",
+    "meaningRu": "Один"
+  },
+  {
+    "id": 4,
+    "character": "二",
+    "pinyin": "èr",
+    "meaningEn": "Two",
+    "meaningRu": "Два"
+  },
+  {
+    "id": 5,
+    "character": "三",
+    "pinyin": "sān",
+    "meaningEn": "Three",
+    "meaningRu": "Три"
+  },
+  {
+    "id": 6,
+    "character": "人",
+    "pinyin": "rén",
+    "meaningEn": "Person",
+    "meaningRu": "Человек"
+  },
+  {
+    "id": 7,
+    "character": "山",
+    "pinyin": "shān",
+    "meaningEn": "Mountain",
+    "meaningRu": "Гора"
+  },
+  {
+    "id": 8,
+    "character": "水",
+    "pinyin": "shuǐ",
+    "meaningEn": "Water",
+    "meaningRu": "Вода"
+  },
+  {
+    "id": 9,
+    "character": "日",
+    "pinyin": "rì",
+    "meaningEn": "Sun",
+    "meaningRu": "Солнце"
+  },
+  {
+    "id": 10,
+    "character": "月",
+    "pinyin": "yuè",
+    "meaningEn": "Moon",
+    "meaningRu": "Луна"
+  },
+  {
+    "id": 11,
+    "character": "木",
+    "pinyin": "mù",
+    "meaningEn": "Tree / Wood",
+    "meaningRu": "Дерево"
+  },
+  {
+    "id": 12,
+    "character": "火",
+    "pinyin": "huǒ",
+    "meaningEn": "Fire",
+    "meaningRu": "Огонь"
+  },
+  {
+    "id": 13,
+    "character": "口",
+    "pinyin": "kǒu",
+    "meaningEn": "Mouth",
+    "meaningRu": "Рот"
+  },
+  {
+    "id": 14,
+    "character": "手",
+    "pinyin": "shǒu",
+    "meaningEn": "Hand",
+    "meaningRu": "Рука"
+  },
+  {
+    "id": 15,
+    "character": "女",
+    "pinyin": "nǚ",
+    "meaningEn": "Woman",
+    "meaningRu": "Женщина"
+  },
+  {
+    "id": 16,
+    "character": "心",
+    "pinyin": "xīn",
+    "meaningEn": "Heart",
+    "meaningRu": "Сердце"
+  },
+  {
+    "id": 17,
+    "character": "天",
+    "pinyin": "tiān",
+    "meaningEn": "Sky / Heaven",
+    "meaningRu": "Небо"
+  },
+  {
+    "id": 18,
+    "character": "明",
+    "pinyin": "míng",
+    "meaningEn": "Bright",
+    "meaningRu": "Яркий"
+  },
+  {
+    "id": 19,
+    "character": "好",
+    "pinyin": "hǎo",
+    "meaningEn": "Good",
+    "meaningRu": "Хороший"
+  }
+]
