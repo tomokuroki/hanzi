@@ -4,651 +4,651 @@
     "character": "我",
     "pinyin": "wǒ",
     "meaningEn": "I; me",
-    "meaningRu": ""
+    "meaningRu": "я"
   },
   {
     "id": 1,
     "character": "你",
     "pinyin": "nǐ",
     "meaningEn": "you (singular)",
-    "meaningRu": ""
+    "meaningRu": "ты"
   },
   {
     "id": 2,
     "character": "您",
     "pinyin": "nín",
     "meaningEn": "you (polite)",
-    "meaningRu": ""
+    "meaningRu": "ты"
   },
   {
     "id": 3,
     "character": "他",
     "pinyin": "tā",
     "meaningEn": "he; him",
-    "meaningRu": ""
+    "meaningRu": "он"
   },
   {
     "id": 4,
     "character": "她",
     "pinyin": "tā",
     "meaningEn": "she; her",
-    "meaningRu": ""
+    "meaningRu": "она"
   },
   {
     "id": 5,
     "character": "这",
     "pinyin": "zhè (zhèi)",
     "meaningEn": "this",
-    "meaningRu": ""
+    "meaningRu": "этот"
   },
   {
     "id": 6,
     "character": "那",
     "pinyin": "nà (nèi)",
     "meaningEn": "that",
-    "meaningRu": ""
+    "meaningRu": "что"
   },
   {
     "id": 7,
     "character": "哪",
     "pinyin": "nǎ (něi)",
     "meaningEn": "which",
-    "meaningRu": ""
+    "meaningRu": "который"
   },
   {
     "id": 8,
     "character": "谁",
     "pinyin": "shéi (shuí)",
     "meaningEn": "who; whom",
-    "meaningRu": ""
+    "meaningRu": "ВОЗ"
   },
   {
     "id": 9,
     "character": "几",
     "pinyin": "jǐ",
     "meaningEn": "how many; a few (usually < 10)",
-    "meaningRu": ""
+    "meaningRu": "сколько"
   },
   {
     "id": 10,
     "character": "零",
     "pinyin": "líng",
     "meaningEn": "zero",
-    "meaningRu": ""
+    "meaningRu": "ноль"
   },
   {
     "id": 11,
     "character": "一",
     "pinyin": "yī",
     "meaningEn": "one",
-    "meaningRu": ""
+    "meaningRu": "один"
   },
   {
     "id": 12,
     "character": "二",
     "pinyin": "èr",
     "meaningEn": "two",
-    "meaningRu": ""
+    "meaningRu": "два"
   },
   {
     "id": 13,
     "character": "三",
     "pinyin": "sān",
     "meaningEn": "three",
-    "meaningRu": ""
+    "meaningRu": "три"
   },
   {
     "id": 14,
     "character": "四",
     "pinyin": "sì",
     "meaningEn": "four",
-    "meaningRu": ""
+    "meaningRu": "четыре"
   },
   {
     "id": 15,
     "character": "五",
     "pinyin": "wǔ",
     "meaningEn": "five",
-    "meaningRu": ""
+    "meaningRu": "пять"
   },
   {
     "id": 16,
     "character": "六",
     "pinyin": "liù",
     "meaningEn": "six",
-    "meaningRu": ""
+    "meaningRu": "шесть"
   },
   {
     "id": 17,
     "character": "七",
     "pinyin": "qī",
     "meaningEn": "seven",
-    "meaningRu": ""
+    "meaningRu": "Семь"
   },
   {
     "id": 18,
     "character": "八",
     "pinyin": "bā",
     "meaningEn": "eight",
-    "meaningRu": ""
+    "meaningRu": "восемь"
   },
   {
     "id": 19,
     "character": "九",
     "pinyin": "jiǔ",
     "meaningEn": "nine",
-    "meaningRu": ""
+    "meaningRu": "девять"
   },
   {
     "id": 20,
     "character": "十",
     "pinyin": "shí",
     "meaningEn": "ten",
-    "meaningRu": ""
+    "meaningRu": "десять"
   },
   {
     "id": 21,
     "character": "百",
     "pinyin": "bǎi",
     "meaningEn": "hundred",
-    "meaningRu": ""
+    "meaningRu": "сто"
   },
   {
     "id": 22,
     "character": "两",
     "pinyin": "liǎng",
     "meaningEn": "two (quantities)",
-    "meaningRu": ""
+    "meaningRu": "два"
   },
   {
     "id": 23,
     "character": "第",
     "pinyin": "dì",
     "meaningEn": "prefix for ordinal numbers (e.g., first)",
-    "meaningRu": ""
+    "meaningRu": "префикс для порядковых номеров (например,"
   },
   {
     "id": 24,
     "character": "半",
     "pinyin": "bàn",
     "meaningEn": "half",
-    "meaningRu": ""
+    "meaningRu": "половина"
   },
   {
     "id": 25,
     "character": "毛",
     "pinyin": "máo",
     "meaningEn": "10-cent unit of money",
-    "meaningRu": ""
+    "meaningRu": "10-центовая денежная единица"
   },
   {
     "id": 26,
     "character": "元",
     "pinyin": "yuán",
     "meaningEn": "yuan (currency unit)",
-    "meaningRu": ""
+    "meaningRu": "юань"
   },
   {
     "id": 27,
     "character": "个",
     "pinyin": "gè",
     "meaningEn": "general measure word",
-    "meaningRu": ""
+    "meaningRu": "общее мерное слово"
   },
   {
     "id": 28,
     "character": "岁",
     "pinyin": "suì",
     "meaningEn": "year of age",
-    "meaningRu": ""
+    "meaningRu": "год жизни"
   },
   {
     "id": 29,
     "character": "本",
     "pinyin": "běn",
     "meaningEn": "measure word for books, files",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для книг"
   },
   {
     "id": 30,
     "character": "块",
     "pinyin": "kuài",
     "meaningEn": "piece; lump; colloquial unit of money",
-    "meaningRu": ""
+    "meaningRu": "кусок"
   },
   {
     "id": 31,
     "character": "杯",
     "pinyin": "bēi",
     "meaningEn": "cup; glass (measure word)",
-    "meaningRu": ""
+    "meaningRu": "чашка"
   },
   {
     "id": 32,
     "character": "次",
     "pinyin": "cì",
     "meaningEn": "time; occurrence",
-    "meaningRu": ""
+    "meaningRu": "время"
   },
   {
     "id": 33,
     "character": "下",
     "pinyin": "xià",
     "meaningEn": "measure word for action count",
-    "meaningRu": ""
+    "meaningRu": "измерить слово за количество действий"
   },
   {
     "id": 34,
     "character": "口",
     "pinyin": "kǒu",
     "meaningEn": "mouthful; measure word for family members",
-    "meaningRu": ""
+    "meaningRu": "полный рот"
   },
   {
     "id": 35,
     "character": "分",
     "pinyin": "fēn",
     "meaningEn": "minute; point; cent",
-    "meaningRu": ""
+    "meaningRu": "минута"
   },
   {
     "id": 36,
     "character": "间",
     "pinyin": "jiān",
     "meaningEn": "measure word for rooms",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для комнат"
   },
   {
     "id": 37,
     "character": "年",
     "pinyin": "nián",
     "meaningEn": "year",
-    "meaningRu": ""
+    "meaningRu": "год"
   },
   {
     "id": 38,
     "character": "月",
     "pinyin": "yuè",
     "meaningEn": "month; moon",
-    "meaningRu": ""
+    "meaningRu": "месяц"
   },
   {
     "id": 39,
     "character": "日",
     "pinyin": "rì",
     "meaningEn": "day; sun; date",
-    "meaningRu": ""
+    "meaningRu": "день"
   },
   {
     "id": 40,
     "character": "号",
     "pinyin": "hào",
     "meaningEn": "day of the month; number",
-    "meaningRu": ""
+    "meaningRu": "день месяца"
   },
   {
     "id": 41,
     "character": "点",
     "pinyin": "diǎn",
     "meaningEn": "o'clock; dot; spot",
-    "meaningRu": ""
+    "meaningRu": "час"
   },
   {
     "id": 42,
     "character": "人",
     "pinyin": "rén",
     "meaningEn": "person; people",
-    "meaningRu": ""
+    "meaningRu": "человек"
   },
   {
     "id": 43,
     "character": "男",
     "pinyin": "nán",
     "meaningEn": "male",
-    "meaningRu": ""
+    "meaningRu": "мужской"
   },
   {
     "id": 44,
     "character": "女",
     "pinyin": "nǚ",
     "meaningEn": "female",
-    "meaningRu": ""
+    "meaningRu": "женский"
   },
   {
     "id": 45,
     "character": "家",
     "pinyin": "jiā",
     "meaningEn": "home; family",
-    "meaningRu": ""
+    "meaningRu": "дом"
   },
   {
     "id": 46,
     "character": "北",
     "pinyin": "běi",
     "meaningEn": "north",
-    "meaningRu": ""
+    "meaningRu": "север"
   },
   {
     "id": 47,
     "character": "东",
     "pinyin": "dōng",
     "meaningEn": "east",
-    "meaningRu": ""
+    "meaningRu": "восток"
   },
   {
     "id": 48,
     "character": "国",
     "pinyin": "guó",
     "meaningEn": "country; nation",
-    "meaningRu": ""
+    "meaningRu": "страна"
   },
   {
     "id": 49,
     "character": "楼",
     "pinyin": "lóu",
     "meaningEn": "building; floor",
-    "meaningRu": ""
+    "meaningRu": "здание"
   },
   {
     "id": 50,
     "character": "路",
     "pinyin": "lù",
     "meaningEn": "road; way",
-    "meaningRu": ""
+    "meaningRu": "дорога"
   },
   {
     "id": 51,
     "character": "南",
     "pinyin": "nán",
     "meaningEn": "south",
-    "meaningRu": ""
+    "meaningRu": "юг"
   },
   {
     "id": 52,
     "character": "西",
     "pinyin": "xī",
     "meaningEn": "west",
-    "meaningRu": ""
+    "meaningRu": "запад"
   },
   {
     "id": 53,
     "character": "后",
     "pinyin": "hòu",
     "meaningEn": "behind; after",
-    "meaningRu": ""
+    "meaningRu": "позади"
   },
   {
     "id": 54,
     "character": "里",
     "pinyin": "lǐ",
     "meaningEn": "inside; in",
-    "meaningRu": ""
+    "meaningRu": "внутри"
   },
   {
     "id": 55,
     "character": "前",
     "pinyin": "qián",
     "meaningEn": "front; before",
-    "meaningRu": ""
+    "meaningRu": "передний"
   },
   {
     "id": 56,
     "character": "上",
     "pinyin": "shàng",
     "meaningEn": "on; above; to go (to a place)",
-    "meaningRu": ""
+    "meaningRu": "на"
   },
   {
     "id": 57,
     "character": "外",
     "pinyin": "wài",
     "meaningEn": "outside",
-    "meaningRu": ""
+    "meaningRu": "снаружи"
   },
   {
     "id": 58,
     "character": "右",
     "pinyin": "yòu",
     "meaningEn": "right (side)",
-    "meaningRu": ""
+    "meaningRu": "верно"
   },
   {
     "id": 59,
     "character": "中",
     "pinyin": "zhōng",
     "meaningEn": "middle; in; among",
-    "meaningRu": ""
+    "meaningRu": "середина"
   },
   {
     "id": 60,
     "character": "左",
     "pinyin": "zuǒ",
     "meaningEn": "left (side)",
-    "meaningRu": ""
+    "meaningRu": "левый"
   },
   {
     "id": 61,
     "character": "钱",
     "pinyin": "qián",
     "meaningEn": "money",
-    "meaningRu": ""
+    "meaningRu": "деньги"
   },
   {
     "id": 62,
     "character": "水",
     "pinyin": "shuǐ",
     "meaningEn": "water",
-    "meaningRu": ""
+    "meaningRu": "вода"
   },
   {
     "id": 63,
     "character": "茶",
     "pinyin": "chá",
     "meaningEn": "tea",
-    "meaningRu": ""
+    "meaningRu": "чай"
   },
   {
     "id": 64,
     "character": "饭",
     "pinyin": "fàn",
     "meaningEn": "cooked rice; meal",
-    "meaningRu": ""
+    "meaningRu": "приготовленный рис"
   },
   {
     "id": 65,
     "character": "菜",
     "pinyin": "cài",
     "meaningEn": "vegetable; dish; cuisine",
-    "meaningRu": ""
+    "meaningRu": "овощной"
   },
   {
     "id": 66,
     "character": "肉",
     "pinyin": "ròu",
     "meaningEn": "meat; flesh",
-    "meaningRu": ""
+    "meaningRu": "мясо"
   },
   {
     "id": 67,
     "character": "床",
     "pinyin": "chuáng",
     "meaningEn": "bed",
-    "meaningRu": ""
+    "meaningRu": "кровать"
   },
   {
     "id": 68,
     "character": "门",
     "pinyin": "mén",
     "meaningEn": "door; gate",
-    "meaningRu": ""
+    "meaningRu": "дверь"
   },
   {
     "id": 69,
     "character": "包",
     "pinyin": "bāo",
     "meaningEn": "bag; to wrap",
-    "meaningRu": ""
+    "meaningRu": "сумка"
   },
   {
     "id": 70,
     "character": "奶",
     "pinyin": "nǎi",
     "meaningEn": "milk (short for 牛奶)",
-    "meaningRu": ""
+    "meaningRu": "молоко"
   },
   {
     "id": 71,
     "character": "球",
     "pinyin": "qiú",
     "meaningEn": "ball",
-    "meaningRu": ""
+    "meaningRu": "мяч"
   },
   {
     "id": 72,
     "character": "书",
     "pinyin": "shū",
     "meaningEn": "book",
-    "meaningRu": ""
+    "meaningRu": "книга"
   },
   {
     "id": 73,
     "character": "票",
     "pinyin": "piào",
     "meaningEn": "ticket",
-    "meaningRu": ""
+    "meaningRu": "билет"
   },
   {
     "id": 74,
     "character": "车",
     "pinyin": "chē",
     "meaningEn": "vehicle; car",
-    "meaningRu": ""
+    "meaningRu": "транспортное средство"
   },
   {
     "id": 75,
     "character": "电",
     "pinyin": "diàn",
     "meaningEn": "electricity",
-    "meaningRu": ""
+    "meaningRu": "электричество"
   },
   {
     "id": 76,
     "character": "歌",
     "pinyin": "gē",
     "meaningEn": "song",
-    "meaningRu": ""
+    "meaningRu": "песня"
   },
   {
     "id": 77,
     "character": "天",
     "pinyin": "tiān",
     "meaningEn": "sky; day; heaven",
-    "meaningRu": ""
+    "meaningRu": "небо"
   },
   {
     "id": 78,
     "character": "风",
     "pinyin": "fēng",
     "meaningEn": "wind",
-    "meaningRu": ""
+    "meaningRu": "ветер"
   },
   {
     "id": 79,
     "character": "雨",
     "pinyin": "yǔ",
     "meaningEn": "rain",
-    "meaningRu": ""
+    "meaningRu": "дождь"
   },
   {
     "id": 80,
     "character": "花",
     "pinyin": "huā",
     "meaningEn": "flower; blossom",
-    "meaningRu": ""
+    "meaningRu": "цветок"
   },
   {
     "id": 81,
     "character": "树",
     "pinyin": "shù",
     "meaningEn": "tree",
-    "meaningRu": ""
+    "meaningRu": "дерево"
   },
   {
     "id": 82,
     "character": "山",
     "pinyin": "shān",
     "meaningEn": "mountain; hill",
-    "meaningRu": ""
+    "meaningRu": "гора"
   },
   {
     "id": 83,
     "character": "事",
     "pinyin": "shì",
     "meaningEn": "matter; thing; affair",
-    "meaningRu": ""
+    "meaningRu": "иметь значение"
   },
   {
     "id": 84,
     "character": "手",
     "pinyin": "shǒu",
     "meaningEn": "hand",
-    "meaningRu": ""
+    "meaningRu": "рука"
   },
   {
     "id": 85,
     "character": "是",
     "pinyin": "shì",
     "meaningEn": "to be (am, is, are); yes",
-    "meaningRu": ""
+    "meaningRu": "быть (я"
   },
   {
     "id": 86,
     "character": "有",
     "pinyin": "yǒu",
     "meaningEn": "to have; there is/are",
-    "meaningRu": ""
+    "meaningRu": "иметь"
   },
   {
     "id": 87,
     "character": "去",
     "pinyin": "qù",
     "meaningEn": "to go",
-    "meaningRu": ""
+    "meaningRu": "идти"
   },
   {
     "id": 88,
     "character": "来",
     "pinyin": "lái",
     "meaningEn": "to come",
-    "meaningRu": ""
+    "meaningRu": "прийти"
   },
   {
     "id": 89,
     "character": "回",
     "pinyin": "huí",
     "meaningEn": "to return; to go back",
-    "meaningRu": ""
+    "meaningRu": "вернуться"
   },
   {
     "id": 90,
     "character": "走",
     "pinyin": "zǒu",
     "meaningEn": "to walk; to leave; to go",
-    "meaningRu": ""
+    "meaningRu": "ходить"
   },
   {
     "id": 91,
     "character": "跑",
     "pinyin": "pǎo",
     "meaningEn": "to run",
-    "meaningRu": ""
+    "meaningRu": "бежать"
   },
   {
     "id": 92,
     "character": "坐",
     "pinyin": "zuò",
     "meaningEn": "to sit; to ride/travel by (bus, train)",
-    "meaningRu": ""
+    "meaningRu": "сидеть"
   },
   {
     "id": 93,
@@ -669,7 +669,7 @@
     "character": "飞",
     "pinyin": "fēi",
     "meaningEn": "to fly",
-    "meaningRu": ""
+    "meaningRu": "летать"
   },
   {
     "id": 96,
@@ -683,679 +683,679 @@
     "character": "出",
     "pinyin": "chū",
     "meaningEn": "to go out; to produce",
-    "meaningRu": ""
+    "meaningRu": "выйти"
   },
   {
     "id": 98,
     "character": "过",
     "pinyin": "guò",
     "meaningEn": "to cross; to pass; spend time",
-    "meaningRu": ""
+    "meaningRu": "пересекать"
   },
   {
     "id": 99,
     "character": "到",
     "pinyin": "dào",
     "meaningEn": "to arrive; reach; up to",
-    "meaningRu": ""
+    "meaningRu": "прибыть"
   },
   {
     "id": 100,
     "character": "动",
     "pinyin": "dòng",
     "meaningEn": "to move",
-    "meaningRu": ""
+    "meaningRu": "двигаться"
   },
   {
     "id": 101,
     "character": "见",
     "pinyin": "jiàn",
     "meaningEn": "to see",
-    "meaningRu": ""
+    "meaningRu": "чтобы увидеть"
   },
   {
     "id": 102,
     "character": "起",
     "pinyin": "qǐ",
     "meaningEn": "to rise; to get up",
-    "meaningRu": ""
+    "meaningRu": "подняться"
   },
   {
     "id": 103,
     "character": "要",
     "pinyin": "yào",
     "meaningEn": "to want; will; to need",
-    "meaningRu": ""
+    "meaningRu": "хотеть"
   },
   {
     "id": 104,
     "character": "看",
     "pinyin": "kàn",
     "meaningEn": "to look; to watch; to read",
-    "meaningRu": ""
+    "meaningRu": "смотреть"
   },
   {
     "id": 105,
     "character": "听",
     "pinyin": "tīng",
     "meaningEn": "to listen; to hear",
-    "meaningRu": ""
+    "meaningRu": "слушать"
   },
   {
     "id": 106,
     "character": "说",
     "pinyin": "shuō",
     "meaningEn": "to speak; to say; to talk",
-    "meaningRu": ""
+    "meaningRu": "говорить"
   },
   {
     "id": 107,
     "character": "读",
     "pinyin": "dú",
     "meaningEn": "to read aloud; to study",
-    "meaningRu": ""
+    "meaningRu": "читать вслух"
   },
   {
     "id": 108,
     "character": "写",
     "pinyin": "xiě",
     "meaningEn": "to write",
-    "meaningRu": ""
+    "meaningRu": "писать"
   },
   {
     "id": 109,
     "character": "吃",
     "pinyin": "chī",
     "meaningEn": "to eat",
-    "meaningRu": ""
+    "meaningRu": "есть"
   },
   {
     "id": 110,
     "character": "喝",
     "pinyin": "hē",
     "meaningEn": "to drink",
-    "meaningRu": ""
+    "meaningRu": "пить"
   },
   {
     "id": 111,
     "character": "买",
     "pinyin": "mǎi",
     "meaningEn": "to buy",
-    "meaningRu": ""
+    "meaningRu": "купить"
   },
   {
     "id": 112,
     "character": "穿",
     "pinyin": "chuān",
     "meaningEn": "to wear; to put on (clothes, shoes)",
-    "meaningRu": ""
+    "meaningRu": "носить"
   },
   {
     "id": 113,
     "character": "洗",
     "pinyin": "xǐ",
     "meaningEn": "to wash; to bathe",
-    "meaningRu": ""
+    "meaningRu": "мыть"
   },
   {
     "id": 114,
     "character": "给",
     "pinyin": "gěi",
     "meaningEn": "to give; to; for",
-    "meaningRu": ""
+    "meaningRu": "дать"
   },
   {
     "id": 115,
     "character": "找",
     "pinyin": "zhǎo",
     "meaningEn": "to look for; to find",
-    "meaningRu": ""
+    "meaningRu": "искать"
   },
   {
     "id": 116,
     "character": "问",
     "pinyin": "wèn",
     "meaningEn": "to ask",
-    "meaningRu": ""
+    "meaningRu": "спросить"
   },
   {
     "id": 117,
     "character": "等",
     "pinyin": "děng",
     "meaningEn": "to wait; class; grade; and so on",
-    "meaningRu": ""
+    "meaningRu": "ждать"
   },
   {
     "id": 118,
     "character": "拿",
     "pinyin": "ná",
     "meaningEn": "to take; to hold; to bring",
-    "meaningRu": ""
+    "meaningRu": "взять"
   },
   {
     "id": 119,
     "character": "放",
     "pinyin": "fàng",
     "meaningEn": "to put; to place; to release",
-    "meaningRu": ""
+    "meaningRu": "положить"
   },
   {
     "id": 120,
     "character": "送",
     "pinyin": "sòng",
     "meaningEn": "to deliver; to carry; to give as gift",
-    "meaningRu": ""
+    "meaningRu": "доставить"
   },
   {
     "id": 121,
     "character": "开",
     "pinyin": "kāi",
     "meaningEn": "to open; to drive; to turn on",
-    "meaningRu": ""
+    "meaningRu": "открыть"
   },
   {
     "id": 122,
     "character": "关",
     "pinyin": "guān",
     "meaningEn": "to close; to turn off; to shut",
-    "meaningRu": ""
+    "meaningRu": "закрыть"
   },
   {
     "id": 123,
     "character": "打",
     "pinyin": "dǎ",
     "meaningEn": "to hit; to play (games); to make (phone calls)",
-    "meaningRu": ""
+    "meaningRu": "ударить"
   },
   {
     "id": 124,
     "character": "做",
     "pinyin": "zuò",
     "meaningEn": "to do; to make; to prepare",
-    "meaningRu": ""
+    "meaningRu": "делать"
   },
   {
     "id": 125,
     "character": "用",
     "pinyin": "yòng",
     "meaningEn": "to use",
-    "meaningRu": ""
+    "meaningRu": "использовать"
   },
   {
     "id": 126,
     "character": "帮",
     "pinyin": "bāng",
     "meaningEn": "to help; to assist",
-    "meaningRu": ""
+    "meaningRu": "помочь"
   },
   {
     "id": 127,
     "character": "谢",
     "pinyin": "xiè",
     "meaningEn": "to thank",
-    "meaningRu": ""
+    "meaningRu": "поблагодарить"
   },
   {
     "id": 128,
     "character": "教",
     "pinyin": "jiāo",
     "meaningEn": "to teach; to instruct",
-    "meaningRu": ""
+    "meaningRu": "учить"
   },
   {
     "id": 129,
     "character": "还",
     "pinyin": "huán",
     "meaningEn": "to return (something borrowed)",
-    "meaningRu": ""
+    "meaningRu": "вернуться"
   },
   {
     "id": 130,
     "character": "话",
     "pinyin": "huà",
     "meaningEn": "word; speech",
-    "meaningRu": ""
+    "meaningRu": "слово"
   },
   {
     "id": 131,
     "character": "记",
     "pinyin": "jì",
     "meaningEn": "to remember; to record",
-    "meaningRu": ""
+    "meaningRu": "помнить"
   },
   {
     "id": 132,
     "character": "叫",
     "pinyin": "jiào",
     "meaningEn": "to call; to be called; to order",
-    "meaningRu": ""
+    "meaningRu": "позвонить"
   },
   {
     "id": 133,
     "character": "请",
     "pinyin": "qǐng",
     "meaningEn": "please; to invite",
-    "meaningRu": ""
+    "meaningRu": "пожалуйста"
   },
   {
     "id": 134,
     "character": "学",
     "pinyin": "xué",
     "meaningEn": "to study; to learn",
-    "meaningRu": ""
+    "meaningRu": "учиться"
   },
   {
     "id": 135,
     "character": "笑",
     "pinyin": "xiào",
     "meaningEn": "to laugh; to smile",
-    "meaningRu": ""
+    "meaningRu": "смеяться"
   },
   {
     "id": 136,
     "character": "想",
     "pinyin": "xiǎng",
     "meaningEn": "to want; to think; to miss",
-    "meaningRu": ""
+    "meaningRu": "хотеть"
   },
   {
     "id": 137,
     "character": "爱",
     "pinyin": "ài",
     "meaningEn": "to love",
-    "meaningRu": ""
+    "meaningRu": "любить"
   },
   {
     "id": 138,
     "character": "会",
     "pinyin": "huì",
     "meaningEn": "can; know how to; will; meeting",
-    "meaningRu": ""
+    "meaningRu": "может"
   },
   {
     "id": 139,
     "character": "能",
     "pinyin": "néng",
     "meaningEn": "can; be able to",
-    "meaningRu": ""
+    "meaningRu": "может"
   },
   {
     "id": 140,
     "character": "忘",
     "pinyin": "wàng",
     "meaningEn": "to forget",
-    "meaningRu": ""
+    "meaningRu": "забыть"
   },
   {
     "id": 141,
     "character": "病",
     "pinyin": "bìng",
     "meaningEn": "illness; disease; to fall ill",
-    "meaningRu": ""
+    "meaningRu": "болезнь"
   },
   {
     "id": 142,
     "character": "唱",
     "pinyin": "chàng",
     "meaningEn": "to sing",
-    "meaningRu": ""
+    "meaningRu": "петь"
   },
   {
     "id": 143,
     "character": "干",
     "pinyin": "gàn",
     "meaningEn": "to do; to work",
-    "meaningRu": ""
+    "meaningRu": "делать"
   },
   {
     "id": 144,
     "character": "试",
     "pinyin": "shì",
     "meaningEn": "to try; to test",
-    "meaningRu": ""
+    "meaningRu": "попробовать"
   },
   {
     "id": 145,
     "character": "睡",
     "pinyin": "shuì",
     "meaningEn": "to sleep",
-    "meaningRu": ""
+    "meaningRu": "спать"
   },
   {
     "id": 146,
     "character": "好",
     "pinyin": "hǎo",
     "meaningEn": "good; well",
-    "meaningRu": ""
+    "meaningRu": "хороший"
   },
   {
     "id": 147,
     "character": "坏",
     "pinyin": "huài",
     "meaningEn": "bad; broken",
-    "meaningRu": ""
+    "meaningRu": "плохой"
   },
   {
     "id": 148,
     "character": "大",
     "pinyin": "dà",
     "meaningEn": "big; large; great",
-    "meaningRu": ""
+    "meaningRu": "большой"
   },
   {
     "id": 149,
     "character": "小",
     "pinyin": "xiǎo",
     "meaningEn": "small; little",
-    "meaningRu": ""
+    "meaningRu": "маленький"
   },
   {
     "id": 150,
     "character": "多",
     "pinyin": "duō",
     "meaningEn": "many; much",
-    "meaningRu": ""
+    "meaningRu": "много"
   },
   {
     "id": 151,
     "character": "少",
     "pinyin": "shǎo",
     "meaningEn": "few; little; lack",
-    "meaningRu": ""
+    "meaningRu": "немного"
   },
   {
     "id": 152,
     "character": "高",
     "pinyin": "gāo",
     "meaningEn": "tall; high",
-    "meaningRu": ""
+    "meaningRu": "высокий"
   },
   {
     "id": 153,
     "character": "新",
     "pinyin": "xīn",
     "meaningEn": "new; fresh",
-    "meaningRu": ""
+    "meaningRu": "новый"
   },
   {
     "id": 154,
     "character": "冷",
     "pinyin": "lěng",
     "meaningEn": "cold",
-    "meaningRu": ""
+    "meaningRu": "холодный"
   },
   {
     "id": 155,
     "character": "热",
     "pinyin": "rè",
     "meaningEn": "hot; warm up",
-    "meaningRu": ""
+    "meaningRu": "горячий"
   },
   {
     "id": 156,
     "character": "累",
     "pinyin": "lèi",
     "meaningEn": "tired; fatigued",
-    "meaningRu": ""
+    "meaningRu": "усталый"
   },
   {
     "id": 157,
     "character": "饿",
     "pinyin": "è",
     "meaningEn": "hungry",
-    "meaningRu": ""
+    "meaningRu": "голодный"
   },
   {
     "id": 158,
     "character": "渴",
     "pinyin": "kě",
     "meaningEn": "thirsty",
-    "meaningRu": ""
+    "meaningRu": "испытывающий жажду"
   },
   {
     "id": 159,
     "character": "忙",
     "pinyin": "máng",
     "meaningEn": "busy",
-    "meaningRu": ""
+    "meaningRu": "занятый"
   },
   {
     "id": 160,
     "character": "难",
     "pinyin": "nán",
     "meaningEn": "difficult; hard",
-    "meaningRu": ""
+    "meaningRu": "трудный"
   },
   {
     "id": 161,
     "character": "贵",
     "pinyin": "guì",
     "meaningEn": "expensive; costly",
-    "meaningRu": ""
+    "meaningRu": "дорогой"
   },
   {
     "id": 162,
     "character": "白",
     "pinyin": "bái",
     "meaningEn": "white",
-    "meaningRu": ""
+    "meaningRu": "белый"
   },
   {
     "id": 163,
     "character": "差",
     "pinyin": "chà",
     "meaningEn": "to differ from; short of; poor (quality)",
-    "meaningRu": ""
+    "meaningRu": "отличаться от"
   },
   {
     "id": 164,
     "character": "错",
     "pinyin": "cuò",
     "meaningEn": "wrong; mistake",
-    "meaningRu": ""
+    "meaningRu": "неправильный"
   },
   {
     "id": 165,
     "character": "快",
     "pinyin": "kuài",
     "meaningEn": "fast; quick",
-    "meaningRu": ""
+    "meaningRu": "быстрый"
   },
   {
     "id": 166,
     "character": "老",
     "pinyin": "lǎo",
     "meaningEn": "old (of people/animals); always",
-    "meaningRu": ""
+    "meaningRu": "старый"
   },
   {
     "id": 167,
     "character": "慢",
     "pinyin": "màn",
     "meaningEn": "slow",
-    "meaningRu": ""
+    "meaningRu": "медленный"
   },
   {
     "id": 168,
     "character": "晚",
     "pinyin": "wǎn",
     "meaningEn": "late",
-    "meaningRu": ""
+    "meaningRu": "поздно"
   },
   {
     "id": 169,
     "character": "行",
     "pinyin": "xíng",
     "meaningEn": "OK; all right; to be capable",
-    "meaningRu": ""
+    "meaningRu": "ХОРОШО"
   },
   {
     "id": 170,
     "character": "远",
     "pinyin": "yuǎn",
     "meaningEn": "far",
-    "meaningRu": ""
+    "meaningRu": "далеко"
   },
   {
     "id": 171,
     "character": "早",
     "pinyin": "zǎo",
     "meaningEn": "early",
-    "meaningRu": ""
+    "meaningRu": "рано"
   },
   {
     "id": 172,
     "character": "重",
     "pinyin": "zhòng",
     "meaningEn": "heavy",
-    "meaningRu": ""
+    "meaningRu": "тяжелый"
   },
   {
     "id": 173,
     "character": "很",
     "pinyin": "hěn",
     "meaningEn": "very",
-    "meaningRu": ""
+    "meaningRu": "очень"
   },
   {
     "id": 174,
     "character": "真",
     "pinyin": "zhēn",
     "meaningEn": "really; truly",
-    "meaningRu": ""
+    "meaningRu": "Действительно"
   },
   {
     "id": 175,
     "character": "太",
     "pinyin": "tài",
     "meaningEn": "too; extremely",
-    "meaningRu": ""
+    "meaningRu": "слишком"
   },
   {
     "id": 176,
     "character": "最",
     "pinyin": "zuì",
     "meaningEn": "most; -est (superlative)",
-    "meaningRu": ""
+    "meaningRu": "большинство"
   },
   {
     "id": 177,
     "character": "不",
     "pinyin": "bù",
     "meaningEn": "no; not",
-    "meaningRu": ""
+    "meaningRu": "нет"
   },
   {
     "id": 178,
     "character": "没",
     "pinyin": "méi",
     "meaningEn": "not (have); without",
-    "meaningRu": ""
+    "meaningRu": "нет"
   },
   {
     "id": 179,
     "character": "的",
     "pinyin": "de",
     "meaningEn": "possessive particle",
-    "meaningRu": ""
+    "meaningRu": "притяжательная частица"
   },
   {
     "id": 180,
     "character": "了",
     "pinyin": "le",
     "meaningEn": "completed action particle; change of state",
-    "meaningRu": ""
+    "meaningRu": "частица завершенного действия"
   },
   {
     "id": 181,
     "character": "吗",
     "pinyin": "ma",
     "meaningEn": "question particle (yes/no questions)",
-    "meaningRu": ""
+    "meaningRu": "вопросительная частица"
   },
   {
     "id": 182,
     "character": "也",
     "pinyin": "yě",
     "meaningEn": "also; too",
-    "meaningRu": ""
+    "meaningRu": "также"
   },
   {
     "id": 183,
     "character": "都",
     "pinyin": "dōu",
     "meaningEn": "all; both",
-    "meaningRu": ""
+    "meaningRu": "все"
   },
   {
     "id": 184,
     "character": "别",
     "pinyin": "bié",
     "meaningEn": "don't (do something); other",
-    "meaningRu": ""
+    "meaningRu": "не"
   },
   {
     "id": 185,
     "character": "再",
     "pinyin": "zài",
     "meaningEn": "again; once more",
-    "meaningRu": ""
+    "meaningRu": "снова"
   },
   {
     "id": 186,
     "character": "就",
     "pinyin": "jiù",
     "meaningEn": "at once; right away; then; only",
-    "meaningRu": ""
+    "meaningRu": "сразу"
   },
   {
     "id": 187,
     "character": "地",
     "pinyin": "de",
     "meaningEn": "adverbial particle (-ly)",
-    "meaningRu": ""
+    "meaningRu": "наречие"
   },
   {
     "id": 188,
     "character": "着",
     "pinyin": "zhe",
     "meaningEn": "aspect particle (indicating action in progress)",
-    "meaningRu": ""
+    "meaningRu": "аспектная частица"
   },
   {
     "id": 189,
     "character": "吧",
     "pinyin": "ba",
     "meaningEn": "suggestion/softening particle",
-    "meaningRu": ""
+    "meaningRu": "внушение/смягчающая частица"
   },
   {
     "id": 190,
     "character": "呢",
     "pinyin": "ne",
     "meaningEn": "what about...? (modal particle)",
-    "meaningRu": ""
+    "meaningRu": "а что насчет...?"
   },
   {
     "id": 191,
     "character": "常",
     "pinyin": "cháng",
     "meaningEn": "often",
-    "meaningRu": ""
+    "meaningRu": "часто"
   },
   {
     "id": 192,
     "character": "们",
     "pinyin": "men",
     "meaningEn": "plural suffix for pronouns",
-    "meaningRu": ""
+    "meaningRu": "суффикс множественного числа местоимений"
   },
   {
     "id": 193,
     "character": "先",
     "pinyin": "xiān",
     "meaningEn": "first; before",
-    "meaningRu": ""
+    "meaningRu": "первый"
   },
   {
     "id": 194,
@@ -1369,7 +1369,7 @@
     "character": "子",
     "pinyin": "zi",
     "meaningEn": "noun suffix (e.g. 桌子)",
-    "meaningRu": ""
+    "meaningRu": "суффикс существительного"
   },
   {
     "id": 196,
@@ -1418,406 +1418,406 @@
     "character": "班",
     "pinyin": "bān",
     "meaningEn": "class (of students); shift",
-    "meaningRu": ""
+    "meaningRu": "сорт"
   },
   {
     "id": 203,
     "character": "考",
     "pinyin": "kǎo",
     "meaningEn": "to test; to take an exam",
-    "meaningRu": ""
+    "meaningRu": "тестировать"
   },
   {
     "id": 204,
     "character": "课",
     "pinyin": "kè",
     "meaningEn": "class; lesson",
-    "meaningRu": ""
+    "meaningRu": "сорт"
   },
   {
     "id": 205,
     "character": "页",
     "pinyin": "yè",
     "meaningEn": "page",
-    "meaningRu": ""
+    "meaningRu": "страница"
   },
   {
     "id": 206,
     "character": "字",
     "pinyin": "zì",
     "meaningEn": "character; word",
-    "meaningRu": ""
+    "meaningRu": "характер"
   },
   {
     "id": 207,
     "character": "它",
     "pinyin": "tā",
     "meaningEn": "it",
-    "meaningRu": ""
+    "meaningRu": "это"
   },
   {
     "id": 208,
     "character": "咱",
     "pinyin": "zán",
     "meaningEn": "we; us (inclusive)",
-    "meaningRu": ""
+    "meaningRu": "мы"
   },
   {
     "id": 209,
     "character": "千",
     "pinyin": "qiān",
     "meaningEn": "thousand",
-    "meaningRu": ""
+    "meaningRu": "тысяча"
   },
   {
     "id": 210,
     "character": "万",
     "pinyin": "wàn",
     "meaningEn": "ten thousand",
-    "meaningRu": ""
+    "meaningRu": "десять тысяч"
   },
   {
     "id": 211,
     "character": "数",
     "pinyin": "shù",
     "meaningEn": "number",
-    "meaningRu": ""
+    "meaningRu": "число"
   },
   {
     "id": 212,
     "character": "亿",
     "pinyin": "yì",
     "meaningEn": "hundred million",
-    "meaningRu": ""
+    "meaningRu": "сто миллионов"
   },
   {
     "id": 213,
     "character": "只",
     "pinyin": "zhī",
     "meaningEn": "measure word for certain animals, limbs",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для определенных животных"
   },
   {
     "id": 214,
     "character": "件",
     "pinyin": "jiàn",
     "meaningEn": "measure word for clothing, events",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для одежды"
   },
   {
     "id": 215,
     "character": "条",
     "pinyin": "tiáo",
     "meaningEn": "measure word for long, thin objects",
-    "meaningRu": ""
+    "meaningRu": "долго измерять слово"
   },
   {
     "id": 216,
     "character": "位",
     "pinyin": "wèi",
     "meaningEn": "polite measure word for people",
-    "meaningRu": ""
+    "meaningRu": "вежливое мерное слово для людей"
   },
   {
     "id": 217,
     "character": "遍",
     "pinyin": "biàn",
     "meaningEn": "measure word for times/repetitions",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для количества раз/повторений"
   },
   {
     "id": 218,
     "character": "层",
     "pinyin": "céng",
     "meaningEn": "measure word for floors/layers",
-    "meaningRu": ""
+    "meaningRu": "слово-мера для полов/слоев"
   },
   {
     "id": 219,
     "character": "场",
     "pinyin": "chǎng",
     "meaningEn": "measure word for events/performances",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для событий/выступлений"
   },
   {
     "id": 220,
     "character": "道",
     "pinyin": "dào",
     "meaningEn": "measure word for questions/dishes; way",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для вопросов/блюд"
   },
   {
     "id": 221,
     "character": "段",
     "pinyin": "duàn",
     "meaningEn": "measure word for sections/paragraphs",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для разделов/абзацев"
   },
   {
     "id": 222,
     "character": "份",
     "pinyin": "fèn",
     "meaningEn": "measure word for portions/copies",
-    "meaningRu": ""
+    "meaningRu": "отмерить слово для порций/копий"
   },
   {
     "id": 223,
     "character": "封",
     "pinyin": "fēng",
     "meaningEn": "measure word for letters",
-    "meaningRu": ""
+    "meaningRu": "измерить слово по буквам"
   },
   {
     "id": 224,
     "character": "节",
     "pinyin": "jié",
     "meaningEn": "measure word for lessons/segments; festival",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для уроков/сегментов"
   },
   {
     "id": 225,
     "character": "斤",
     "pinyin": "jīn",
     "meaningEn": "jin (unit of weight, 500g)",
-    "meaningRu": ""
+    "meaningRu": "цзинь (единица веса"
   },
   {
     "id": 226,
     "character": "句",
     "pinyin": "jù",
     "meaningEn": "measure word for sentences",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для предложения"
   },
   {
     "id": 227,
     "character": "克",
     "pinyin": "kè",
     "meaningEn": "gram",
-    "meaningRu": ""
+    "meaningRu": "грамм"
   },
   {
     "id": 228,
     "character": "辆",
     "pinyin": "liàng",
     "meaningEn": "measure word for vehicles",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для транспортных средств"
   },
   {
     "id": 229,
     "character": "米",
     "pinyin": "mǐ",
     "meaningEn": "meter; rice",
-    "meaningRu": ""
+    "meaningRu": "метр"
   },
   {
     "id": 230,
     "character": "名",
     "pinyin": "míng",
     "meaningEn": "name; measure word for people",
-    "meaningRu": ""
+    "meaningRu": "имя"
   },
   {
     "id": 231,
     "character": "篇",
     "pinyin": "piān",
     "meaningEn": "measure word for articles/essays",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для статей/эссе"
   },
   {
     "id": 232,
     "character": "片",
     "pinyin": "piàn",
     "meaningEn": "slice; measure word for flat pieces",
-    "meaningRu": ""
+    "meaningRu": "кусочек"
   },
   {
     "id": 233,
     "character": "瓶",
     "pinyin": "píng",
     "meaningEn": "bottle (measure word)",
-    "meaningRu": ""
+    "meaningRu": "бутылка"
   },
   {
     "id": 234,
     "character": "套",
     "pinyin": "tào",
     "meaningEn": "measure word for sets",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для множеств"
   },
   {
     "id": 235,
     "character": "座",
     "pinyin": "zuò",
     "meaningEn": "measure word for large solid things (buildings, mountains)",
-    "meaningRu": ""
+    "meaningRu": "слово «мера» для больших твердых предметов (зданий"
   },
   {
     "id": 236,
     "character": "周",
     "pinyin": "zhōu",
     "meaningEn": "week (alternative)",
-    "meaningRu": ""
+    "meaningRu": "неделя"
   },
   {
     "id": 237,
     "character": "假",
     "pinyin": "jià",
     "meaningEn": "vacation; holiday",
-    "meaningRu": ""
+    "meaningRu": "отпуск"
   },
   {
     "id": 238,
     "character": "刻",
     "pinyin": "kè",
     "meaningEn": "quarter (of an hour)",
-    "meaningRu": ""
+    "meaningRu": "четверть"
   },
   {
     "id": 239,
     "character": "夜",
     "pinyin": "yè",
     "meaningEn": "night",
-    "meaningRu": ""
+    "meaningRu": "ночь"
   },
   {
     "id": 240,
     "character": "姓",
     "pinyin": "xìng",
     "meaningEn": "surname; to be surnamed",
-    "meaningRu": ""
+    "meaningRu": "фамилия"
   },
   {
     "id": 241,
     "character": "店",
     "pinyin": "diàn",
     "meaningEn": "shop; store",
-    "meaningRu": ""
+    "meaningRu": "магазин"
   },
   {
     "id": 242,
     "character": "街",
     "pinyin": "jiē",
     "meaningEn": "street",
-    "meaningRu": ""
+    "meaningRu": "улица"
   },
   {
     "id": 243,
     "character": "省",
     "pinyin": "shěng",
     "meaningEn": "province; to save (money/time)",
-    "meaningRu": ""
+    "meaningRu": "провинция"
   },
   {
     "id": 244,
     "character": "市",
     "pinyin": "shì",
     "meaningEn": "city; municipality",
-    "meaningRu": ""
+    "meaningRu": "город"
   },
   {
     "id": 245,
     "character": "院",
     "pinyin": "yuàn",
     "meaningEn": "courtyard; institution",
-    "meaningRu": ""
+    "meaningRu": "двор"
   },
   {
     "id": 246,
     "character": "边",
     "pinyin": "biān",
     "meaningEn": "side; edge",
-    "meaningRu": ""
+    "meaningRu": "сторона"
   },
   {
     "id": 247,
     "character": "角",
     "pinyin": "jiǎo",
     "meaningEn": "corner; 10-cent unit",
-    "meaningRu": ""
+    "meaningRu": "угол"
   },
   {
     "id": 248,
     "character": "面",
     "pinyin": "miàn",
     "meaningEn": "side; face; noodles",
-    "meaningRu": ""
+    "meaningRu": "сторона"
   },
   {
     "id": 249,
     "character": "鱼",
     "pinyin": "yú",
     "meaningEn": "fish",
-    "meaningRu": ""
+    "meaningRu": "рыба"
   },
   {
     "id": 250,
     "character": "药",
     "pinyin": "yào",
     "meaningEn": "medicine; drug",
-    "meaningRu": ""
+    "meaningRu": "лекарство"
   },
   {
     "id": 251,
     "character": "鞋",
     "pinyin": "xié",
     "meaningEn": "shoes",
-    "meaningRu": ""
+    "meaningRu": "обувь"
   },
   {
     "id": 252,
     "character": "表",
     "pinyin": "biǎo",
     "meaningEn": "table; chart; watch",
-    "meaningRu": ""
+    "meaningRu": "стол"
   },
   {
     "id": 253,
     "character": "蛋",
     "pinyin": "dàn",
     "meaningEn": "egg",
-    "meaningRu": ""
+    "meaningRu": "яйцо"
   },
   {
     "id": 254,
     "character": "灯",
     "pinyin": "dēng",
     "meaningEn": "lamp; light",
-    "meaningRu": ""
+    "meaningRu": "лампа"
   },
   {
     "id": 255,
     "character": "鸡",
     "pinyin": "jī",
     "meaningEn": "chicken",
-    "meaningRu": ""
+    "meaningRu": "курица"
   },
   {
     "id": 256,
     "character": "酒",
     "pinyin": "jiǔ",
     "meaningEn": "alcohol; liquor",
-    "meaningRu": ""
+    "meaningRu": "алкоголь"
   },
   {
     "id": 257,
     "character": "卡",
     "pinyin": "kǎ",
     "meaningEn": "card",
-    "meaningRu": ""
+    "meaningRu": "карта"
   },
   {
     "id": 258,
     "character": "墙",
     "pinyin": "qiáng",
     "meaningEn": "wall",
-    "meaningRu": ""
+    "meaningRu": "стена"
   },
   {
     "id": 259,
     "character": "碗",
     "pinyin": "wǎn",
     "meaningEn": "bowl",
-    "meaningRu": ""
+    "meaningRu": "чаша"
   },
   {
     "id": 260,
@@ -1831,28 +1831,28 @@
     "character": "纸",
     "pinyin": "zhǐ",
     "meaningEn": "paper",
-    "meaningRu": ""
+    "meaningRu": "бумага"
   },
   {
     "id": 262,
     "character": "笔",
     "pinyin": "bǐ",
     "meaningEn": "pen; pencil; writing brush",
-    "meaningRu": ""
+    "meaningRu": "ручка"
   },
   {
     "id": 263,
     "character": "船",
     "pinyin": "chuán",
     "meaningEn": "boat; ship",
-    "meaningRu": ""
+    "meaningRu": "лодка"
   },
   {
     "id": 264,
     "character": "猫",
     "pinyin": "māo",
     "meaningEn": "cat",
-    "meaningRu": ""
+    "meaningRu": "кот"
   },
   {
     "id": 265,
@@ -1880,700 +1880,700 @@
     "character": "信",
     "pinyin": "xìn",
     "meaningEn": "letter; to believe",
-    "meaningRu": ""
+    "meaningRu": "письмо"
   },
   {
     "id": 269,
     "character": "雪",
     "pinyin": "xuě",
     "meaningEn": "snow",
-    "meaningRu": ""
+    "meaningRu": "снег"
   },
   {
     "id": 270,
     "character": "草",
     "pinyin": "cǎo",
     "meaningEn": "grass; straw",
-    "meaningRu": ""
+    "meaningRu": "трава"
   },
   {
     "id": 271,
     "character": "河",
     "pinyin": "hé",
     "meaningEn": "river",
-    "meaningRu": ""
+    "meaningRu": "река"
   },
   {
     "id": 272,
     "character": "云",
     "pinyin": "yún",
     "meaningEn": "cloud",
-    "meaningRu": ""
+    "meaningRu": "облако"
   },
   {
     "id": 273,
     "character": "海",
     "pinyin": "hǎi",
     "meaningEn": "sea",
-    "meaningRu": ""
+    "meaningRu": "море"
   },
   {
     "id": 274,
     "character": "湖",
     "pinyin": "hú",
     "meaningEn": "lake",
-    "meaningRu": ""
+    "meaningRu": "озеро"
   },
   {
     "id": 275,
     "character": "气",
     "pinyin": "qì",
     "meaningEn": "air; gas; to be angry",
-    "meaningRu": ""
+    "meaningRu": "воздух"
   },
   {
     "id": 276,
     "character": "生",
     "pinyin": "shēng",
     "meaningEn": "to be born; raw; life",
-    "meaningRu": ""
+    "meaningRu": "родиться"
   },
   {
     "id": 277,
     "character": "爬",
     "pinyin": "pá",
     "meaningEn": "to climb; to crawl",
-    "meaningRu": ""
+    "meaningRu": "подняться"
   },
   {
     "id": 278,
     "character": "变",
     "pinyin": "biàn",
     "meaningEn": "to change",
-    "meaningRu": ""
+    "meaningRu": "изменить"
   },
   {
     "id": 279,
     "character": "成",
     "pinyin": "chéng",
     "meaningEn": "to become; to succeed",
-    "meaningRu": ""
+    "meaningRu": "стать"
   },
   {
     "id": 280,
     "character": "吹",
     "pinyin": "chuī",
     "meaningEn": "to blow",
-    "meaningRu": ""
+    "meaningRu": "взорвать"
   },
   {
     "id": 281,
     "character": "倒",
     "pinyin": "dào",
     "meaningEn": "to pour",
-    "meaningRu": ""
+    "meaningRu": "налить"
   },
   {
     "id": 282,
     "character": "掉",
     "pinyin": "diào",
     "meaningEn": "to drop; to fall",
-    "meaningRu": ""
+    "meaningRu": "уронить"
   },
   {
     "id": 283,
     "character": "改",
     "pinyin": "gǎi",
     "meaningEn": "to change; to alter",
-    "meaningRu": ""
+    "meaningRu": "изменить"
   },
   {
     "id": 284,
     "character": "换",
     "pinyin": "huàn",
     "meaningEn": "to exchange; to change",
-    "meaningRu": ""
+    "meaningRu": "обменивать"
   },
   {
     "id": 285,
     "character": "举",
     "pinyin": "jǔ",
     "meaningEn": "to lift; to raise",
-    "meaningRu": ""
+    "meaningRu": "поднять"
   },
   {
     "id": 286,
     "character": "靠",
     "pinyin": "kào",
     "meaningEn": "to lean on; to rely on",
-    "meaningRu": ""
+    "meaningRu": "опереться"
   },
   {
     "id": 287,
     "character": "拉",
     "pinyin": "lā",
     "meaningEn": "to pull",
-    "meaningRu": ""
+    "meaningRu": "тянуть"
   },
   {
     "id": 288,
     "character": "流",
     "pinyin": "liú",
     "meaningEn": "to flow",
-    "meaningRu": ""
+    "meaningRu": "течь"
   },
   {
     "id": 289,
     "character": "弄",
     "pinyin": "nòng",
     "meaningEn": "to do; to make; to mess with",
-    "meaningRu": ""
+    "meaningRu": "делать"
   },
   {
     "id": 290,
     "character": "排",
     "pinyin": "pái",
     "meaningEn": "to line up; row",
-    "meaningRu": ""
+    "meaningRu": "выстроиться в очередь"
   },
   {
     "id": 291,
     "character": "碰",
     "pinyin": "pèng",
     "meaningEn": "to touch; to bump into",
-    "meaningRu": ""
+    "meaningRu": "коснуться"
   },
   {
     "id": 292,
     "character": "取",
     "pinyin": "qǔ",
     "meaningEn": "to get; to take; to fetch",
-    "meaningRu": ""
+    "meaningRu": "получить"
   },
   {
     "id": 293,
     "character": "收",
     "pinyin": "shōu",
     "meaningEn": "to receive; to collect",
-    "meaningRu": ""
+    "meaningRu": "получать"
   },
   {
     "id": 294,
     "character": "算",
     "pinyin": "suàn",
     "meaningEn": "to calculate; to count as",
-    "meaningRu": ""
+    "meaningRu": "рассчитать"
   },
   {
     "id": 295,
     "character": "提",
     "pinyin": "tí",
     "meaningEn": "to raise; to carry (by hand)",
-    "meaningRu": ""
+    "meaningRu": "поднять"
   },
   {
     "id": 296,
     "character": "停",
     "pinyin": "tíng",
     "meaningEn": "to stop",
-    "meaningRu": ""
+    "meaningRu": "остановить"
   },
   {
     "id": 297,
     "character": "通",
     "pinyin": "tōng",
     "meaningEn": "to go through; to connect",
-    "meaningRu": ""
+    "meaningRu": "пройти"
   },
   {
     "id": 298,
     "character": "推",
     "pinyin": "tuī",
     "meaningEn": "to push",
-    "meaningRu": ""
+    "meaningRu": "толкать"
   },
   {
     "id": 299,
     "character": "完",
     "pinyin": "wán",
     "meaningEn": "to finish; to be over",
-    "meaningRu": ""
+    "meaningRu": "закончить"
   },
   {
     "id": 300,
     "character": "闻",
     "pinyin": "wén",
     "meaningEn": "to smell; to hear (literary)",
-    "meaningRu": ""
+    "meaningRu": "чувствовать запах"
   },
   {
     "id": 301,
     "character": "响",
     "pinyin": "xiǎng",
     "meaningEn": "to ring; to sound",
-    "meaningRu": ""
+    "meaningRu": "звонить"
   },
   {
     "id": 302,
     "character": "像",
     "pinyin": "xiàng",
     "meaningEn": "to resemble; to be like",
-    "meaningRu": ""
+    "meaningRu": "походить на"
   },
   {
     "id": 303,
     "character": "占",
     "pinyin": "zhàn",
     "meaningEn": "to occupy; to make up (a percentage)",
-    "meaningRu": ""
+    "meaningRu": "занимать"
   },
   {
     "id": 304,
     "character": "装",
     "pinyin": "zhuāng",
     "meaningEn": "to install; to pack; to pretend",
-    "meaningRu": ""
+    "meaningRu": "установить"
   },
   {
     "id": 305,
     "character": "卖",
     "pinyin": "mài",
     "meaningEn": "to sell",
-    "meaningRu": ""
+    "meaningRu": "продать"
   },
   {
     "id": 306,
     "character": "借",
     "pinyin": "jiè",
     "meaningEn": "to borrow; to lend",
-    "meaningRu": ""
+    "meaningRu": "брать взаймы"
   },
   {
     "id": 307,
     "character": "示",
     "pinyin": "shì",
     "meaningEn": "to show; to indicate (bound form)",
-    "meaningRu": ""
+    "meaningRu": "показать"
   },
   {
     "id": 308,
     "character": "查",
     "pinyin": "chá",
     "meaningEn": "to check; to look up",
-    "meaningRu": ""
+    "meaningRu": "проверить"
   },
   {
     "id": 309,
     "character": "称",
     "pinyin": "chēng",
     "meaningEn": "to call; to be called",
-    "meaningRu": ""
+    "meaningRu": "позвонить"
   },
   {
     "id": 310,
     "character": "发",
     "pinyin": "fā",
     "meaningEn": "to send out; to issue",
-    "meaningRu": ""
+    "meaningRu": "отправить"
   },
   {
     "id": 311,
     "character": "喊",
     "pinyin": "hǎn",
     "meaningEn": "to shout",
-    "meaningRu": ""
+    "meaningRu": "кричать"
   },
   {
     "id": 312,
     "character": "加",
     "pinyin": "jiā",
     "meaningEn": "to add",
-    "meaningRu": ""
+    "meaningRu": "добавить"
   },
   {
     "id": 313,
     "character": "讲",
     "pinyin": "jiǎng",
     "meaningEn": "to speak; to explain",
-    "meaningRu": ""
+    "meaningRu": "говорить"
   },
   {
     "id": 314,
     "character": "练",
     "pinyin": "liàn",
     "meaningEn": "to practice",
-    "meaningRu": ""
+    "meaningRu": "практиковать"
   },
   {
     "id": 315,
     "character": "怕",
     "pinyin": "pà",
     "meaningEn": "to fear; to be afraid of",
-    "meaningRu": ""
+    "meaningRu": "бояться"
   },
   {
     "id": 316,
     "character": "求",
     "pinyin": "qiú",
     "meaningEn": "to beg; to request",
-    "meaningRu": ""
+    "meaningRu": "просить"
   },
   {
     "id": 317,
     "character": "让",
     "pinyin": "ràng",
     "meaningEn": "to let; to allow",
-    "meaningRu": ""
+    "meaningRu": "позволить"
   },
   {
     "id": 318,
     "character": "选",
     "pinyin": "xuǎn",
     "meaningEn": "to choose; to select",
-    "meaningRu": ""
+    "meaningRu": "выбирать"
   },
   {
     "id": 319,
     "character": "画",
     "pinyin": "huà",
     "meaningEn": "to draw; to paint; picture",
-    "meaningRu": ""
+    "meaningRu": "рисовать"
   },
   {
     "id": 320,
     "character": "懂",
     "pinyin": "dǒng",
     "meaningEn": "to understand; to comprehend",
-    "meaningRu": ""
+    "meaningRu": "понять"
   },
   {
     "id": 321,
     "character": "哭",
     "pinyin": "kū",
     "meaningEn": "to cry; weep",
-    "meaningRu": ""
+    "meaningRu": "плакать"
   },
   {
     "id": 322,
     "character": "办",
     "pinyin": "bàn",
     "meaningEn": "to do; to handle",
-    "meaningRu": ""
+    "meaningRu": "делать"
   },
   {
     "id": 323,
     "character": "带",
     "pinyin": "dài",
     "meaningEn": "to bring; to carry; belt",
-    "meaningRu": ""
+    "meaningRu": "принести"
   },
   {
     "id": 324,
     "character": "交",
     "pinyin": "jiāo",
     "meaningEn": "to hand over; to submit",
-    "meaningRu": ""
+    "meaningRu": "передать"
   },
   {
     "id": 325,
     "character": "接",
     "pinyin": "jiē",
     "meaningEn": "to receive; to meet (someone)",
-    "meaningRu": ""
+    "meaningRu": "получать"
   },
   {
     "id": 326,
     "character": "留",
     "pinyin": "liú",
     "meaningEn": "to stay; to leave behind",
-    "meaningRu": ""
+    "meaningRu": "остаться"
   },
   {
     "id": 327,
     "character": "骑",
     "pinyin": "qí",
     "meaningEn": "to ride (a bike/horse)",
-    "meaningRu": ""
+    "meaningRu": "кататься"
   },
   {
     "id": 328,
     "character": "养",
     "pinyin": "yǎng",
     "meaningEn": "to raise (animals/children); to support",
-    "meaningRu": ""
+    "meaningRu": "поднять"
   },
   {
     "id": 329,
     "character": "租",
     "pinyin": "zū",
     "meaningEn": "to rent",
-    "meaningRu": ""
+    "meaningRu": "арендовать"
   },
   {
     "id": 330,
     "character": "脏",
     "pinyin": "zāng",
     "meaningEn": "dirty; filthy",
-    "meaningRu": ""
+    "meaningRu": "грязный"
   },
   {
     "id": 331,
     "character": "饱",
     "pinyin": "bǎo",
     "meaningEn": "full (after eating)",
-    "meaningRu": ""
+    "meaningRu": "полный"
   },
   {
     "id": 332,
     "character": "长",
     "pinyin": "cháng",
     "meaningEn": "long",
-    "meaningRu": ""
+    "meaningRu": "длинный"
   },
   {
     "id": 333,
     "character": "低",
     "pinyin": "dī",
     "meaningEn": "low",
-    "meaningRu": ""
+    "meaningRu": "низкий"
   },
   {
     "id": 334,
     "character": "短",
     "pinyin": "duǎn",
     "meaningEn": "short (length)",
-    "meaningRu": ""
+    "meaningRu": "короткий"
   },
   {
     "id": 335,
     "character": "够",
     "pinyin": "gòu",
     "meaningEn": "enough",
-    "meaningRu": ""
+    "meaningRu": "достаточно"
   },
   {
     "id": 336,
     "character": "急",
     "pinyin": "jí",
     "meaningEn": "urgent; anxious",
-    "meaningRu": ""
+    "meaningRu": "срочный"
   },
   {
     "id": 337,
     "character": "近",
     "pinyin": "jìn",
     "meaningEn": "near; close",
-    "meaningRu": ""
+    "meaningRu": "около"
   },
   {
     "id": 338,
     "character": "亮",
     "pinyin": "liàng",
     "meaningEn": "bright",
-    "meaningRu": ""
+    "meaningRu": "яркий"
   },
   {
     "id": 339,
     "character": "满",
     "pinyin": "mǎn",
     "meaningEn": "full",
-    "meaningRu": ""
+    "meaningRu": "полный"
   },
   {
     "id": 340,
     "character": "平",
     "pinyin": "píng",
     "meaningEn": "flat; level",
-    "meaningRu": ""
+    "meaningRu": "плоский"
   },
   {
     "id": 341,
     "character": "轻",
     "pinyin": "qīng",
     "meaningEn": "light (weight)",
-    "meaningRu": ""
+    "meaningRu": "свет"
   },
   {
     "id": 342,
     "character": "熟",
     "pinyin": "shú",
     "meaningEn": "ripe; cooked; familiar with",
-    "meaningRu": ""
+    "meaningRu": "спелый"
   },
   {
     "id": 343,
     "character": "喂",
     "pinyin": "wèi",
     "meaningEn": "hey; hello (on the phone)",
-    "meaningRu": ""
+    "meaningRu": "привет"
   },
   {
     "id": 344,
     "character": "更",
     "pinyin": "gèng",
     "meaningEn": "even more; further",
-    "meaningRu": ""
+    "meaningRu": "даже больше"
   },
   {
     "id": 345,
     "character": "越",
     "pinyin": "yuè",
     "meaningEn": "the more... (e.g. 越来越)",
-    "meaningRu": ""
+    "meaningRu": "тем более..."
   },
   {
     "id": 346,
     "character": "得",
     "pinyin": "de",
     "meaningEn": "structural particle (used after a verb)",
-    "meaningRu": ""
+    "meaningRu": "структурная частица"
   },
   {
     "id": 347,
     "character": "啊",
     "pinyin": "a",
     "meaningEn": "ah; oh (exclamation particle)",
-    "meaningRu": ""
+    "meaningRu": "ах"
   },
   {
     "id": 348,
     "character": "才",
     "pinyin": "cái",
     "meaningEn": "only then; just",
-    "meaningRu": ""
+    "meaningRu": "только тогда"
   },
   {
     "id": 349,
     "character": "该",
     "pinyin": "gāi",
     "meaningEn": "should; ought to",
-    "meaningRu": ""
+    "meaningRu": "должен"
   },
   {
     "id": 350,
     "character": "刚",
     "pinyin": "gāng",
     "meaningEn": "just (now)",
-    "meaningRu": ""
+    "meaningRu": "только"
   },
   {
     "id": 351,
     "character": "全",
     "pinyin": "quán",
     "meaningEn": "whole; entire",
-    "meaningRu": ""
+    "meaningRu": "весь"
   },
   {
     "id": 352,
     "character": "挺",
     "pinyin": "tǐng",
     "meaningEn": "quite; rather",
-    "meaningRu": ""
+    "meaningRu": "довольно"
   },
   {
     "id": 353,
     "character": "又",
     "pinyin": "yòu",
     "meaningEn": "again",
-    "meaningRu": ""
+    "meaningRu": "снова"
   },
   {
     "id": 354,
     "character": "向",
     "pinyin": "xiàng",
     "meaningEn": "towards; to",
-    "meaningRu": ""
+    "meaningRu": "к"
   },
   {
     "id": 355,
     "character": "离",
     "pinyin": "lí",
     "meaningEn": "away from; distance from",
-    "meaningRu": ""
+    "meaningRu": "вдали от"
   },
   {
     "id": 356,
     "character": "往",
     "pinyin": "wǎng",
     "meaningEn": "towards; head to",
-    "meaningRu": ""
+    "meaningRu": "к"
   },
   {
     "id": 357,
     "character": "为",
     "pinyin": "wèi",
     "meaningEn": "for; because of",
-    "meaningRu": ""
+    "meaningRu": "для"
   },
   {
     "id": 358,
     "character": "但",
     "pinyin": "dàn",
     "meaningEn": "but",
-    "meaningRu": ""
+    "meaningRu": "но"
   },
   {
     "id": 359,
     "character": "或",
     "pinyin": "huò",
     "meaningEn": "or",
-    "meaningRu": ""
+    "meaningRu": "или"
   },
   {
     "id": 360,
     "character": "词",
     "pinyin": "cí",
     "meaningEn": "word",
-    "meaningRu": ""
+    "meaningRu": "слово"
   },
   {
     "id": 361,
     "character": "级",
     "pinyin": "jí",
     "meaningEn": "level; grade",
-    "meaningRu": ""
+    "meaningRu": "уровень"
   },
   {
     "id": 362,
     "character": "科",
     "pinyin": "kē",
     "meaningEn": "academic department; branch of study",
-    "meaningRu": ""
+    "meaningRu": "академический отдел"
   },
   {
     "id": 363,
     "character": "题",
     "pinyin": "tí",
     "meaningEn": "question; topic (in an exam)",
-    "meaningRu": ""
+    "meaningRu": "вопрос"
   },
   {
     "id": 364,
     "character": "组",
     "pinyin": "zǔ",
     "meaningEn": "group",
-    "meaningRu": ""
+    "meaningRu": "группа"
   },
   {
     "id": 365,
     "character": "黑",
     "pinyin": "hēi",
     "meaningEn": "black",
-    "meaningRu": ""
+    "meaningRu": "черный"
   },
   {
     "id": 366,
     "character": "红",
     "pinyin": "hóng",
     "meaningEn": "red",
-    "meaningRu": ""
+    "meaningRu": "красный"
   },
   {
     "id": 367,
     "character": "黄",
     "pinyin": "huáng",
     "meaningEn": "yellow",
-    "meaningRu": ""
+    "meaningRu": "желтый"
   },
   {
     "id": 368,
@@ -2629,14 +2629,14 @@
     "character": "队",
     "pinyin": "duì",
     "meaningEn": "team",
-    "meaningRu": ""
+    "meaningRu": "команда"
   },
   {
     "id": 376,
     "character": "脚",
     "pinyin": "jiǎo",
     "meaningEn": "foot",
-    "meaningRu": ""
+    "meaningRu": "ступня"
   },
   {
     "id": 377,
@@ -2664,7 +2664,7 @@
     "character": "腿",
     "pinyin": "tuǐ",
     "meaningEn": "leg",
-    "meaningRu": ""
+    "meaningRu": "нога"
   },
   {
     "id": 381,
@@ -2678,35 +2678,35 @@
     "character": "嘴",
     "pinyin": "zuǐ",
     "meaningEn": "mouth",
-    "meaningRu": ""
+    "meaningRu": "рот"
   },
   {
     "id": 383,
     "character": "当",
     "pinyin": "dāng",
     "meaningEn": "to serve as; to work as",
-    "meaningRu": ""
+    "meaningRu": "служить в качестве"
   },
   {
     "id": 384,
     "character": "每",
     "pinyin": "měi",
     "meaningEn": "every; each",
-    "meaningRu": ""
+    "meaningRu": "каждый"
   },
   {
     "id": 385,
     "character": "张",
     "pinyin": "zhāng",
     "meaningEn": "measure word for flat objects (paper, tables)",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для плоских предметов (бумага"
   },
   {
     "id": 386,
     "character": "双",
     "pinyin": "shuāng",
     "meaningEn": "pair (shoes, chopsticks, etc.)",
-    "meaningRu": ""
+    "meaningRu": "пара (обувь"
   },
   {
     "id": 387,
@@ -2727,350 +2727,350 @@
     "character": "架",
     "pinyin": "jià",
     "meaningEn": "measure word for machines/aircraft",
-    "meaningRu": ""
+    "meaningRu": "измерительное слово для машин/самолетов"
   },
   {
     "id": 390,
     "character": "群",
     "pinyin": "qún",
     "meaningEn": "group; crowd",
-    "meaningRu": ""
+    "meaningRu": "группа"
   },
   {
     "id": 391,
     "character": "束",
     "pinyin": "shù",
     "meaningEn": "bundle; measure word for flowers",
-    "meaningRu": ""
+    "meaningRu": "пучок"
   },
   {
     "id": 392,
     "character": "所",
     "pinyin": "suǒ",
     "meaningEn": "measure word for buildings/institutions; place",
-    "meaningRu": ""
+    "meaningRu": "измерительное слово для зданий/учреждений"
   },
   {
     "id": 393,
     "character": "台",
     "pinyin": "tái",
     "meaningEn": "platform; measure word for machines",
-    "meaningRu": ""
+    "meaningRu": "платформа"
   },
   {
     "id": 394,
     "character": "团",
     "pinyin": "tuán",
     "meaningEn": "group; regiment",
-    "meaningRu": ""
+    "meaningRu": "группа"
   },
   {
     "id": 395,
     "character": "支",
     "pinyin": "zhī",
     "meaningEn": "measure word for pens/songs/teams",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для ручек/песен/команд"
   },
   {
     "id": 396,
     "character": "初",
     "pinyin": "chū",
     "meaningEn": "beginning; first",
-    "meaningRu": ""
+    "meaningRu": "начало"
   },
   {
     "id": 397,
     "character": "期",
     "pinyin": "qī",
     "meaningEn": "period (of time)",
-    "meaningRu": ""
+    "meaningRu": "период"
   },
   {
     "id": 398,
     "character": "时",
     "pinyin": "shí",
     "meaningEn": "time; when",
-    "meaningRu": ""
+    "meaningRu": "время"
   },
   {
     "id": 399,
     "character": "代",
     "pinyin": "dài",
     "meaningEn": "generation; to substitute for",
-    "meaningRu": ""
+    "meaningRu": "поколение"
   },
   {
     "id": 400,
     "character": "员",
     "pinyin": "yuán",
     "meaningEn": "member; personnel (suffix)",
-    "meaningRu": ""
+    "meaningRu": "член"
   },
   {
     "id": 401,
     "character": "厂",
     "pinyin": "chǎng",
     "meaningEn": "factory",
-    "meaningRu": ""
+    "meaningRu": "фабрика"
   },
   {
     "id": 402,
     "character": "城",
     "pinyin": "chéng",
     "meaningEn": "city; town",
-    "meaningRu": ""
+    "meaningRu": "город"
   },
   {
     "id": 403,
     "character": "村",
     "pinyin": "cūn",
     "meaningEn": "village",
-    "meaningRu": ""
+    "meaningRu": "деревня"
   },
   {
     "id": 404,
     "character": "桥",
     "pinyin": "qiáo",
     "meaningEn": "bridge",
-    "meaningRu": ""
+    "meaningRu": "мост"
   },
   {
     "id": 405,
     "character": "区",
     "pinyin": "qū",
     "meaningEn": "district; area",
-    "meaningRu": ""
+    "meaningRu": "округ"
   },
   {
     "id": 406,
     "character": "室",
     "pinyin": "shì",
     "meaningEn": "room",
-    "meaningRu": ""
+    "meaningRu": "комната"
   },
   {
     "id": 407,
     "character": "内",
     "pinyin": "nèi",
     "meaningEn": "inside; within",
-    "meaningRu": ""
+    "meaningRu": "внутри"
   },
   {
     "id": 408,
     "character": "板",
     "pinyin": "bǎn",
     "meaningEn": "board; plank",
-    "meaningRu": ""
+    "meaningRu": "доска"
   },
   {
     "id": 409,
     "character": "布",
     "pinyin": "bù",
     "meaningEn": "cloth",
-    "meaningRu": ""
+    "meaningRu": "ткань"
   },
   {
     "id": 410,
     "character": "刀",
     "pinyin": "dāo",
     "meaningEn": "knife",
-    "meaningRu": ""
+    "meaningRu": "нож"
   },
   {
     "id": 411,
     "character": "环",
     "pinyin": "huán",
     "meaningEn": "ring; loop",
-    "meaningRu": ""
+    "meaningRu": "кольцо"
   },
   {
     "id": 412,
     "character": "牛",
     "pinyin": "niú",
     "meaningEn": "cow; ox",
-    "meaningRu": ""
+    "meaningRu": "корова"
   },
   {
     "id": 413,
     "character": "皮",
     "pinyin": "pí",
     "meaningEn": "skin; leather",
-    "meaningRu": ""
+    "meaningRu": "кожа"
   },
   {
     "id": 414,
     "character": "汤",
     "pinyin": "tāng",
     "meaningEn": "soup",
-    "meaningRu": ""
+    "meaningRu": "суп"
   },
   {
     "id": 415,
     "character": "糖",
     "pinyin": "táng",
     "meaningEn": "sugar; candy",
-    "meaningRu": ""
+    "meaningRu": "сахар"
   },
   {
     "id": 416,
     "character": "线",
     "pinyin": "xiàn",
     "meaningEn": "line; thread",
-    "meaningRu": ""
+    "meaningRu": "линия"
   },
   {
     "id": 417,
     "character": "羊",
     "pinyin": "yáng",
     "meaningEn": "sheep; goat",
-    "meaningRu": ""
+    "meaningRu": "овца"
   },
   {
     "id": 418,
     "character": "证",
     "pinyin": "zhèng",
     "meaningEn": "certificate; proof",
-    "meaningRu": ""
+    "meaningRu": "сертификат"
   },
   {
     "id": 419,
     "character": "钟",
     "pinyin": "zhōng",
     "meaningEn": "clock; bell",
-    "meaningRu": ""
+    "meaningRu": "часы"
   },
   {
     "id": 420,
     "character": "猪",
     "pinyin": "zhū",
     "meaningEn": "pig",
-    "meaningRu": ""
+    "meaningRu": "свинья"
   },
   {
     "id": 421,
     "character": "马",
     "pinyin": "mǎ",
     "meaningEn": "horse",
-    "meaningRu": ""
+    "meaningRu": "лошадь"
   },
   {
     "id": 422,
     "character": "报",
     "pinyin": "bào",
     "meaningEn": "newspaper; to report",
-    "meaningRu": ""
+    "meaningRu": "газета"
   },
   {
     "id": 423,
     "character": "图",
     "pinyin": "tú",
     "meaningEn": "picture; map",
-    "meaningRu": ""
+    "meaningRu": "картина"
   },
   {
     "id": 424,
     "character": "光",
     "pinyin": "guāng",
     "meaningEn": "light; ray",
-    "meaningRu": ""
+    "meaningRu": "свет"
   },
   {
     "id": 425,
     "character": "火",
     "pinyin": "huǒ",
     "meaningEn": "fire",
-    "meaningRu": ""
+    "meaningRu": "огонь"
   },
   {
     "id": 426,
     "character": "类",
     "pinyin": "lèi",
     "meaningEn": "type; category",
-    "meaningRu": ""
+    "meaningRu": "тип"
   },
   {
     "id": 427,
     "character": "力",
     "pinyin": "lì",
     "meaningEn": "strength; power",
-    "meaningRu": ""
+    "meaningRu": "сила"
   },
   {
     "id": 428,
     "character": "性",
     "pinyin": "xìng",
     "meaningEn": "nature; suffix for -ness/-ity",
-    "meaningRu": ""
+    "meaningRu": "природа"
   },
   {
     "id": 429,
     "character": "跳",
     "pinyin": "tiào",
     "meaningEn": "to jump; to leap",
-    "meaningRu": ""
+    "meaningRu": "прыгать"
   },
   {
     "id": 430,
     "character": "搬",
     "pinyin": "bān",
     "meaningEn": "to move (objects); to relocate",
-    "meaningRu": ""
+    "meaningRu": "двигаться"
   },
   {
     "id": 431,
     "character": "补",
     "pinyin": "bǔ",
     "meaningEn": "to mend; to supplement",
-    "meaningRu": ""
+    "meaningRu": "исправить"
   },
   {
     "id": 432,
     "character": "步",
     "pinyin": "bù",
     "meaningEn": "step; pace",
-    "meaningRu": ""
+    "meaningRu": "шаг"
   },
   {
     "id": 433,
     "character": "存",
     "pinyin": "cún",
     "meaningEn": "to exist; to store",
-    "meaningRu": ""
+    "meaningRu": "существовать"
   },
   {
     "id": 434,
     "character": "断",
     "pinyin": "duàn",
     "meaningEn": "to break; to cut off",
-    "meaningRu": ""
+    "meaningRu": "сломать"
   },
   {
     "id": 435,
     "character": "防",
     "pinyin": "fáng",
     "meaningEn": "to prevent; to guard against",
-    "meaningRu": ""
+    "meaningRu": "предотвратить"
   },
   {
     "id": 436,
     "character": "赶",
     "pinyin": "gǎn",
     "meaningEn": "to catch (a bus/train); to rush",
-    "meaningRu": ""
+    "meaningRu": "поймать"
   },
   {
     "id": 437,
     "character": "挂",
     "pinyin": "guà",
     "meaningEn": "to hang",
-    "meaningRu": ""
+    "meaningRu": "повесить"
   },
   {
     "id": 438,
     "character": "合",
     "pinyin": "hé",
     "meaningEn": "to combine; to close",
-    "meaningRu": ""
+    "meaningRu": "объединить"
   },
   {
     "id": 439,
@@ -3084,21 +3084,21 @@
     "character": "活",
     "pinyin": "huó",
     "meaningEn": "to live; alive",
-    "meaningRu": ""
+    "meaningRu": "жить"
   },
   {
     "id": 441,
     "character": "建",
     "pinyin": "jiàn",
     "meaningEn": "to build",
-    "meaningRu": ""
+    "meaningRu": "строить"
   },
   {
     "id": 442,
     "character": "领",
     "pinyin": "lǐng",
     "meaningEn": "to lead; collar",
-    "meaningRu": ""
+    "meaningRu": "вести"
   },
   {
     "id": 443,
@@ -3126,98 +3126,98 @@
     "character": "受",
     "pinyin": "shòu",
     "meaningEn": "to receive; to suffer",
-    "meaningRu": ""
+    "meaningRu": "получать"
   },
   {
     "id": 447,
     "character": "属",
     "pinyin": "shǔ",
     "meaningEn": "to belong to; to be born in the year of",
-    "meaningRu": ""
+    "meaningRu": "принадлежать"
   },
   {
     "id": 448,
     "character": "死",
     "pinyin": "sǐ",
     "meaningEn": "to die; dead",
-    "meaningRu": ""
+    "meaningRu": "умереть"
   },
   {
     "id": 449,
     "character": "退",
     "pinyin": "tuì",
     "meaningEn": "to retreat; to withdraw",
-    "meaningRu": ""
+    "meaningRu": "отступать"
   },
   {
     "id": 450,
     "character": "围",
     "pinyin": "wéi",
     "meaningEn": "to surround",
-    "meaningRu": ""
+    "meaningRu": "окружить"
   },
   {
     "id": 451,
     "character": "修",
     "pinyin": "xiū",
     "meaningEn": "to repair; to build",
-    "meaningRu": ""
+    "meaningRu": "ремонтировать"
   },
   {
     "id": 452,
     "character": "压",
     "pinyin": "yā",
     "meaningEn": "to press; to weigh down",
-    "meaningRu": ""
+    "meaningRu": "нажать"
   },
   {
     "id": 453,
     "character": "游",
     "pinyin": "yóu",
     "meaningEn": "to swim; to tour",
-    "meaningRu": ""
+    "meaningRu": "плавать"
   },
   {
     "id": 454,
     "character": "造",
     "pinyin": "zào",
     "meaningEn": "to build; to make",
-    "meaningRu": ""
+    "meaningRu": "строить"
   },
   {
     "id": 455,
     "character": "争",
     "pinyin": "zhēng",
     "meaningEn": "to compete for; to strive",
-    "meaningRu": ""
+    "meaningRu": "соревноваться за"
   },
   {
     "id": 456,
     "character": "指",
     "pinyin": "zhǐ",
     "meaningEn": "to point; finger",
-    "meaningRu": ""
+    "meaningRu": "указывать"
   },
   {
     "id": 457,
     "character": "抓",
     "pinyin": "zhuā",
     "meaningEn": "to grab",
-    "meaningRu": ""
+    "meaningRu": "схватить"
   },
   {
     "id": 458,
     "character": "转",
     "pinyin": "zhuǎn",
     "meaningEn": "to turn; to transfer",
-    "meaningRu": ""
+    "meaningRu": "поворачивать"
   },
   {
     "id": 459,
     "character": "追",
     "pinyin": "zhuī",
     "meaningEn": "to chase",
-    "meaningRu": ""
+    "meaningRu": "преследовать"
   },
   {
     "id": 460,
@@ -3231,7 +3231,7 @@
     "character": "传",
     "pinyin": "chuán",
     "meaningEn": "to pass on; to transmit",
-    "meaningRu": ""
+    "meaningRu": "передать дальше"
   },
   {
     "id": 462,
@@ -3273,7 +3273,7 @@
     "character": "派",
     "pinyin": "pài",
     "meaningEn": "to dispatch; faction",
-    "meaningRu": ""
+    "meaningRu": "отправлять"
   },
   {
     "id": 468,
@@ -3294,119 +3294,119 @@
     "character": "约",
     "pinyin": "yuē",
     "meaningEn": "to make an appointment; approximately",
-    "meaningRu": ""
+    "meaningRu": "назначить встречу"
   },
   {
     "id": 471,
     "character": "祝",
     "pinyin": "zhù",
     "meaningEn": "to wish (someone well)",
-    "meaningRu": ""
+    "meaningRu": "желать"
   },
   {
     "id": 472,
     "character": "订",
     "pinyin": "dìng",
     "meaningEn": "to order; to book",
-    "meaningRu": ""
+    "meaningRu": "заказать"
   },
   {
     "id": 473,
     "character": "付",
     "pinyin": "fù",
     "meaningEn": "to pay",
-    "meaningRu": ""
+    "meaningRu": "платить"
   },
   {
     "id": 474,
     "character": "录",
     "pinyin": "lù",
     "meaningEn": "to record",
-    "meaningRu": ""
+    "meaningRu": "записать"
   },
   {
     "id": 475,
     "character": "拍",
     "pinyin": "pāi",
     "meaningEn": "to pat; to shoot (photo/film)",
-    "meaningRu": ""
+    "meaningRu": "погладить"
   },
   {
     "id": 476,
     "character": "胖",
     "pinyin": "pàng",
     "meaningEn": "fat; plump",
-    "meaningRu": ""
+    "meaningRu": "толстый"
   },
   {
     "id": 477,
     "character": "瘦",
     "pinyin": "shòu",
     "meaningEn": "thin; slim; lean",
-    "meaningRu": ""
+    "meaningRu": "тонкий"
   },
   {
     "id": 478,
     "character": "旧",
     "pinyin": "jiù",
     "meaningEn": "old (objects); worn",
-    "meaningRu": ""
+    "meaningRu": "старый"
   },
   {
     "id": 479,
     "character": "甜",
     "pinyin": "tián",
     "meaningEn": "sweet",
-    "meaningRu": ""
+    "meaningRu": "сладкий"
   },
   {
     "id": 480,
     "character": "吵",
     "pinyin": "chǎo",
     "meaningEn": "noisy; to quarrel",
-    "meaningRu": ""
+    "meaningRu": "шумный"
   },
   {
     "id": 481,
     "character": "富",
     "pinyin": "fù",
     "meaningEn": "rich; wealthy",
-    "meaningRu": ""
+    "meaningRu": "богатый"
   },
   {
     "id": 482,
     "character": "古",
     "pinyin": "gǔ",
     "meaningEn": "ancient",
-    "meaningRu": ""
+    "meaningRu": "древний"
   },
   {
     "id": 483,
     "character": "紧",
     "pinyin": "jǐn",
     "meaningEn": "tight",
-    "meaningRu": ""
+    "meaningRu": "тугой"
   },
   {
     "id": 484,
     "character": "静",
     "pinyin": "jìng",
     "meaningEn": "quiet; still",
-    "meaningRu": ""
+    "meaningRu": "тихий"
   },
   {
     "id": 485,
     "character": "空",
     "pinyin": "kōng",
     "meaningEn": "empty",
-    "meaningRu": ""
+    "meaningRu": "пустой"
   },
   {
     "id": 486,
     "character": "困",
     "pinyin": "kùn",
     "meaningEn": "sleepy; trapped",
-    "meaningRu": ""
+    "meaningRu": "сонный"
   },
   {
     "id": 487,
@@ -3427,126 +3427,126 @@
     "character": "破",
     "pinyin": "pò",
     "meaningEn": "broken; torn",
-    "meaningRu": ""
+    "meaningRu": "сломанный"
   },
   {
     "id": 490,
     "character": "强",
     "pinyin": "qiáng",
     "meaningEn": "strong",
-    "meaningRu": ""
+    "meaningRu": "сильный"
   },
   {
     "id": 491,
     "character": "巧",
     "pinyin": "qiǎo",
     "meaningEn": "coincidental; skillful",
-    "meaningRu": ""
+    "meaningRu": "случайный"
   },
   {
     "id": 492,
     "character": "深",
     "pinyin": "shēn",
     "meaningEn": "deep",
-    "meaningRu": ""
+    "meaningRu": "глубокий"
   },
   {
     "id": 493,
     "character": "香",
     "pinyin": "xiāng",
     "meaningEn": "fragrant",
-    "meaningRu": ""
+    "meaningRu": "ароматный"
   },
   {
     "id": 494,
     "character": "直",
     "pinyin": "zhí",
     "meaningEn": "straight",
-    "meaningRu": ""
+    "meaningRu": "прямой"
   },
   {
     "id": 495,
     "character": "准",
     "pinyin": "zhǔn",
     "meaningEn": "accurate; standard",
-    "meaningRu": ""
+    "meaningRu": "точный"
   },
   {
     "id": 496,
     "character": "按",
     "pinyin": "àn",
     "meaningEn": "according to; to press",
-    "meaningRu": ""
+    "meaningRu": "в соответствии с"
   },
   {
     "id": 497,
     "character": "朝",
     "pinyin": "cháo",
     "meaningEn": "towards; facing",
-    "meaningRu": ""
+    "meaningRu": "к"
   },
   {
     "id": 498,
     "character": "各",
     "pinyin": "gè",
     "meaningEn": "each; every",
-    "meaningRu": ""
+    "meaningRu": "каждый"
   },
   {
     "id": 499,
     "character": "较",
     "pinyin": "jiào",
     "meaningEn": "relatively; comparatively",
-    "meaningRu": ""
+    "meaningRu": "относительно"
   },
   {
     "id": 500,
     "character": "仅",
     "pinyin": "jǐn",
     "meaningEn": "only; merely",
-    "meaningRu": ""
+    "meaningRu": "только"
   },
   {
     "id": 501,
     "character": "久",
     "pinyin": "jiǔ",
     "meaningEn": "long (time)",
-    "meaningRu": ""
+    "meaningRu": "длинный"
   },
   {
     "id": 502,
     "character": "连",
     "pinyin": "lián",
     "meaningEn": "even; to link",
-    "meaningRu": ""
+    "meaningRu": "даже"
   },
   {
     "id": 503,
     "character": "某",
     "pinyin": "mǒu",
     "meaningEn": "a certain (unspecified)",
-    "meaningRu": ""
+    "meaningRu": "определенный"
   },
   {
     "id": 504,
     "character": "齐",
     "pinyin": "qí",
     "meaningEn": "together; even (uniform)",
-    "meaningRu": ""
+    "meaningRu": "вместе"
   },
   {
     "id": 505,
     "character": "仍",
     "pinyin": "réng",
     "meaningEn": "still; yet",
-    "meaningRu": ""
+    "meaningRu": "все еще"
   },
   {
     "id": 506,
     "character": "随",
     "pinyin": "suí",
     "meaningEn": "to follow; along with",
-    "meaningRu": ""
+    "meaningRu": "следовать"
   },
   {
     "id": 507,
@@ -3560,7 +3560,7 @@
     "character": "照",
     "pinyin": "zhào",
     "meaningEn": "to shine; according to",
-    "meaningRu": ""
+    "meaningRu": "сиять"
   },
   {
     "id": 509,
@@ -3588,7 +3588,7 @@
     "character": "总",
     "pinyin": "zǒng",
     "meaningEn": "always; overall; chief",
-    "meaningRu": ""
+    "meaningRu": "всегда"
   },
   {
     "id": 513,
@@ -3630,7 +3630,7 @@
     "character": "金",
     "pinyin": "jīn",
     "meaningEn": "gold",
-    "meaningRu": ""
+    "meaningRu": "золото"
   },
   {
     "id": 519,
@@ -3707,7 +3707,7 @@
     "character": "福",
     "pinyin": "fú",
     "meaningEn": "good fortune; blessing",
-    "meaningRu": ""
+    "meaningRu": "удачи"
   },
   {
     "id": 530,
@@ -3721,238 +3721,238 @@
     "character": "亲",
     "pinyin": "qīn",
     "meaningEn": "close (relation); to kiss",
-    "meaningRu": ""
+    "meaningRu": "закрывать"
   },
   {
     "id": 532,
     "character": "心",
     "pinyin": "xīn",
     "meaningEn": "heart; mind",
-    "meaningRu": ""
+    "meaningRu": "сердце"
   },
   {
     "id": 533,
     "character": "龙",
     "pinyin": "lóng",
     "meaningEn": "dragon",
-    "meaningRu": ""
+    "meaningRu": "дракон"
   },
   {
     "id": 534,
     "character": "迷",
     "pinyin": "mí",
     "meaningEn": "fan (enthusiast); to be fascinated",
-    "meaningRu": ""
+    "meaningRu": "вентилятор"
   },
   {
     "id": 535,
     "character": "演",
     "pinyin": "yǎn",
     "meaningEn": "to perform; to act",
-    "meaningRu": ""
+    "meaningRu": "выполнять"
   },
   {
     "id": 536,
     "character": "铁",
     "pinyin": "tiě",
     "meaningEn": "iron",
-    "meaningRu": ""
+    "meaningRu": "железо"
   },
   {
     "id": 537,
     "character": "土",
     "pinyin": "tǔ",
     "meaningEn": "earth; soil",
-    "meaningRu": ""
+    "meaningRu": "земля"
   },
   {
     "id": 538,
     "character": "烟",
     "pinyin": "yān",
     "meaningEn": "smoke; cigarette",
-    "meaningRu": ""
+    "meaningRu": "курить"
   },
   {
     "id": 539,
     "character": "俩",
     "pinyin": "liǎ",
     "meaningEn": "two (people, colloquial)",
-    "meaningRu": ""
+    "meaningRu": "двое (человек"
   },
   {
     "id": 540,
     "character": "些",
     "pinyin": "xiē",
     "meaningEn": "some; a few (indicates plural)",
-    "meaningRu": ""
+    "meaningRu": "некоторый"
   },
   {
     "id": 541,
     "character": "倍",
     "pinyin": "bèi",
     "meaningEn": "times; -fold",
-    "meaningRu": ""
+    "meaningRu": "раз"
   },
   {
     "id": 542,
     "character": "尺",
     "pinyin": "chǐ",
     "meaningEn": "a Chinese foot (measure); ruler",
-    "meaningRu": ""
+    "meaningRu": "китайская нога"
   },
   {
     "id": 543,
     "character": "袋",
     "pinyin": "dài",
     "meaningEn": "bag; sack",
-    "meaningRu": ""
+    "meaningRu": "сумка"
   },
   {
     "id": 544,
     "character": "根",
     "pinyin": "gēn",
     "meaningEn": "root; measure word for long thin objects",
-    "meaningRu": ""
+    "meaningRu": "корень"
   },
   {
     "id": 545,
     "character": "卷",
     "pinyin": "juǎn",
     "meaningEn": "to roll up; volume (book)",
-    "meaningRu": ""
+    "meaningRu": "свернуть"
   },
   {
     "id": 546,
     "character": "棵",
     "pinyin": "kē",
     "meaningEn": "measure word for trees/plants",
-    "meaningRu": ""
+    "meaningRu": "слово для измерения деревьев/растений"
   },
   {
     "id": 547,
     "character": "轮",
     "pinyin": "lún",
     "meaningEn": "wheel; measure word for rounds",
-    "meaningRu": ""
+    "meaningRu": "колесо"
   },
   {
     "id": 548,
     "character": "盘",
     "pinyin": "pán",
     "meaningEn": "plate; measure word for dishes",
-    "meaningRu": ""
+    "meaningRu": "тарелка"
   },
   {
     "id": 549,
     "character": "批",
     "pinyin": "pī",
     "meaningEn": "batch; measure word for groups",
-    "meaningRu": ""
+    "meaningRu": "партия"
   },
   {
     "id": 550,
     "character": "首",
     "pinyin": "shǒu",
     "meaningEn": "measure word for songs/poems; head",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для песен/стихов"
   },
   {
     "id": 551,
     "character": "箱",
     "pinyin": "xiāng",
     "meaningEn": "box; case",
-    "meaningRu": ""
+    "meaningRu": "коробка"
   },
   {
     "id": 552,
     "character": "项",
     "pinyin": "xiàng",
     "meaningEn": "measure word for items/projects",
-    "meaningRu": ""
+    "meaningRu": "слово измерения для предметов/проектов"
   },
   {
     "id": 553,
     "character": "阵",
     "pinyin": "zhèn",
     "meaningEn": "measure word for a burst/spell",
-    "meaningRu": ""
+    "meaningRu": "слово измерения для взрыва/заклинания"
   },
   {
     "id": 554,
     "character": "末",
     "pinyin": "mò",
     "meaningEn": "end",
-    "meaningRu": ""
+    "meaningRu": "конец"
   },
   {
     "id": 555,
     "character": "户",
     "pinyin": "hù",
     "meaningEn": "household; door",
-    "meaningRu": ""
+    "meaningRu": "семья"
   },
   {
     "id": 556,
     "character": "伙",
     "pinyin": "huǒ",
     "meaningEn": "partner; group",
-    "meaningRu": ""
+    "meaningRu": "партнер"
   },
   {
     "id": 557,
     "character": "处",
     "pinyin": "chù",
     "meaningEn": "place; office (department)",
-    "meaningRu": ""
+    "meaningRu": "место"
   },
   {
     "id": 558,
     "character": "县",
     "pinyin": "xiàn",
     "meaningEn": "county",
-    "meaningRu": ""
+    "meaningRu": "графство"
   },
   {
     "id": 559,
     "character": "底",
     "pinyin": "dǐ",
     "meaningEn": "bottom",
-    "meaningRu": ""
+    "meaningRu": "нижний"
   },
   {
     "id": 560,
     "character": "顶",
     "pinyin": "dǐng",
     "meaningEn": "top; summit",
-    "meaningRu": ""
+    "meaningRu": "вершина"
   },
   {
     "id": 561,
     "character": "伞",
     "pinyin": "sǎn",
     "meaningEn": "umbrella",
-    "meaningRu": ""
+    "meaningRu": "зонтик"
   },
   {
     "id": 562,
     "character": "瓜",
     "pinyin": "guā",
     "meaningEn": "melon",
-    "meaningRu": ""
+    "meaningRu": "дыня"
   },
   {
     "id": 563,
     "character": "圈",
     "pinyin": "quān",
     "meaningEn": "circle; ring",
-    "meaningRu": ""
+    "meaningRu": "круг"
   },
   {
     "id": 564,
     "character": "盐",
     "pinyin": "yán",
     "meaningEn": "salt",
-    "meaningRu": ""
+    "meaningRu": "соль"
   },
   {
     "id": 565,
@@ -3966,21 +3966,21 @@
     "character": "宝",
     "pinyin": "bǎo",
     "meaningEn": "treasure",
-    "meaningRu": ""
+    "meaningRu": "сокровище"
   },
   {
     "id": 567,
     "character": "方",
     "pinyin": "fāng",
     "meaningEn": "direction; square",
-    "meaningRu": ""
+    "meaningRu": "направление"
   },
   {
     "id": 568,
     "character": "量",
     "pinyin": "liàng",
     "meaningEn": "quantity",
-    "meaningRu": ""
+    "meaningRu": "количество"
   },
   {
     "id": 569,
@@ -3994,21 +3994,21 @@
     "character": "型",
     "pinyin": "xíng",
     "meaningEn": "type; model",
-    "meaningRu": ""
+    "meaningRu": "тип"
   },
   {
     "id": 571,
     "character": "摆",
     "pinyin": "bǎi",
     "meaningEn": "to place; to arrange",
-    "meaningRu": ""
+    "meaningRu": "разместить"
   },
   {
     "id": 572,
     "character": "抱",
     "pinyin": "bào",
     "meaningEn": "to hug; to hold",
-    "meaningRu": ""
+    "meaningRu": "обнимать"
   },
   {
     "id": 573,
@@ -4036,63 +4036,63 @@
     "character": "冲",
     "pinyin": "chōng",
     "meaningEn": "to rush; to rinse",
-    "meaningRu": ""
+    "meaningRu": "спешить"
   },
   {
     "id": 577,
     "character": "抽",
     "pinyin": "chōu",
     "meaningEn": "to draw out; to smoke",
-    "meaningRu": ""
+    "meaningRu": "вытянуть"
   },
   {
     "id": 578,
     "character": "刺",
     "pinyin": "cì",
     "meaningEn": "thorn; to stab",
-    "meaningRu": ""
+    "meaningRu": "шип"
   },
   {
     "id": 579,
     "character": "登",
     "pinyin": "dēng",
     "meaningEn": "to climb; to publish",
-    "meaningRu": ""
+    "meaningRu": "подняться"
   },
   {
     "id": 580,
     "character": "堵",
     "pinyin": "dǔ",
     "meaningEn": "to block",
-    "meaningRu": ""
+    "meaningRu": "заблокировать"
   },
   {
     "id": 581,
     "character": "翻",
     "pinyin": "fān",
     "meaningEn": "to flip; to turn over",
-    "meaningRu": ""
+    "meaningRu": "перевернуть"
   },
   {
     "id": 582,
     "character": "盖",
     "pinyin": "gài",
     "meaningEn": "to cover; to build",
-    "meaningRu": ""
+    "meaningRu": "покрыть"
   },
   {
     "id": 583,
     "character": "隔",
     "pinyin": "gé",
     "meaningEn": "to separate; apart",
-    "meaningRu": ""
+    "meaningRu": "отделить"
   },
   {
     "id": 584,
     "character": "归",
     "pinyin": "guī",
     "meaningEn": "to return; to belong to",
-    "meaningRu": ""
+    "meaningRu": "вернуться"
   },
   {
     "id": 585,
@@ -4120,560 +4120,560 @@
     "character": "减",
     "pinyin": "jiǎn",
     "meaningEn": "to subtract; to reduce",
-    "meaningRu": ""
+    "meaningRu": "вычесть"
   },
   {
     "id": 589,
     "character": "降",
     "pinyin": "jiàng",
     "meaningEn": "to descend; to drop",
-    "meaningRu": ""
+    "meaningRu": "спуститься"
   },
   {
     "id": 590,
     "character": "结",
     "pinyin": "jié",
     "meaningEn": "to tie; to conclude",
-    "meaningRu": ""
+    "meaningRu": "связать"
   },
   {
     "id": 591,
     "character": "聚",
     "pinyin": "jù",
     "meaningEn": "to gather",
-    "meaningRu": ""
+    "meaningRu": "собрать"
   },
   {
     "id": 592,
     "character": "列",
     "pinyin": "liè",
     "meaningEn": "to line up; row",
-    "meaningRu": ""
+    "meaningRu": "выстроиться в очередь"
   },
   {
     "id": 593,
     "character": "落",
     "pinyin": "luò",
     "meaningEn": "to fall; to land",
-    "meaningRu": ""
+    "meaningRu": "падать"
   },
   {
     "id": 594,
     "character": "摸",
     "pinyin": "mō",
     "meaningEn": "to touch; to feel",
-    "meaningRu": ""
+    "meaningRu": "коснуться"
   },
   {
     "id": 595,
     "character": "闹",
     "pinyin": "nào",
     "meaningEn": "to make a racket; to stir up",
-    "meaningRu": ""
+    "meaningRu": "сделать рэкет"
   },
   {
     "id": 596,
     "character": "切",
     "pinyin": "qiē",
     "meaningEn": "to cut",
-    "meaningRu": ""
+    "meaningRu": "резать"
   },
   {
     "id": 597,
     "character": "散",
     "pinyin": "sàn",
     "meaningEn": "to scatter; to disperse",
-    "meaningRu": ""
+    "meaningRu": "разбрасывать"
   },
   {
     "id": 598,
     "character": "闪",
     "pinyin": "shǎn",
     "meaningEn": "to flash; to dodge",
-    "meaningRu": ""
+    "meaningRu": "прошить"
   },
   {
     "id": 599,
     "character": "烧",
     "pinyin": "shāo",
     "meaningEn": "to burn; to cook",
-    "meaningRu": ""
+    "meaningRu": "сжечь"
   },
   {
     "id": 600,
     "character": "躺",
     "pinyin": "tǎng",
     "meaningEn": "to lie down",
-    "meaningRu": ""
+    "meaningRu": "лечь"
   },
   {
     "id": 601,
     "character": "填",
     "pinyin": "tián",
     "meaningEn": "to fill in",
-    "meaningRu": ""
+    "meaningRu": "заполнить"
   },
   {
     "id": 602,
     "character": "挑",
     "pinyin": "tiāo",
     "meaningEn": "to pick; to select",
-    "meaningRu": ""
+    "meaningRu": "выбирать"
   },
   {
     "id": 603,
     "character": "贴",
     "pinyin": "tiē",
     "meaningEn": "to paste; to stick",
-    "meaningRu": ""
+    "meaningRu": "вставить"
   },
   {
     "id": 604,
     "character": "投",
     "pinyin": "tóu",
     "meaningEn": "to throw; to invest",
-    "meaningRu": ""
+    "meaningRu": "бросить"
   },
   {
     "id": 605,
     "character": "透",
     "pinyin": "tòu",
     "meaningEn": "to penetrate; through",
-    "meaningRu": ""
+    "meaningRu": "проникнуть"
   },
   {
     "id": 606,
     "character": "弯",
     "pinyin": "wān",
     "meaningEn": "bent; to bend",
-    "meaningRu": ""
+    "meaningRu": "согнутый"
   },
   {
     "id": 607,
     "character": "吸",
     "pinyin": "xī",
     "meaningEn": "to inhale; to absorb",
-    "meaningRu": ""
+    "meaningRu": "вдыхать"
   },
   {
     "id": 608,
     "character": "摇",
     "pinyin": "yáo",
     "meaningEn": "to shake",
-    "meaningRu": ""
+    "meaningRu": "трясти"
   },
   {
     "id": 609,
     "character": "移",
     "pinyin": "yí",
     "meaningEn": "to move; to shift",
-    "meaningRu": ""
+    "meaningRu": "двигаться"
   },
   {
     "id": 610,
     "character": "引",
     "pinyin": "yǐn",
     "meaningEn": "to lead; to attract",
-    "meaningRu": ""
+    "meaningRu": "вести"
   },
   {
     "id": 611,
     "character": "遇",
     "pinyin": "yù",
     "meaningEn": "to meet; to encounter",
-    "meaningRu": ""
+    "meaningRu": "встретиться"
   },
   {
     "id": 612,
     "character": "定",
     "pinyin": "dìng",
     "meaningEn": "to set; to decide",
-    "meaningRu": ""
+    "meaningRu": "установить"
   },
   {
     "id": 613,
     "character": "守",
     "pinyin": "shǒu",
     "meaningEn": "to guard; to keep",
-    "meaningRu": ""
+    "meaningRu": "охранять"
   },
   {
     "id": 614,
     "character": "擦",
     "pinyin": "cā",
     "meaningEn": "to wipe",
-    "meaningRu": ""
+    "meaningRu": "вытирать"
   },
   {
     "id": 615,
     "character": "戴",
     "pinyin": "dài",
     "meaningEn": "to wear (accessories)",
-    "meaningRu": ""
+    "meaningRu": "носить"
   },
   {
     "id": 616,
     "character": "逛",
     "pinyin": "guàng",
     "meaningEn": "to stroll; to wander",
-    "meaningRu": ""
+    "meaningRu": "прогуляться"
   },
   {
     "id": 617,
     "character": "寄",
     "pinyin": "jì",
     "meaningEn": "to mail; to send",
-    "meaningRu": ""
+    "meaningRu": "отправить по почте"
   },
   {
     "id": 618,
     "character": "扫",
     "pinyin": "sǎo",
     "meaningEn": "to sweep",
-    "meaningRu": ""
+    "meaningRu": "подмести"
   },
   {
     "id": 619,
     "character": "晒",
     "pinyin": "shài",
     "meaningEn": "to expose to the sun",
-    "meaningRu": ""
+    "meaningRu": "выставлять на солнце"
   },
   {
     "id": 620,
     "character": "刷",
     "pinyin": "shuā",
     "meaningEn": "to brush",
-    "meaningRu": ""
+    "meaningRu": "чистить"
   },
   {
     "id": 621,
     "character": "脱",
     "pinyin": "tuō",
     "meaningEn": "to take off (clothes)",
-    "meaningRu": ""
+    "meaningRu": "взлететь"
   },
   {
     "id": 622,
     "character": "醒",
     "pinyin": "xǐng",
     "meaningEn": "to wake up",
-    "meaningRu": ""
+    "meaningRu": "проснуться"
   },
   {
     "id": 623,
     "character": "矮",
     "pinyin": "ǎi",
     "meaningEn": "short (in height)",
-    "meaningRu": ""
+    "meaningRu": "короткий"
   },
   {
     "id": 624,
     "character": "酸",
     "pinyin": "suān",
     "meaningEn": "sour; acid",
-    "meaningRu": ""
+    "meaningRu": "кислый"
   },
   {
     "id": 625,
     "character": "辣",
     "pinyin": "là",
     "meaningEn": "spicy; hot",
-    "meaningRu": ""
+    "meaningRu": "пряный"
   },
   {
     "id": 626,
     "character": "苦",
     "pinyin": "kǔ",
     "meaningEn": "bitter",
-    "meaningRu": ""
+    "meaningRu": "горький"
   },
   {
     "id": 627,
     "character": "咸",
     "pinyin": "xián",
     "meaningEn": "salty",
-    "meaningRu": ""
+    "meaningRu": "соленый"
   },
   {
     "id": 628,
     "character": "帅",
     "pinyin": "shuài",
     "meaningEn": "handsome",
-    "meaningRu": ""
+    "meaningRu": "красивый"
   },
   {
     "id": 629,
     "character": "安",
     "pinyin": "ān",
     "meaningEn": "safe; to install",
-    "meaningRu": ""
+    "meaningRu": "безопасный"
   },
   {
     "id": 630,
     "character": "暗",
     "pinyin": "àn",
     "meaningEn": "dark",
-    "meaningRu": ""
+    "meaningRu": "темный"
   },
   {
     "id": 631,
     "character": "薄",
     "pinyin": "báo",
     "meaningEn": "thin (flat objects)",
-    "meaningRu": ""
+    "meaningRu": "тонкий"
   },
   {
     "id": 632,
     "character": "笨",
     "pinyin": "bèn",
     "meaningEn": "stupid; clumsy",
-    "meaningRu": ""
+    "meaningRu": "глупый"
   },
   {
     "id": 633,
     "character": "纯",
     "pinyin": "chún",
     "meaningEn": "pure",
-    "meaningRu": ""
+    "meaningRu": "чистый"
   },
   {
     "id": 634,
     "character": "粗",
     "pinyin": "cū",
     "meaningEn": "thick; rough",
-    "meaningRu": ""
+    "meaningRu": "толстый"
   },
   {
     "id": 635,
     "character": "单",
     "pinyin": "dān",
     "meaningEn": "single; odd (number)",
-    "meaningRu": ""
+    "meaningRu": "одинокий"
   },
   {
     "id": 636,
     "character": "淡",
     "pinyin": "dàn",
     "meaningEn": "light (taste/color); indifferent",
-    "meaningRu": ""
+    "meaningRu": "свет"
   },
   {
     "id": 637,
     "character": "反",
     "pinyin": "fǎn",
     "meaningEn": "opposite; to oppose",
-    "meaningRu": ""
+    "meaningRu": "противоположный"
   },
   {
     "id": 638,
     "character": "肥",
     "pinyin": "féi",
     "meaningEn": "fat (of animals); loose-fitting",
-    "meaningRu": ""
+    "meaningRu": "толстый"
   },
   {
     "id": 639,
     "character": "怪",
     "pinyin": "guài",
     "meaningEn": "strange; to blame",
-    "meaningRu": ""
+    "meaningRu": "странный"
   },
   {
     "id": 640,
     "character": "厚",
     "pinyin": "hòu",
     "meaningEn": "thick",
-    "meaningRu": ""
+    "meaningRu": "толстый"
   },
   {
     "id": 641,
     "character": "宽",
     "pinyin": "kuān",
     "meaningEn": "wide",
-    "meaningRu": ""
+    "meaningRu": "широкий"
   },
   {
     "id": 642,
     "character": "密",
     "pinyin": "mì",
     "meaningEn": "dense; secret",
-    "meaningRu": ""
+    "meaningRu": "плотный"
   },
   {
     "id": 643,
     "character": "浓",
     "pinyin": "nóng",
     "meaningEn": "thick; strong (concentration)",
-    "meaningRu": ""
+    "meaningRu": "толстый"
   },
   {
     "id": 644,
     "character": "浅",
     "pinyin": "qiǎn",
     "meaningEn": "shallow",
-    "meaningRu": ""
+    "meaningRu": "мелкий"
   },
   {
     "id": 645,
     "character": "穷",
     "pinyin": "qióng",
     "meaningEn": "poor",
-    "meaningRu": ""
+    "meaningRu": "бедный"
   },
   {
     "id": 646,
     "character": "弱",
     "pinyin": "ruò",
     "meaningEn": "weak",
-    "meaningRu": ""
+    "meaningRu": "слабый"
   },
   {
     "id": 647,
     "character": "松",
     "pinyin": "sōng",
     "meaningEn": "loose; to relax",
-    "meaningRu": ""
+    "meaningRu": "свободный"
   },
   {
     "id": 648,
     "character": "稳",
     "pinyin": "wěn",
     "meaningEn": "steady; stable",
-    "meaningRu": ""
+    "meaningRu": "устойчивый"
   },
   {
     "id": 649,
     "character": "细",
     "pinyin": "xì",
     "meaningEn": "thin; fine; detailed",
-    "meaningRu": ""
+    "meaningRu": "тонкий"
   },
   {
     "id": 650,
     "character": "鲜",
     "pinyin": "xiān",
     "meaningEn": "fresh; delicious",
-    "meaningRu": ""
+    "meaningRu": "свежий"
   },
   {
     "id": 651,
     "character": "严",
     "pinyin": "yán",
     "meaningEn": "strict",
-    "meaningRu": ""
+    "meaningRu": "строгий"
   },
   {
     "id": 652,
     "character": "圆",
     "pinyin": "yuán",
     "meaningEn": "round; circle",
-    "meaningRu": ""
+    "meaningRu": "круглый"
   },
   {
     "id": 653,
     "character": "曾",
     "pinyin": "céng",
     "meaningEn": "once (in the past)",
-    "meaningRu": ""
+    "meaningRu": "один раз"
   },
   {
     "id": 654,
     "character": "此",
     "pinyin": "cǐ",
     "meaningEn": "this (formal)",
-    "meaningRu": ""
+    "meaningRu": "этот"
   },
   {
     "id": 655,
     "character": "非",
     "pinyin": "fēi",
     "meaningEn": "not; non-",
-    "meaningRu": ""
+    "meaningRu": "нет"
   },
   {
     "id": 656,
     "character": "共",
     "pinyin": "gòng",
     "meaningEn": "altogether; in total",
-    "meaningRu": ""
+    "meaningRu": "вообще"
   },
   {
     "id": 657,
     "character": "极",
     "pinyin": "jí",
     "meaningEn": "extremely; pole",
-    "meaningRu": ""
+    "meaningRu": "очень сильно"
   },
   {
     "id": 658,
     "character": "替",
     "pinyin": "tì",
     "meaningEn": "to replace; instead of",
-    "meaningRu": ""
+    "meaningRu": "заменить"
   },
   {
     "id": 659,
     "character": "无",
     "pinyin": "wú",
     "meaningEn": "without; -less",
-    "meaningRu": ""
+    "meaningRu": "без"
   },
   {
     "id": 660,
     "character": "呀",
     "pinyin": "ya",
     "meaningEn": "(particle, softens tone)",
-    "meaningRu": ""
+    "meaningRu": "(частица"
   },
   {
     "id": 661,
     "character": "应",
     "pinyin": "yīng",
     "meaningEn": "should",
-    "meaningRu": ""
+    "meaningRu": "должен"
   },
   {
     "id": 662,
     "character": "自",
     "pinyin": "zì",
     "meaningEn": "self; from",
-    "meaningRu": ""
+    "meaningRu": "себя"
   },
   {
     "id": 663,
     "character": "而",
     "pinyin": "ér",
     "meaningEn": "and; but (literary)",
-    "meaningRu": ""
+    "meaningRu": "и"
   },
   {
     "id": 664,
     "character": "既",
     "pinyin": "jì",
     "meaningEn": "since; both...and",
-    "meaningRu": ""
+    "meaningRu": "с"
   },
   {
     "id": 665,
     "character": "却",
     "pinyin": "què",
     "meaningEn": "but; yet",
-    "meaningRu": ""
+    "meaningRu": "но"
   },
   {
     "id": 666,
     "character": "抄",
     "pinyin": "chāo",
     "meaningEn": "to copy",
-    "meaningRu": ""
+    "meaningRu": "копировать"
   },
   {
     "id": 667,
     "character": "色",
     "pinyin": "sè",
     "meaningEn": "color",
-    "meaningRu": ""
+    "meaningRu": "цвет"
   },
   {
     "id": 668,
@@ -4806,14 +4806,14 @@
     "character": "耕",
     "pinyin": "gēng",
     "meaningEn": "to plough; to farm",
-    "meaningRu": ""
+    "meaningRu": "пахать"
   },
   {
     "id": 687,
     "character": "针",
     "pinyin": "zhēn",
     "meaningEn": "needle",
-    "meaningRu": ""
+    "meaningRu": "иголка"
   },
   {
     "id": 688,
@@ -4827,168 +4827,168 @@
     "character": "兵",
     "pinyin": "bīng",
     "meaningEn": "soldier",
-    "meaningRu": ""
+    "meaningRu": "солдат"
   },
   {
     "id": 690,
     "character": "法",
     "pinyin": "fǎ",
     "meaningEn": "law; method",
-    "meaningRu": ""
+    "meaningRu": "закон"
   },
   {
     "id": 691,
     "character": "官",
     "pinyin": "guān",
     "meaningEn": "official; government officer",
-    "meaningRu": ""
+    "meaningRu": "чиновник"
   },
   {
     "id": 692,
     "character": "局",
     "pinyin": "jú",
     "meaningEn": "bureau; office",
-    "meaningRu": ""
+    "meaningRu": "бюро"
   },
   {
     "id": 693,
     "character": "王",
     "pinyin": "wáng",
     "meaningEn": "king",
-    "meaningRu": ""
+    "meaningRu": "король"
   },
   {
     "id": 694,
     "character": "册",
     "pinyin": "cè",
     "meaningEn": "measure word for books/volumes",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для книг/томов"
   },
   {
     "id": 695,
     "character": "寸",
     "pinyin": "cùn",
     "meaningEn": "a Chinese inch (unit)",
-    "meaningRu": ""
+    "meaningRu": "китайский дюйм"
   },
   {
     "id": 696,
     "character": "堆",
     "pinyin": "duī",
     "meaningEn": "pile; heap",
-    "meaningRu": ""
+    "meaningRu": "куча"
   },
   {
     "id": 697,
     "character": "吨",
     "pinyin": "dūn",
     "meaningEn": "ton (unit)",
-    "meaningRu": ""
+    "meaningRu": "тонна"
   },
   {
     "id": 698,
     "character": "朵",
     "pinyin": "duǒ",
     "meaningEn": "measure word for flowers/clouds",
-    "meaningRu": ""
+    "meaningRu": "Измерьте слово для цветов/облаков"
   },
   {
     "id": 699,
     "character": "幅",
     "pinyin": "fú",
     "meaningEn": "measure word for paintings/cloth",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для картин/ткани"
   },
   {
     "id": 700,
     "character": "盒",
     "pinyin": "hé",
     "meaningEn": "box",
-    "meaningRu": ""
+    "meaningRu": "коробка"
   },
   {
     "id": 701,
     "character": "届",
     "pinyin": "jiè",
     "meaningEn": "measure word for sessions/terms",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для сессий/терминов"
   },
   {
     "id": 702,
     "character": "颗",
     "pinyin": "kē",
     "meaningEn": "measure word for small round things",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для маленьких круглых вещей"
   },
   {
     "id": 703,
     "character": "匹",
     "pinyin": "pǐ",
     "meaningEn": "measure word for horses/cloth",
-    "meaningRu": ""
+    "meaningRu": "мерное слово для лошадей/ткани"
   },
   {
     "id": 704,
     "character": "秒",
     "pinyin": "miǎo",
     "meaningEn": "second (time unit)",
-    "meaningRu": ""
+    "meaningRu": "второй"
   },
   {
     "id": 705,
     "character": "辈",
     "pinyin": "bèi",
     "meaningEn": "generation",
-    "meaningRu": ""
+    "meaningRu": "поколение"
   },
   {
     "id": 706,
     "character": "厅",
     "pinyin": "tīng",
     "meaningEn": "hall",
-    "meaningRu": ""
+    "meaningRu": "зал"
   },
   {
     "id": 707,
     "character": "屋",
     "pinyin": "wū",
     "meaningEn": "room; house",
-    "meaningRu": ""
+    "meaningRu": "комната"
   },
   {
     "id": 708,
     "character": "乡",
     "pinyin": "xiāng",
     "meaningEn": "township; countryside",
-    "meaningRu": ""
+    "meaningRu": "городок"
   },
   {
     "id": 709,
     "character": "旁",
     "pinyin": "páng",
     "meaningEn": "side",
-    "meaningRu": ""
+    "meaningRu": "сторона"
   },
   {
     "id": 710,
     "character": "饼",
     "pinyin": "bǐng",
     "meaningEn": "round flatcake",
-    "meaningRu": ""
+    "meaningRu": "круглая лепешка"
   },
   {
     "id": 711,
     "character": "叉",
     "pinyin": "chā",
     "meaningEn": "fork; to cross",
-    "meaningRu": ""
+    "meaningRu": "вилка"
   },
   {
     "id": 712,
     "character": "锅",
     "pinyin": "guō",
     "meaningEn": "pot; wok",
-    "meaningRu": ""
+    "meaningRu": "горшок"
   },
   {
     "id": 713,
@@ -5044,7 +5044,7 @@
     "character": "桃",
     "pinyin": "táo",
     "meaningEn": "peach",
-    "meaningRu": ""
+    "meaningRu": "персик"
   },
   {
     "id": 721,
@@ -5058,1708 +5058,1708 @@
     "character": "运",
     "pinyin": "yùn",
     "meaningEn": "to transport; luck",
-    "meaningRu": ""
+    "meaningRu": "перевозить"
   },
   {
     "id": 723,
     "character": "式",
     "pinyin": "shì",
     "meaningEn": "style; type",
-    "meaningRu": ""
+    "meaningRu": "стиль"
   },
   {
     "id": 724,
     "character": "拔",
     "pinyin": "bá",
     "meaningEn": "to pull out",
-    "meaningRu": ""
+    "meaningRu": "вытащить"
   },
   {
     "id": 725,
     "character": "猜",
     "pinyin": "cāi",
     "meaningEn": "to guess",
-    "meaningRu": ""
+    "meaningRu": "гадать"
   },
   {
     "id": 726,
     "character": "插",
     "pinyin": "chā",
     "meaningEn": "to insert",
-    "meaningRu": ""
+    "meaningRu": "вставить"
   },
   {
     "id": 727,
     "character": "拆",
     "pinyin": "chāi",
     "meaningEn": "to dismantle",
-    "meaningRu": ""
+    "meaningRu": "демонтировать"
   },
   {
     "id": 728,
     "character": "乘",
     "pinyin": "chéng",
     "meaningEn": "to ride; to multiply",
-    "meaningRu": ""
+    "meaningRu": "кататься"
   },
   {
     "id": 729,
     "character": "闯",
     "pinyin": "chuǎng",
     "meaningEn": "to charge; to rush",
-    "meaningRu": ""
+    "meaningRu": "заряжать"
   },
   {
     "id": 730,
     "character": "呆",
     "pinyin": "dāi",
     "meaningEn": "to stay; dull",
-    "meaningRu": ""
+    "meaningRu": "остаться"
   },
   {
     "id": 731,
     "character": "待",
     "pinyin": "dāi",
     "meaningEn": "to stay",
-    "meaningRu": ""
+    "meaningRu": "остаться"
   },
   {
     "id": 732,
     "character": "挡",
     "pinyin": "dǎng",
     "meaningEn": "to block",
-    "meaningRu": ""
+    "meaningRu": "заблокировать"
   },
   {
     "id": 733,
     "character": "递",
     "pinyin": "dì",
     "meaningEn": "to hand over",
-    "meaningRu": ""
+    "meaningRu": "передать"
   },
   {
     "id": 734,
     "character": "丢",
     "pinyin": "diū",
     "meaningEn": "to lose; to throw",
-    "meaningRu": ""
+    "meaningRu": "потерять"
   },
   {
     "id": 735,
     "character": "躲",
     "pinyin": "duǒ",
     "meaningEn": "to hide; to avoid",
-    "meaningRu": ""
+    "meaningRu": "спрятать"
   },
   {
     "id": 736,
     "character": "扶",
     "pinyin": "fú",
     "meaningEn": "to support (with hand)",
-    "meaningRu": ""
+    "meaningRu": "поддерживать"
   },
   {
     "id": 737,
     "character": "搞",
     "pinyin": "gǎo",
     "meaningEn": "to do; to make",
-    "meaningRu": ""
+    "meaningRu": "делать"
   },
   {
     "id": 738,
     "character": "滚",
     "pinyin": "gǔn",
     "meaningEn": "to roll",
-    "meaningRu": ""
+    "meaningRu": "катить"
   },
   {
     "id": 739,
     "character": "害",
     "pinyin": "hài",
     "meaningEn": "harm; to harm",
-    "meaningRu": ""
+    "meaningRu": "вред"
   },
   {
     "id": 740,
     "character": "夹",
     "pinyin": "jiā",
     "meaningEn": "to clip; to sandwich",
-    "meaningRu": ""
+    "meaningRu": "обрезать"
   },
   {
     "id": 741,
     "character": "剪",
     "pinyin": "jiǎn",
     "meaningEn": "to cut (with scissors)",
-    "meaningRu": ""
+    "meaningRu": "резать"
   },
   {
     "id": 742,
     "character": "立",
     "pinyin": "lì",
     "meaningEn": "to stand; to establish",
-    "meaningRu": ""
+    "meaningRu": "стоять"
   },
   {
     "id": 743,
     "character": "漏",
     "pinyin": "lòu",
     "meaningEn": "to leak",
-    "meaningRu": ""
+    "meaningRu": "протекать"
   },
   {
     "id": 744,
     "character": "冒",
     "pinyin": "mào",
     "meaningEn": "to risk; to emit",
-    "meaningRu": ""
+    "meaningRu": "рисковать"
   },
   {
     "id": 745,
     "character": "喷",
     "pinyin": "pēn",
     "meaningEn": "to spray",
-    "meaningRu": ""
+    "meaningRu": "распылять"
   },
   {
     "id": 746,
     "character": "拼",
     "pinyin": "pīn",
     "meaningEn": "to piece together; to spell",
-    "meaningRu": ""
+    "meaningRu": "собрать воедино"
   },
   {
     "id": 747,
     "character": "泼",
     "pinyin": "pō",
     "meaningEn": "to splash",
-    "meaningRu": ""
+    "meaningRu": "плескаться"
   },
   {
     "id": 748,
     "character": "抢",
     "pinyin": "qiǎng",
     "meaningEn": "to snatch; to rob",
-    "meaningRu": ""
+    "meaningRu": "схватить"
   },
   {
     "id": 749,
     "character": "敲",
     "pinyin": "qiāo",
     "meaningEn": "to knock",
-    "meaningRu": ""
+    "meaningRu": "стучать"
   },
   {
     "id": 750,
     "character": "瞧",
     "pinyin": "qiáo",
     "meaningEn": "to look (colloquial)",
-    "meaningRu": ""
+    "meaningRu": "смотреть"
   },
   {
     "id": 751,
     "character": "染",
     "pinyin": "rǎn",
     "meaningEn": "to dye",
-    "meaningRu": ""
+    "meaningRu": "красить"
   },
   {
     "id": 752,
     "character": "绕",
     "pinyin": "rào",
     "meaningEn": "to go around",
-    "meaningRu": ""
+    "meaningRu": "обойти"
   },
   {
     "id": 753,
     "character": "扔",
     "pinyin": "rēng",
     "meaningEn": "to throw",
-    "meaningRu": ""
+    "meaningRu": "бросить"
   },
   {
     "id": 754,
     "character": "洒",
     "pinyin": "sǎ",
     "meaningEn": "to sprinkle",
-    "meaningRu": ""
+    "meaningRu": "посыпать"
   },
   {
     "id": 755,
     "character": "杀",
     "pinyin": "shā",
     "meaningEn": "to kill",
-    "meaningRu": ""
+    "meaningRu": "убить"
   },
   {
     "id": 756,
     "character": "射",
     "pinyin": "shè",
     "meaningEn": "to shoot",
-    "meaningRu": ""
+    "meaningRu": "стрелять"
   },
   {
     "id": 757,
     "character": "伸",
     "pinyin": "shēn",
     "meaningEn": "to stretch out",
-    "meaningRu": ""
+    "meaningRu": "растянуться"
   },
   {
     "id": 758,
     "character": "剩",
     "pinyin": "shèng",
     "meaningEn": "to remain; left over",
-    "meaningRu": ""
+    "meaningRu": "оставаться"
   },
   {
     "id": 759,
     "character": "拾",
     "pinyin": "shí",
     "meaningEn": "to pick up",
-    "meaningRu": ""
+    "meaningRu": "забрать"
   },
   {
     "id": 760,
     "character": "摔",
     "pinyin": "shuāi",
     "meaningEn": "to fall; to throw down",
-    "meaningRu": ""
+    "meaningRu": "падать"
   },
   {
     "id": 761,
     "character": "搜",
     "pinyin": "sōu",
     "meaningEn": "to search",
-    "meaningRu": ""
+    "meaningRu": "искать"
   },
   {
     "id": 762,
     "character": "抬",
     "pinyin": "tái",
     "meaningEn": "to lift",
-    "meaningRu": ""
+    "meaningRu": "поднять"
   },
   {
     "id": 763,
     "character": "逃",
     "pinyin": "táo",
     "meaningEn": "to escape",
-    "meaningRu": ""
+    "meaningRu": "убежать"
   },
   {
     "id": 764,
     "character": "吐",
     "pinyin": "tǔ",
     "meaningEn": "to spit",
-    "meaningRu": ""
+    "meaningRu": "плевать"
   },
   {
     "id": 765,
     "character": "握",
     "pinyin": "wò",
     "meaningEn": "to hold; to grasp",
-    "meaningRu": ""
+    "meaningRu": "держать"
   },
   {
     "id": 766,
     "character": "咬",
     "pinyin": "yǎo",
     "meaningEn": "to bite",
-    "meaningRu": ""
+    "meaningRu": "кусать"
   },
   {
     "id": 767,
     "character": "增",
     "pinyin": "zēng",
     "meaningEn": "to increase",
-    "meaningRu": ""
+    "meaningRu": "увеличить"
   },
   {
     "id": 768,
     "character": "摘",
     "pinyin": "zhāi",
     "meaningEn": "to pick (fruit); to take off",
-    "meaningRu": ""
+    "meaningRu": "выбирать"
   },
   {
     "id": 769,
     "character": "答",
     "pinyin": "dá",
     "meaningEn": "to answer",
-    "meaningRu": ""
+    "meaningRu": "ответить"
   },
   {
     "id": 770,
     "character": "戒",
     "pinyin": "jiè",
     "meaningEn": "to quit (a habit); to guard against",
-    "meaningRu": ""
+    "meaningRu": "уйти"
   },
   {
     "id": 771,
     "character": "令",
     "pinyin": "lìng",
     "meaningEn": "to make; to cause; order",
-    "meaningRu": ""
+    "meaningRu": "сделать"
   },
   {
     "id": 772,
     "character": "骂",
     "pinyin": "mà",
     "meaningEn": "to scold",
-    "meaningRu": ""
+    "meaningRu": "ругать"
   },
   {
     "id": 773,
     "character": "骗",
     "pinyin": "piàn",
     "meaningEn": "to deceive",
-    "meaningRu": ""
+    "meaningRu": "обмануть"
   },
   {
     "id": 774,
     "character": "签",
     "pinyin": "qiān",
     "meaningEn": "to sign",
-    "meaningRu": ""
+    "meaningRu": "подписать"
   },
   {
     "id": 775,
     "character": "劝",
     "pinyin": "quàn",
     "meaningEn": "to persuade",
-    "meaningRu": ""
+    "meaningRu": "убеждать"
   },
   {
     "id": 776,
     "character": "认",
     "pinyin": "rèn",
     "meaningEn": "to recognize; to admit",
-    "meaningRu": ""
+    "meaningRu": "признать"
   },
   {
     "id": 777,
     "character": "偷",
     "pinyin": "tōu",
     "meaningEn": "to steal",
-    "meaningRu": ""
+    "meaningRu": "украсть"
   },
   {
     "id": 778,
     "character": "献",
     "pinyin": "xiàn",
     "meaningEn": "to offer; to dedicate",
-    "meaningRu": ""
+    "meaningRu": "предложить"
   },
   {
     "id": 779,
     "character": "赠",
     "pinyin": "zèng",
     "meaningEn": "to give (as a gift)",
-    "meaningRu": ""
+    "meaningRu": "дать"
   },
   {
     "id": 780,
     "character": "尝",
     "pinyin": "cháng",
     "meaningEn": "to taste",
-    "meaningRu": ""
+    "meaningRu": "по вкусу"
   },
   {
     "id": 781,
     "character": "陪",
     "pinyin": "péi",
     "meaningEn": "to accompany",
-    "meaningRu": ""
+    "meaningRu": "сопровождать"
   },
   {
     "id": 782,
     "character": "披",
     "pinyin": "pī",
     "meaningEn": "to drape over",
-    "meaningRu": ""
+    "meaningRu": "накинуть"
   },
   {
     "id": 783,
     "character": "歇",
     "pinyin": "xiē",
     "meaningEn": "to rest",
-    "meaningRu": ""
+    "meaningRu": "отдыхать"
   },
   {
     "id": 784,
     "character": "棒",
     "pinyin": "bàng",
     "meaningEn": "great; excellent (colloquial)",
-    "meaningRu": ""
+    "meaningRu": "большой"
   },
   {
     "id": 785,
     "character": "迟",
     "pinyin": "chí",
     "meaningEn": "late",
-    "meaningRu": ""
+    "meaningRu": "поздно"
   },
   {
     "id": 786,
     "character": "丑",
     "pinyin": "chǒu",
     "meaningEn": "ugly",
-    "meaningRu": ""
+    "meaningRu": "уродливый"
   },
   {
     "id": 787,
     "character": "臭",
     "pinyin": "chòu",
     "meaningEn": "smelly",
-    "meaningRu": ""
+    "meaningRu": "вонючий"
   },
   {
     "id": 788,
     "character": "脆",
     "pinyin": "cuì",
     "meaningEn": "crisp",
-    "meaningRu": ""
+    "meaningRu": "свежий"
   },
   {
     "id": 789,
     "character": "疯",
     "pinyin": "fēng",
     "meaningEn": "crazy",
-    "meaningRu": ""
+    "meaningRu": "сумасшедший"
   },
   {
     "id": 790,
     "character": "广",
     "pinyin": "guǎng",
     "meaningEn": "wide; broad",
-    "meaningRu": ""
+    "meaningRu": "широкий"
   },
   {
     "id": 791,
     "character": "滑",
     "pinyin": "huá",
     "meaningEn": "slippery",
-    "meaningRu": ""
+    "meaningRu": "скользкий"
   },
   {
     "id": 792,
     "character": "挤",
     "pinyin": "jǐ",
     "meaningEn": "crowded; to squeeze",
-    "meaningRu": ""
+    "meaningRu": "переполненный"
   },
   {
     "id": 793,
     "character": "狂",
     "pinyin": "kuáng",
     "meaningEn": "crazy; wild",
-    "meaningRu": ""
+    "meaningRu": "сумасшедший"
   },
   {
     "id": 794,
     "character": "烂",
     "pinyin": "làn",
     "meaningEn": "rotten",
-    "meaningRu": ""
+    "meaningRu": "сгнивший"
   },
   {
     "id": 795,
     "character": "软",
     "pinyin": "ruǎn",
     "meaningEn": "soft",
-    "meaningRu": ""
+    "meaningRu": "мягкий"
   },
   {
     "id": 796,
     "character": "傻",
     "pinyin": "shǎ",
     "meaningEn": "silly; foolish",
-    "meaningRu": ""
+    "meaningRu": "глупый"
   },
   {
     "id": 797,
     "character": "碎",
     "pinyin": "suì",
     "meaningEn": "broken; shattered",
-    "meaningRu": ""
+    "meaningRu": "сломанный"
   },
   {
     "id": 798,
     "character": "闲",
     "pinyin": "xián",
     "meaningEn": "idle; free time",
-    "meaningRu": ""
+    "meaningRu": "праздный"
   },
   {
     "id": 799,
     "character": "斜",
     "pinyin": "xié",
     "meaningEn": "slanted",
-    "meaningRu": ""
+    "meaningRu": "наклонный"
   },
   {
     "id": 800,
     "character": "硬",
     "pinyin": "yìng",
     "meaningEn": "hard (texture)",
-    "meaningRu": ""
+    "meaningRu": "жесткий"
   },
   {
     "id": 801,
     "character": "糟",
     "pinyin": "zāo",
     "meaningEn": "in a mess; terrible",
-    "meaningRu": ""
+    "meaningRu": "в беспорядке"
   },
   {
     "id": 802,
     "character": "必",
     "pinyin": "bì",
     "meaningEn": "must",
-    "meaningRu": ""
+    "meaningRu": "должен"
   },
   {
     "id": 803,
     "character": "甲",
     "pinyin": "jiǎ",
     "meaningEn": "first (in a series); armor",
-    "meaningRu": ""
+    "meaningRu": "первый"
   },
   {
     "id": 804,
     "character": "将",
     "pinyin": "jiāng",
     "meaningEn": "will (future); to be about to",
-    "meaningRu": ""
+    "meaningRu": "воля"
   },
   {
     "id": 805,
     "character": "凭",
     "pinyin": "píng",
     "meaningEn": "to rely on",
-    "meaningRu": ""
+    "meaningRu": "полагаться на"
   },
   {
     "id": 806,
     "character": "其",
     "pinyin": "qí",
     "meaningEn": "his/her/its (formal)",
-    "meaningRu": ""
+    "meaningRu": "его/ее/оно"
   },
   {
     "id": 807,
     "character": "稍",
     "pinyin": "shāo",
     "meaningEn": "slightly",
-    "meaningRu": ""
+    "meaningRu": "немного"
   },
   {
     "id": 808,
     "character": "显",
     "pinyin": "xiǎn",
     "meaningEn": "to show; obviously",
-    "meaningRu": ""
+    "meaningRu": "показать"
   },
   {
     "id": 809,
     "character": "乙",
     "pinyin": "yǐ",
     "meaningEn": "the second (in a series)",
-    "meaningRu": ""
+    "meaningRu": "второй"
   },
   {
     "id": 810,
     "character": "愿",
     "pinyin": "yuàn",
     "meaningEn": "to wish; willing",
-    "meaningRu": ""
+    "meaningRu": "желать"
   },
   {
     "id": 811,
     "character": "可",
     "pinyin": "kě",
     "meaningEn": "but; can",
-    "meaningRu": ""
+    "meaningRu": "но"
   },
   {
     "id": 812,
     "character": "青",
     "pinyin": "qīng",
     "meaningEn": "green/blue (traditional color term)",
-    "meaningRu": ""
+    "meaningRu": "зеленый/синий"
   },
   {
     "id": 813,
     "character": "冻",
     "pinyin": "dòng",
     "meaningEn": "to freeze",
-    "meaningRu": ""
+    "meaningRu": "заморозить"
   },
   {
     "id": 814,
     "character": "暖",
     "pinyin": "nuǎn",
     "meaningEn": "warm",
-    "meaningRu": ""
+    "meaningRu": "теплый"
   },
   {
     "id": 815,
     "character": "肠",
     "pinyin": "cháng",
     "meaningEn": "intestine",
-    "meaningRu": ""
+    "meaningRu": "кишечник"
   },
   {
     "id": 816,
     "character": "胆",
     "pinyin": "dǎn",
     "meaningEn": "gall bladder; courage",
-    "meaningRu": ""
+    "meaningRu": "желчный пузырь"
   },
   {
     "id": 817,
     "character": "汗",
     "pinyin": "hàn",
     "meaningEn": "sweat",
-    "meaningRu": ""
+    "meaningRu": "пот"
   },
   {
     "id": 818,
     "character": "肩",
     "pinyin": "jiān",
     "meaningEn": "shoulder",
-    "meaningRu": ""
+    "meaningRu": "плечо"
   },
   {
     "id": 819,
     "character": "胃",
     "pinyin": "wèi",
     "meaningEn": "stomach (organ)",
-    "meaningRu": ""
+    "meaningRu": "желудок"
   },
   {
     "id": 820,
     "character": "礼",
     "pinyin": "lǐ",
     "meaningEn": "ceremony; gift",
-    "meaningRu": ""
+    "meaningRu": "церемония"
   },
   {
     "id": 821,
     "character": "挣",
     "pinyin": "zhèng",
     "meaningEn": "to earn (money)",
-    "meaningRu": ""
+    "meaningRu": "зарабатывать"
   },
   {
     "id": 822,
     "character": "价",
     "pinyin": "jià",
     "meaningEn": "price",
-    "meaningRu": ""
+    "meaningRu": "цена"
   },
   {
     "id": 823,
     "character": "亏",
     "pinyin": "kuī",
     "meaningEn": "to lose (money); deficit",
-    "meaningRu": ""
+    "meaningRu": "потерять"
   },
   {
     "id": 824,
     "character": "赔",
     "pinyin": "péi",
     "meaningEn": "to compensate; to lose (money)",
-    "meaningRu": ""
+    "meaningRu": "компенсировать"
   },
   {
     "id": 825,
     "character": "品",
     "pinyin": "pǐn",
     "meaningEn": "product; item",
-    "meaningRu": ""
+    "meaningRu": "продукт"
   },
   {
     "id": 826,
     "character": "欠",
     "pinyin": "qiàn",
     "meaningEn": "to owe",
-    "meaningRu": ""
+    "meaningRu": "быть должен"
   },
   {
     "id": 827,
     "character": "涨",
     "pinyin": "zhǎng",
     "meaningEn": "to rise (price/water)",
-    "meaningRu": ""
+    "meaningRu": "подняться"
   },
   {
     "id": 828,
     "character": "愁",
     "pinyin": "chóu",
     "meaningEn": "worried",
-    "meaningRu": ""
+    "meaningRu": "волновался"
   },
   {
     "id": 829,
     "character": "恨",
     "pinyin": "hèn",
     "meaningEn": "to hate",
-    "meaningRu": ""
+    "meaningRu": "ненавидеть"
   },
   {
     "id": 830,
     "character": "慌",
     "pinyin": "huāng",
     "meaningEn": "flustered",
-    "meaningRu": ""
+    "meaningRu": "взволнованный"
   },
   {
     "id": 831,
     "character": "忍",
     "pinyin": "rěn",
     "meaningEn": "to endure",
-    "meaningRu": ""
+    "meaningRu": "терпеть"
   },
   {
     "id": 832,
     "character": "吓",
     "pinyin": "xià",
     "meaningEn": "to scare",
-    "meaningRu": ""
+    "meaningRu": "пугать"
   },
   {
     "id": 833,
     "character": "怨",
     "pinyin": "yuàn",
     "meaningEn": "to blame; to complain",
-    "meaningRu": ""
+    "meaningRu": "винить"
   },
   {
     "id": 834,
     "character": "版",
     "pinyin": "bǎn",
     "meaningEn": "edition; version",
-    "meaningRu": ""
+    "meaningRu": "версия"
   },
   {
     "id": 835,
     "character": "鼓",
     "pinyin": "gǔ",
     "meaningEn": "drum",
-    "meaningRu": ""
+    "meaningRu": "барабан"
   },
   {
     "id": 836,
     "character": "鬼",
     "pinyin": "guǐ",
     "meaningEn": "ghost",
-    "meaningRu": ""
+    "meaningRu": "призрак"
   },
   {
     "id": 837,
     "character": "琴",
     "pinyin": "qín",
     "meaningEn": "musical instrument (stringed)",
-    "meaningRu": ""
+    "meaningRu": "музыкальный инструмент"
   },
   {
     "id": 838,
     "character": "社",
     "pinyin": "shè",
     "meaningEn": "agency; society",
-    "meaningRu": ""
+    "meaningRu": "агентство"
   },
   {
     "id": 839,
     "character": "神",
     "pinyin": "shén",
     "meaningEn": "god; spirit",
-    "meaningRu": ""
+    "meaningRu": "бог"
   },
   {
     "id": 840,
     "character": "弹",
     "pinyin": "tán",
     "meaningEn": "to play (stringed instrument); to bounce",
-    "meaningRu": ""
+    "meaningRu": "играть"
   },
   {
     "id": 841,
     "character": "舞",
     "pinyin": "wǔ",
     "meaningEn": "dance",
-    "meaningRu": ""
+    "meaningRu": "танцевать"
   },
   {
     "id": 842,
     "character": "戏",
     "pinyin": "xì",
     "meaningEn": "drama; show",
-    "meaningRu": ""
+    "meaningRu": "драма"
   },
   {
     "id": 843,
     "character": "岸",
     "pinyin": "àn",
     "meaningEn": "shore; bank",
-    "meaningRu": ""
+    "meaningRu": "берег"
   },
   {
     "id": 844,
     "character": "洞",
     "pinyin": "dòng",
     "meaningEn": "hole; cave",
-    "meaningRu": ""
+    "meaningRu": "дыра"
   },
   {
     "id": 845,
     "character": "沟",
     "pinyin": "gōu",
     "meaningEn": "ditch; groove",
-    "meaningRu": ""
+    "meaningRu": "канава"
   },
   {
     "id": 846,
     "character": "猴",
     "pinyin": "hóu",
     "meaningEn": "monkey",
-    "meaningRu": ""
+    "meaningRu": "обезьяна"
   },
   {
     "id": 847,
     "character": "虎",
     "pinyin": "hǔ",
     "meaningEn": "tiger",
-    "meaningRu": ""
+    "meaningRu": "тигр"
   },
   {
     "id": 848,
     "character": "煤",
     "pinyin": "méi",
     "meaningEn": "coal",
-    "meaningRu": ""
+    "meaningRu": "уголь"
   },
   {
     "id": 849,
     "character": "泉",
     "pinyin": "quán",
     "meaningEn": "spring (water source)",
-    "meaningRu": ""
+    "meaningRu": "весна"
   },
   {
     "id": 850,
     "character": "蛇",
     "pinyin": "shé",
     "meaningEn": "snake",
-    "meaningRu": ""
+    "meaningRu": "змея"
   },
   {
     "id": 851,
     "character": "鼠",
     "pinyin": "shǔ",
     "meaningEn": "mouse; rat",
-    "meaningRu": ""
+    "meaningRu": "мышь"
   },
   {
     "id": 852,
     "character": "兔",
     "pinyin": "tù",
     "meaningEn": "rabbit",
-    "meaningRu": ""
+    "meaningRu": "кролик"
   },
   {
     "id": 853,
     "character": "熊",
     "pinyin": "xióng",
     "meaningEn": "bear",
-    "meaningRu": ""
+    "meaningRu": "медведь"
   },
   {
     "id": 854,
     "character": "灾",
     "pinyin": "zāi",
     "meaningEn": "disaster",
-    "meaningRu": ""
+    "meaningRu": "катастрофа"
   },
   {
     "id": 855,
     "character": "毒",
     "pinyin": "dú",
     "meaningEn": "poison",
-    "meaningRu": ""
+    "meaningRu": "яд"
   },
   {
     "id": 856,
     "character": "咳",
     "pinyin": "ké",
     "meaningEn": "to cough",
-    "meaningRu": ""
+    "meaningRu": "кашлять"
   },
   {
     "id": 857,
     "character": "罚",
     "pinyin": "fá",
     "meaningEn": "to penalize",
-    "meaningRu": ""
+    "meaningRu": "наказывать"
   },
   {
     "id": 858,
     "character": "枪",
     "pinyin": "qiāng",
     "meaningEn": "gun",
-    "meaningRu": ""
+    "meaningRu": "пистолет"
   },
   {
     "id": 859,
     "character": "串",
     "pinyin": "chuàn",
     "meaningEn": "to string together; measure word for a string of things",
-    "meaningRu": ""
+    "meaningRu": "связать вместе"
   },
   {
     "id": 860,
     "character": "番",
     "pinyin": "fān",
     "meaningEn": "measure word for actions/times; a turn",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для действий/времени"
   },
   {
     "id": 861,
     "character": "副",
     "pinyin": "fù",
     "meaningEn": "deputy; measure word for a pair/set",
-    "meaningRu": ""
+    "meaningRu": "депутат"
   },
   {
     "id": 862,
     "character": "趟",
     "pinyin": "tàng",
     "meaningEn": "measure word for trips",
-    "meaningRu": ""
+    "meaningRu": "измерить слово для поездок"
   },
   {
     "id": 863,
     "character": "母",
     "pinyin": "mǔ",
     "meaningEn": "mother (bound form)",
-    "meaningRu": ""
+    "meaningRu": "мать"
   },
   {
     "id": 864,
     "character": "塔",
     "pinyin": "tǎ",
     "meaningEn": "tower; pagoda",
-    "meaningRu": ""
+    "meaningRu": "башня"
   },
   {
     "id": 865,
     "character": "侧",
     "pinyin": "cè",
     "meaningEn": "side",
-    "meaningRu": ""
+    "meaningRu": "сторона"
   },
   {
     "id": 866,
     "character": "沿",
     "pinyin": "yán",
     "meaningEn": "along (bound form)",
-    "meaningRu": ""
+    "meaningRu": "вдоль"
   },
   {
     "id": 867,
     "character": "餐",
     "pinyin": "cān",
     "meaningEn": "meal",
-    "meaningRu": ""
+    "meaningRu": "еда"
   },
   {
     "id": 868,
     "character": "醋",
     "pinyin": "cù",
     "meaningEn": "vinegar",
-    "meaningRu": ""
+    "meaningRu": "уксус"
   },
   {
     "id": 869,
     "character": "滴",
     "pinyin": "dī",
     "meaningEn": "drop (of liquid)",
-    "meaningRu": ""
+    "meaningRu": "уронить"
   },
   {
     "id": 870,
     "character": "杆",
     "pinyin": "gān",
     "meaningEn": "pole; rod",
-    "meaningRu": ""
+    "meaningRu": "столб"
   },
   {
     "id": 871,
     "character": "壶",
     "pinyin": "hú",
     "meaningEn": "kettle; pot",
-    "meaningRu": ""
+    "meaningRu": "чайник"
   },
   {
     "id": 872,
     "character": "剑",
     "pinyin": "jiàn",
     "meaningEn": "sword",
-    "meaningRu": ""
+    "meaningRu": "меч"
   },
   {
     "id": 873,
     "character": "箭",
     "pinyin": "jiàn",
     "meaningEn": "arrow",
-    "meaningRu": ""
+    "meaningRu": "стрелка"
   },
   {
     "id": 874,
     "character": "酱",
     "pinyin": "jiàng",
     "meaningEn": "paste; sauce",
-    "meaningRu": ""
+    "meaningRu": "вставить"
   },
   {
     "id": 875,
     "character": "棉",
     "pinyin": "mián",
     "meaningEn": "cotton",
-    "meaningRu": ""
+    "meaningRu": "хлопок"
   },
   {
     "id": 876,
     "character": "勺",
     "pinyin": "sháo",
     "meaningEn": "spoon",
-    "meaningRu": ""
+    "meaningRu": "ложка"
   },
   {
     "id": 877,
     "character": "档",
     "pinyin": "dàng",
     "meaningEn": "file; grade",
-    "meaningRu": ""
+    "meaningRu": "файл"
   },
   {
     "id": 878,
     "character": "界",
     "pinyin": "jiè",
     "meaningEn": "boundary; world (of a field)",
-    "meaningRu": ""
+    "meaningRu": "граница"
   },
   {
     "id": 879,
     "character": "理",
     "pinyin": "lǐ",
     "meaningEn": "reason; to manage (bound form)",
-    "meaningRu": ""
+    "meaningRu": "причина"
   },
   {
     "id": 880,
     "character": "利",
     "pinyin": "lì",
     "meaningEn": "benefit; sharp (bound form)",
-    "meaningRu": ""
+    "meaningRu": "выгода"
   },
   {
     "id": 881,
     "character": "形",
     "pinyin": "xíng",
     "meaningEn": "shape; form (bound form)",
-    "meaningRu": ""
+    "meaningRu": "форма"
   },
   {
     "id": 882,
     "character": "样",
     "pinyin": "yàng",
     "meaningEn": "manner; kind (bound form)",
-    "meaningRu": ""
+    "meaningRu": "манера"
   },
   {
     "id": 883,
     "character": "挨",
     "pinyin": "ái",
     "meaningEn": "to endure; to suffer",
-    "meaningRu": ""
+    "meaningRu": "терпеть"
   },
   {
     "id": 884,
     "character": "爆",
     "pinyin": "bào",
     "meaningEn": "to explode (bound form)",
-    "meaningRu": ""
+    "meaningRu": "взорваться"
   },
   {
     "id": 885,
     "character": "闭",
     "pinyin": "bì",
     "meaningEn": "to close",
-    "meaningRu": ""
+    "meaningRu": "закрыть"
   },
   {
     "id": 886,
     "character": "踩",
     "pinyin": "cǎi",
     "meaningEn": "to step on",
-    "meaningRu": ""
+    "meaningRu": "наступать"
   },
   {
     "id": 887,
     "character": "藏",
     "pinyin": "cáng",
     "meaningEn": "to hide",
-    "meaningRu": ""
+    "meaningRu": "спрятать"
   },
   {
     "id": 888,
     "character": "超",
     "pinyin": "chāo",
     "meaningEn": "to exceed; super-",
-    "meaningRu": ""
+    "meaningRu": "превышать"
   },
   {
     "id": 889,
     "character": "撑",
     "pinyin": "chēng",
     "meaningEn": "to prop up; to support",
-    "meaningRu": ""
+    "meaningRu": "чтобы поддержать"
   },
   {
     "id": 890,
     "character": "搭",
     "pinyin": "dā",
     "meaningEn": "to build; to take (transport)",
-    "meaningRu": ""
+    "meaningRu": "строить"
   },
   {
     "id": 891,
     "character": "吊",
     "pinyin": "diào",
     "meaningEn": "to hang; to suspend",
-    "meaningRu": ""
+    "meaningRu": "повесить"
   },
   {
     "id": 892,
     "character": "渡",
     "pinyin": "dù",
     "meaningEn": "to cross (a river)",
-    "meaningRu": ""
+    "meaningRu": "пересекать"
   },
   {
     "id": 893,
     "character": "端",
     "pinyin": "duān",
     "meaningEn": "end; to carry (level)",
-    "meaningRu": ""
+    "meaningRu": "конец"
   },
   {
     "id": 894,
     "character": "蹲",
     "pinyin": "dūn",
     "meaningEn": "to squat",
-    "meaningRu": ""
+    "meaningRu": "приседать"
   },
   {
     "id": 895,
     "character": "夺",
     "pinyin": "duó",
     "meaningEn": "to seize",
-    "meaningRu": ""
+    "meaningRu": "захватить"
   },
   {
     "id": 896,
     "character": "浮",
     "pinyin": "fú",
     "meaningEn": "to float",
-    "meaningRu": ""
+    "meaningRu": "плавать"
   },
   {
     "id": 897,
     "character": "拐",
     "pinyin": "guǎi",
     "meaningEn": "to turn (direction)",
-    "meaningRu": ""
+    "meaningRu": "поворачивать"
   },
   {
     "id": 898,
     "character": "跪",
     "pinyin": "guì",
     "meaningEn": "to kneel",
-    "meaningRu": ""
+    "meaningRu": "встать на колени"
   },
   {
     "id": 899,
     "character": "毁",
     "pinyin": "huǐ",
     "meaningEn": "to destroy",
-    "meaningRu": ""
+    "meaningRu": "уничтожить"
   },
   {
     "id": 900,
     "character": "混",
     "pinyin": "hùn",
     "meaningEn": "to mix; to muddle along",
-    "meaningRu": ""
+    "meaningRu": "смешивать"
   },
   {
     "id": 901,
     "character": "捡",
     "pinyin": "jiǎn",
     "meaningEn": "to pick up",
-    "meaningRu": ""
+    "meaningRu": "забрать"
   },
   {
     "id": 902,
     "character": "揭",
     "pinyin": "jiē",
     "meaningEn": "to lift; to expose",
-    "meaningRu": ""
+    "meaningRu": "поднять"
   },
   {
     "id": 903,
     "character": "跨",
     "pinyin": "kuà",
     "meaningEn": "to step across",
-    "meaningRu": ""
+    "meaningRu": "переступить через"
   },
   {
     "id": 904,
     "character": "裂",
     "pinyin": "liè",
     "meaningEn": "to split; crack",
-    "meaningRu": ""
+    "meaningRu": "разделить"
   },
   {
     "id": 905,
     "character": "露",
     "pinyin": "lù",
     "meaningEn": "to reveal; to expose",
-    "meaningRu": ""
+    "meaningRu": "раскрыть"
   },
   {
     "id": 906,
     "character": "埋",
     "pinyin": "mái",
     "meaningEn": "to bury",
-    "meaningRu": ""
+    "meaningRu": "похоронить"
   },
   {
     "id": 907,
     "character": "灭",
     "pinyin": "miè",
     "meaningEn": "to extinguish",
-    "meaningRu": ""
+    "meaningRu": "потушить"
   },
   {
     "id": 908,
     "character": "磨",
     "pinyin": "mó",
     "meaningEn": "to grind; to wear down",
-    "meaningRu": ""
+    "meaningRu": "измельчать"
   },
   {
     "id": 909,
     "character": "扭",
     "pinyin": "niǔ",
     "meaningEn": "to twist",
-    "meaningRu": ""
+    "meaningRu": "крутить"
   },
   {
     "id": 910,
     "character": "扑",
     "pinyin": "pū",
     "meaningEn": "to pounce; to throw oneself at",
-    "meaningRu": ""
+    "meaningRu": "наброситься"
   },
   {
     "id": 911,
     "character": "铺",
     "pinyin": "pū",
     "meaningEn": "to spread out; to pave",
-    "meaningRu": ""
+    "meaningRu": "разложить"
   },
   {
     "id": 912,
     "character": "牵",
     "pinyin": "qiān",
     "meaningEn": "to lead (by hand/rope)",
-    "meaningRu": ""
+    "meaningRu": "вести"
   },
   {
     "id": 913,
     "character": "入",
     "pinyin": "rù",
     "meaningEn": "to enter (bound form)",
-    "meaningRu": ""
+    "meaningRu": "войти"
   },
   {
     "id": 914,
     "character": "塞",
     "pinyin": "sāi",
     "meaningEn": "to stuff; to squeeze in",
-    "meaningRu": ""
+    "meaningRu": "набить"
   },
   {
     "id": 915,
     "character": "踏",
     "pinyin": "tà",
     "meaningEn": "to step on",
-    "meaningRu": ""
+    "meaningRu": "наступать"
   },
   {
     "id": 916,
     "character": "掏",
     "pinyin": "tāo",
     "meaningEn": "to take out (from pocket)",
-    "meaningRu": ""
+    "meaningRu": "вынуть"
   },
   {
     "id": 917,
     "character": "添",
     "pinyin": "tiān",
     "meaningEn": "to add",
-    "meaningRu": ""
+    "meaningRu": "добавить"
   },
   {
     "id": 918,
     "character": "吞",
     "pinyin": "tūn",
     "meaningEn": "to swallow",
-    "meaningRu": ""
+    "meaningRu": "проглотить"
   },
   {
     "id": 919,
     "character": "托",
     "pinyin": "tuō",
     "meaningEn": "to hold up; to entrust",
-    "meaningRu": ""
+    "meaningRu": "задержать"
   },
   {
     "id": 920,
     "character": "拖",
     "pinyin": "tuō",
     "meaningEn": "to drag",
-    "meaningRu": ""
+    "meaningRu": "тащить"
   },
   {
     "id": 921,
     "character": "挖",
     "pinyin": "wā",
     "meaningEn": "to dig",
-    "meaningRu": ""
+    "meaningRu": "копать"
   },
   {
     "id": 922,
     "character": "悬",
     "pinyin": "xuán",
     "meaningEn": "to hang; unresolved",
-    "meaningRu": ""
+    "meaningRu": "повесить"
   },
   {
     "id": 923,
     "character": "仰",
     "pinyin": "yǎng",
     "meaningEn": "to look up",
-    "meaningRu": ""
+    "meaningRu": "посмотреть вверх"
   },
   {
     "id": 924,
     "character": "逼",
     "pinyin": "bī",
     "meaningEn": "to force",
-    "meaningRu": ""
+    "meaningRu": "заставить"
   },
   {
     "id": 925,
     "character": "赌",
     "pinyin": "dǔ",
     "meaningEn": "to gamble",
-    "meaningRu": ""
+    "meaningRu": "играть в азартные игры"
   },
   {
     "id": 926,
     "character": "顾",
     "pinyin": "gù",
     "meaningEn": "to look after; to attend to",
-    "meaningRu": ""
+    "meaningRu": "присматривать за"
   },
   {
     "id": 927,
     "character": "护",
     "pinyin": "hù",
     "meaningEn": "to protect (bound form)",
-    "meaningRu": ""
+    "meaningRu": "защищать"
   },
   {
     "id": 928,
     "character": "解",
     "pinyin": "jiě",
     "meaningEn": "to untie; to solve (bound form)",
-    "meaningRu": ""
+    "meaningRu": "развязать"
   },
   {
     "id": 929,
     "character": "赖",
     "pinyin": "lài",
     "meaningEn": "to depend on; to blame",
-    "meaningRu": ""
+    "meaningRu": "зависеть от"
   },
   {
     "id": 930,
     "character": "聊",
     "pinyin": "liáo",
     "meaningEn": "to chat",
-    "meaningRu": ""
+    "meaningRu": "поболтать"
   },
   {
     "id": 931,
     "character": "蒙",
     "pinyin": "mēng",
     "meaningEn": "to deceive; to cover",
-    "meaningRu": ""
+    "meaningRu": "обмануть"
   },
   {
     "id": 932,
     "character": "评",
     "pinyin": "píng",
     "meaningEn": "to comment; to judge (bound form)",
-    "meaningRu": ""
+    "meaningRu": "комментировать"
   },
   {
     "id": 933,
     "character": "识",
     "pinyin": "shí",
     "meaningEn": "to know; to recognize (bound form)",
-    "meaningRu": ""
+    "meaningRu": "знать"
   },
   {
     "id": 934,
     "character": "炒",
     "pinyin": "chǎo",
     "meaningEn": "to stir-fry",
-    "meaningRu": ""
+    "meaningRu": "жарить"
   },
   {
     "id": 935,
     "character": "泡",
     "pinyin": "pào",
     "meaningEn": "to soak; bubble",
-    "meaningRu": ""
+    "meaningRu": "впитывать"
   },
   {
     "id": 936,
     "character": "扁",
     "pinyin": "biǎn",
     "meaningEn": "flat",
-    "meaningRu": ""
+    "meaningRu": "плоский"
   },
   {
     "id": 937,
     "character": "狠",
     "pinyin": "hěn",
     "meaningEn": "ruthless; harsh",
-    "meaningRu": ""
+    "meaningRu": "безжалостный"
   },
   {
     "id": 938,
     "character": "横",
     "pinyin": "héng",
     "meaningEn": "horizontal",
-    "meaningRu": ""
+    "meaningRu": "горизонтальный"
   },
   {
     "id": 939,
     "character": "尖",
     "pinyin": "jiān",
     "meaningEn": "sharp; pointed",
-    "meaningRu": ""
+    "meaningRu": "острый"
   },
   {
     "id": 940,
     "character": "精",
     "pinyin": "jīng",
     "meaningEn": "refined; essence",
-    "meaningRu": ""
+    "meaningRu": "изысканный"
   },
   {
     "id": 941,
     "character": "净",
     "pinyin": "jìng",
     "meaningEn": "clean; net (income)",
-    "meaningRu": ""
+    "meaningRu": "чистый"
   },
   {
     "id": 942,
     "character": "酷",
     "pinyin": "kù",
     "meaningEn": "cool; cruel",
-    "meaningRu": ""
+    "meaningRu": "прохладный"
   },
   {
     "id": 943,
     "character": "阔",
     "pinyin": "kuò",
     "meaningEn": "wide; broad",
-    "meaningRu": ""
+    "meaningRu": "широкий"
   },
   {
     "id": 944,
     "character": "懒",
     "pinyin": "lǎn",
     "meaningEn": "lazy",
-    "meaningRu": ""
+    "meaningRu": "ленивый"
   },
   {
     "id": 945,
     "character": "牢",
     "pinyin": "láo",
     "meaningEn": "prison; firm",
-    "meaningRu": ""
+    "meaningRu": "тюрьма"
   },
   {
     "id": 946,
     "character": "猛",
     "pinyin": "měng",
     "meaningEn": "fierce; suddenly",
-    "meaningRu": ""
+    "meaningRu": "яростный"
   },
   {
     "id": 947,
     "character": "妙",
     "pinyin": "miào",
     "meaningEn": "wonderful; clever",
-    "meaningRu": ""
+    "meaningRu": "замечательный"
   },
   {
     "id": 948,
     "character": "清",
     "pinyin": "qīng",
     "meaningEn": "clear (bound form)",
-    "meaningRu": ""
+    "meaningRu": "прозрачный"
   },
   {
     "id": 949,
     "character": "爽",
     "pinyin": "shuǎng",
     "meaningEn": "refreshing; frank",
-    "meaningRu": ""
+    "meaningRu": "освежающий"
   },
   {
     "id": 950,
     "character": "顺",
     "pinyin": "shùn",
     "meaningEn": "along; smooth (bound form)",
-    "meaningRu": ""
+    "meaningRu": "вдоль"
   },
   {
     "id": 951,
     "character": "凶",
     "pinyin": "xiōng",
     "meaningEn": "fierce; ominous",
-    "meaningRu": ""
+    "meaningRu": "яростный"
   },
   {
     "id": 952,
     "character": "便",
     "pinyin": "biàn",
     "meaningEn": "convenient; then",
-    "meaningRu": ""
+    "meaningRu": "удобный"
   },
   {
     "id": 953,
     "character": "服",
     "pinyin": "fú",
     "meaningEn": "clothing; to obey (bound form)",
-    "meaningRu": ""
+    "meaningRu": "одежда"
   },
   {
     "id": 954,
     "character": "负",
     "pinyin": "fù",
     "meaningEn": "negative; to bear (responsibility)",
-    "meaningRu": ""
+    "meaningRu": "отрицательный"
   },
   {
     "id": 955,
     "character": "公",
     "pinyin": "gōng",
     "meaningEn": "public; male (animal)",
-    "meaningRu": ""
+    "meaningRu": "общественный"
   },
   {
     "id": 956,
     "character": "尽",
     "pinyin": "jǐn",
     "meaningEn": "as much as possible (bound form)",
-    "meaningRu": ""
+    "meaningRu": "как можно больше"
   },
   {
     "id": 957,
     "character": "绝",
     "pinyin": "jué",
     "meaningEn": "absolutely; to cut off",
-    "meaningRu": ""
+    "meaningRu": "абсолютно"
   },
   {
     "id": 958,
     "character": "肯",
     "pinyin": "kěn",
     "meaningEn": "to be willing to (bound form)",
-    "meaningRu": ""
+    "meaningRu": "быть готовым"
   },
   {
     "id": 959,
     "character": "啦",
     "pinyin": "la",
     "meaningEn": "(particle, combination of 了 and 啊)",
-    "meaningRu": ""
+    "meaningRu": "(частица"
   },
   {
     "id": 960,
     "character": "料",
     "pinyin": "liào",
     "meaningEn": "material; to expect (bound form)",
-    "meaningRu": ""
+    "meaningRu": "материал"
   },
   {
     "id": 961,
     "character": "另",
     "pinyin": "lìng",
     "meaningEn": "another; separately",
-    "meaningRu": ""
+    "meaningRu": "другой"
   },
   {
     "id": 962,
     "character": "嘛",
     "pinyin": "ma",
     "meaningEn": "(particle, indicates obviousness)",
-    "meaningRu": ""
+    "meaningRu": "(частица"
   },
   {
     "id": 963,
     "character": "偏",
     "pinyin": "piān",
     "meaningEn": "to lean towards; stubbornly",
-    "meaningRu": ""
+    "meaningRu": "склоняться к"
   },
   {
     "id": 964,
     "character": "特",
     "pinyin": "tè",
     "meaningEn": "especially (bound form)",
-    "meaningRu": ""
+    "meaningRu": "особенно"
   },
   {
     "id": 965,
     "character": "同",
     "pinyin": "tóng",
     "meaningEn": "same (bound form)",
-    "meaningRu": ""
+    "meaningRu": "такой же"
   },
   {
     "id": 966,
@@ -6773,161 +6773,161 @@
     "character": "误",
     "pinyin": "wù",
     "meaningEn": "mistake; to miss (bound form)",
-    "meaningRu": ""
+    "meaningRu": "ошибка"
   },
   {
     "id": 968,
     "character": "除",
     "pinyin": "chú",
     "meaningEn": "except; to remove",
-    "meaningRu": ""
+    "meaningRu": "кроме"
   },
   {
     "id": 969,
     "character": "据",
     "pinyin": "jù",
     "meaningEn": "according to",
-    "meaningRu": ""
+    "meaningRu": "в соответствии с"
   },
   {
     "id": 970,
     "character": "如",
     "pinyin": "rú",
     "meaningEn": "like; as if",
-    "meaningRu": ""
+    "meaningRu": "нравиться"
   },
   {
     "id": 971,
     "character": "若",
     "pinyin": "ruò",
     "meaningEn": "if (formal)",
-    "meaningRu": ""
+    "meaningRu": "если"
   },
   {
     "id": 972,
     "character": "虽",
     "pinyin": "suī",
     "meaningEn": "though (formal)",
-    "meaningRu": ""
+    "meaningRu": "хотя"
   },
   {
     "id": 973,
     "character": "因",
     "pinyin": "yīn",
     "meaningEn": "because (bound form)",
-    "meaningRu": ""
+    "meaningRu": "потому что"
   },
   {
     "id": 974,
     "character": "于",
     "pinyin": "yú",
     "meaningEn": "at; in (formal preposition)",
-    "meaningRu": ""
+    "meaningRu": "в"
   },
   {
     "id": 975,
     "character": "与",
     "pinyin": "yǔ",
     "meaningEn": "and; with (formal)",
-    "meaningRu": ""
+    "meaningRu": "и"
   },
   {
     "id": 976,
     "character": "刮",
     "pinyin": "guā",
     "meaningEn": "to blow (wind); to scrape",
-    "meaningRu": ""
+    "meaningRu": "взорвать"
   },
   {
     "id": 977,
     "character": "肺",
     "pinyin": "fèi",
     "meaningEn": "lung",
-    "meaningRu": ""
+    "meaningRu": "легкое"
   },
   {
     "id": 978,
     "character": "肝",
     "pinyin": "gān",
     "meaningEn": "liver",
-    "meaningRu": ""
+    "meaningRu": "печень"
   },
   {
     "id": 979,
     "character": "昏",
     "pinyin": "hūn",
     "meaningEn": "dizzy; dusk",
-    "meaningRu": ""
+    "meaningRu": "испытывающий головокружение"
   },
   {
     "id": 980,
     "character": "赛",
     "pinyin": "sài",
     "meaningEn": "competition (bound form)",
-    "meaningRu": ""
+    "meaningRu": "соревнование"
   },
   {
     "id": 981,
     "character": "踢",
     "pinyin": "tī",
     "meaningEn": "to kick",
-    "meaningRu": ""
+    "meaningRu": "пнуть"
   },
   {
     "id": 982,
     "character": "捐",
     "pinyin": "juān",
     "meaningEn": "to donate",
-    "meaningRu": ""
+    "meaningRu": "пожертвовать"
   },
   {
     "id": 983,
     "character": "跌",
     "pinyin": "diē",
     "meaningEn": "to fall; to drop (prices)",
-    "meaningRu": ""
+    "meaningRu": "падать"
   },
   {
     "id": 984,
     "character": "股",
     "pinyin": "gǔ",
     "meaningEn": "share (stock); measure word for gusts",
-    "meaningRu": ""
+    "meaningRu": "делиться"
   },
   {
     "id": 985,
     "character": "扣",
     "pinyin": "kòu",
     "meaningEn": "to deduct; button",
-    "meaningRu": ""
+    "meaningRu": "вычитать"
   },
   {
     "id": 986,
     "character": "券",
     "pinyin": "quàn",
     "meaningEn": "coupon; ticket",
-    "meaningRu": ""
+    "meaningRu": "купон"
   },
   {
     "id": 987,
     "character": "税",
     "pinyin": "shuì",
     "meaningEn": "tax",
-    "meaningRu": ""
+    "meaningRu": "налог"
   },
   {
     "id": 988,
     "character": "险",
     "pinyin": "xiǎn",
     "meaningEn": "danger (bound form)",
-    "meaningRu": ""
+    "meaningRu": "Опасность"
   },
   {
     "id": 989,
     "character": "惨",
     "pinyin": "cǎn",
     "meaningEn": "miserable; tragic",
-    "meaningRu": ""
+    "meaningRu": "убогий"
   },
   {
     "id": 990,
@@ -6948,14 +6948,14 @@
     "character": "嫌",
     "pinyin": "xián",
     "meaningEn": "to dislike; to mind",
-    "meaningRu": ""
+    "meaningRu": "не любить"
   },
   {
     "id": 993,
     "character": "播",
     "pinyin": "bō",
     "meaningEn": "to broadcast",
-    "meaningRu": ""
+    "meaningRu": "транслировать"
   },
   {
     "id": 994,
@@ -6976,14 +6976,14 @@
     "character": "集",
     "pinyin": "jí",
     "meaningEn": "to gather; volume (of a series)",
-    "meaningRu": ""
+    "meaningRu": "собрать"
   },
   {
     "id": 997,
     "character": "剧",
     "pinyin": "jù",
     "meaningEn": "drama",
-    "meaningRu": ""
+    "meaningRu": "драма"
   },
   {
     "id": 998,
@@ -6997,14 +6997,14 @@
     "character": "寺",
     "pinyin": "sì",
     "meaningEn": "temple",
-    "meaningRu": ""
+    "meaningRu": "храм"
   },
   {
     "id": 1000,
     "character": "印",
     "pinyin": "yìn",
     "meaningEn": "to print; seal",
-    "meaningRu": ""
+    "meaningRu": "распечатать"
   },
   {
     "id": 1001,
@@ -7018,7 +7018,7 @@
     "character": "井",
     "pinyin": "jǐng",
     "meaningEn": "well (water)",
-    "meaningRu": ""
+    "meaningRu": "хорошо"
   },
   {
     "id": 1003,
@@ -7046,76 +7046,76 @@
     "character": "坡",
     "pinyin": "pō",
     "meaningEn": "slope",
-    "meaningRu": ""
+    "meaningRu": "склон"
   },
   {
     "id": 1007,
     "character": "田",
     "pinyin": "tián",
     "meaningEn": "field (farmland)",
-    "meaningRu": ""
+    "meaningRu": "поле"
   },
   {
     "id": 1008,
     "character": "洋",
     "pinyin": "yáng",
     "meaningEn": "ocean (bound form)",
-    "meaningRu": ""
+    "meaningRu": "океан"
   },
   {
     "id": 1009,
     "character": "野",
     "pinyin": "yě",
     "meaningEn": "wild (bound form)",
-    "meaningRu": ""
+    "meaningRu": "дикий"
   },
   {
     "id": 1010,
     "character": "膜",
     "pinyin": "mó",
     "meaningEn": "membrane; film",
-    "meaningRu": ""
+    "meaningRu": "мембрана"
   },
   {
     "id": 1011,
     "character": "捕",
     "pinyin": "bǔ",
     "meaningEn": "to catch; to arrest",
-    "meaningRu": ""
+    "meaningRu": "поймать"
   },
   {
     "id": 1012,
     "character": "党",
     "pinyin": "dǎng",
     "meaningEn": "(political) party",
-    "meaningRu": ""
+    "meaningRu": "вечеринка"
   },
   {
     "id": 1013,
     "character": "犯",
     "pinyin": "fàn",
     "meaningEn": "to commit (a crime); criminal",
-    "meaningRu": ""
+    "meaningRu": "совершить"
   },
   {
     "id": 1014,
     "character": "判",
     "pinyin": "pàn",
     "meaningEn": "to judge; to sentence",
-    "meaningRu": ""
+    "meaningRu": "судить"
   },
   {
     "id": 1015,
     "character": "炮",
     "pinyin": "pào",
     "meaningEn": "cannon",
-    "meaningRu": ""
+    "meaningRu": "пушка"
   },
   {
     "id": 1016,
     "character": "权",
     "pinyin": "quán",
     "meaningEn": "power; right (bound form)",
-    "meaningRu": ""
+    "meaningRu": "власть"
   }
 ]
